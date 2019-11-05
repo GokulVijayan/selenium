@@ -1,0 +1,53 @@
+{
+  "TestReportSteps": [
+
+    {
+      "testObjective": "Verify that a crash records can be validated from batch operation screen",
+      "stepName": "1",
+      "stepDescription": "Click on filter button.",
+      "expectedResult": "User is to click on filter icon",
+      "actualResultPass": "User was able to click filter icon.",
+      "actualResultFail": "User was not able to click filter icon."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Enter crash ref no.",
+      "expectedResult": "User is able to enter crash ref no.",
+      "actualResultPass": "User was able to enter crash ref no.",
+      "actualResultFail": "User was not able to crash ref no."
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Click on search button.",
+      "expectedResult": "User is able to click on search button.",
+      "actualResultPass": "User was able to click on search button.",
+      "actualResultFail": "User was not able to click on search button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "4",
+      "stepDescription": "Select the checkbox against the crash record.",
+      "expectedResult": "User is able to select the checkbox.",
+      "actualResultPass": "User was able to select the checkbox.",
+      "actualResultFail": "User was not able to select the checkbox."
+    },
+    {
+      "testObjective": "",
+      "stepName": "5",
+      "stepDescription": "Click validate button.",
+      "expectedResult": "User is able to click validate button.",
+      "actualResultPass": "User was able to click validate button.",
+      "actualResultFail": "User was not able to click validate button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "6",
+      "stepDescription": "Verify the number of valid records.",
+      "expectedResult": "User is able to verify the number of valid records.",
+      "actualResultPass": "User was able to verify the number of valid records.",
+      "actualResultFail": "User was not able to verify the number of valid records."
+    }
+  ]
+}

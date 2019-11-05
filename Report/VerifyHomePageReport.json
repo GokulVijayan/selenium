@@ -1,0 +1,12 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to navigate to home page.",
+      "stepName": "1",
+      "stepDescription": "Verify home icon.Capture screenshot.",
+      "expectedResult": "User is able to verify home icon.",
+      "actualResultPass": "User was able to verify home icon.",
+      "actualResultFail": "User was not able to verify home icon."
+    }
+  ]
+}

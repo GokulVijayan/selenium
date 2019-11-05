@@ -1,0 +1,38 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify the user is able to search for a crash record",
+      "stepName": "1",
+      "stepDescription": "Click Search Button.Capture screenshot",
+      "expectedResult": "User is able to click Search Button",
+      "actualResultPass": "User was able to click Search Button",
+      "actualResultFail": "User was not able to click Search Button"
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Enter Crash Ref. No in the seach box.",
+      "expectedResult": "User is able to enter Crash Ref. No in the seach box",
+      "actualResultPass": "User was able to enter Crash Ref. No in the seach box",
+      "actualResultFail": "User was not able to enter Crash Ref. No in the seach box"
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Click Search Icon.Capture screenshot",
+      "expectedResult": "User is able to click Search Icon",
+      "actualResultPass": "User was able to click Search Icon",
+      "actualResultFail": "User was not able to click Search Icon"
+    },
+    {
+      "testObjective": "",
+      "stepName": "4",
+      "stepDescription": "Click OK button",
+      "expectedResult": "User is able to click OK button",
+      "actualResultPass": "User was able to click OK button",
+      "actualResultFail": "User was not able to click OK button"
+    }
+
+
+  ]
+}

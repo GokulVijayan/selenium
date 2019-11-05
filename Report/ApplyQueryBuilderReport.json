@@ -1,0 +1,21 @@
+{
+  "TestReportSteps": [
+
+    {
+      "testObjective": "Verify that user is able to apply an query.",
+      "stepName": "1",
+      "stepDescription": "Click on Apply Query Button.Capture screenshot.",
+      "expectedResult": "User is able to click on apply query button.",
+      "actualResultPass": "User was able to click on apply query button.",
+      "actualResultFail": "User was not able to click on apply query button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Verify Query has been applied.Capture screenshot.",
+      "expectedResult": "User is able to verify that query has been applied.",
+      "actualResultPass": "User was able to verify that query has been applied.",
+      "actualResultFail": "User was not able to verify that query has been applied."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "To verify calculating crash cost.",
+      "stepName": "1",
+      "stepDescription": "Invoke the API api/calculatecrashcost.",
+      "expectedResult": "User is able  to verify crash cost.",
+      "actualResultPass": "User was able to verify crash cost.",
+      "actualResultFail": "User was not able to verify crash cost."
+    }
+  ]
+}

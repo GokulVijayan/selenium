@@ -1,0 +1,12 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "To verify that user is able to configure Ksi definition.",
+      "stepName": "1",
+      "stepDescription": "Invoke the Ksi definition API /api/ksidefinitions. Verify that Ksi definition can be configured.",
+      "expectedResult": "User is able to verify Ksi configuration.",
+      "actualResultPass": "User was able to verify Ksi configuration.",
+      "actualResultFail": "User was not able to verify Ksi configuration."
+    }
+  ]
+}

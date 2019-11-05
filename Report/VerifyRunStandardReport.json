@@ -1,0 +1,12 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to click on run Standard Report.",
+      "stepName": "1",
+      "stepDescription": "Verify user is able to click on run button in Standard Report.Capture screenshot.",
+      "expectedResult": "User is able to click on run button in Standard Report.",
+      "actualResultPass": "User was able to click on run button in Standard Report.",
+      "actualResultFail": "User was not able to click on run button in Standard Report."
+    }
+  ]
+}

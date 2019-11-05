@@ -1,0 +1,12 @@
+{
+	"TestReportSteps": [
+    {
+      "testObjective": "To verify that the security camera analysis API is working as expected.",
+      "stepName": "1",
+      "stepDescription": "Invoke the Security Camera Analysis API api/safetycameraanalysis. ",
+      "expectedResult": "The Report is displayed.",
+      "actualResultPass": "The Report was displayed.",
+      "actualResultFail": "The Report was not displayed."
+    }
+	]
+}

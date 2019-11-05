@@ -1,0 +1,28 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to select fields from stick analysis page.",
+      "stepName": "1",
+      "stepDescription": "Click on crash Tab.",
+      "expectedResult": "User is able to click on crash tab.",
+      "actualResultPass": "User was able to click on crash tab.",
+      "actualResultFail": "User was not able to click on crash tab."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Select Crash Reference Number field.",
+      "expectedResult": "User is able to select crash reference number field.",
+      "actualResultPass": "User was able to select crash reference number field.",
+      "actualResultFail": "User was not able to select crash reference number field."
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Verify Crash Reference Number field.Capture screenshot",
+      "expectedResult": "User is able to view crash reference number field.",
+      "actualResultPass": "User was able to view crash reference number field.",
+      "actualResultFail": "User was not able to view crash reference number field."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to navigate to CBA Configuration page.",
+      "stepName": "1",
+      "stepDescription": "Verify user is navigated to CBA Configuration page.Capture screenshot.",
+      "expectedResult": "User is able to verify CBA Configuration page.",
+      "actualResultPass": "User was able to verify CBA Configuration page .",
+      "actualResultFail": "User was not able to verify CBA Configuration page ."
+    }
+  ]
+}
+

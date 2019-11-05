@@ -1,0 +1,4841 @@
+{
+  "TestData": [
+    {
+      "appliedQuery": "Applied query",
+      "baseYear": "2010",
+      "buildQuery": "Build Query",
+      "counterMeasureCategory": "Test CounterMeasure",
+      "counterMeasureName": "Test CounterMeasureDetails",
+      "crashCostYear": "2019",
+      "crashFieldSelector": "Crash Ref. No",
+      "crashReferenceNumber": "crashReferenceNumber",
+      "damageCost": "1",
+      "damageOnly": "1",
+      "defaultAnnualMaintenanceCost": "5",
+      "defaultEffectivness": "30",
+      "discountFactor": "3.5",
+      "drivingPosition": "drivingPosition",
+      "fatalCost": "1",
+      "gdpDeflatorValue": "1",
+      "ksi": "21",
+      "ksiAverageSpeed": "21",
+      "ksiMobile": "21",
+      "ksiRedLight": "20",
+      "lengthMax": "100",
+      "lengthMaxAverageSpeed": "10000",
+      "lengthMaxMobile": "100",
+      "lengthMin": "10",
+      "lengthMinAverageSpeed": "100",
+      "lengthMinMobile": "10",
+      "majorJunction": "13",
+      "minorJunction": "6",
+      "numberOfAnalysisYear": "20",
+      "password": "Trl@123456",
+      "pic": "0",
+      "picAverageSpeed": "0",
+      "picMobile": "0",
+      "realGdpGrowth": "3.4",
+      "rural": "6",
+      "ruralAverageSpeed": "5",
+      "ruralMobile": "6",
+      "seriousCost": "1",
+      "slightCost": "1",
+      "source": "TRL",
+      "urban": "21",
+      "urbanAverageSpeed": "16",
+      "urbanMobile": "15",
+      "possibleCause": "Test Cause",
+      "possibleCasuseDescription": "Animal in Road",
+      "crashType": "HEAD ON COLLISION",
+      "username": "ReshmaPradeep",
+      "verifyCbaToastMessage": "The record was saved successfully.",
+      "verifyCounterMeasureDeleteToastMessage": "The record was deleted.",
+      "verifyCounterMeasureDetailsSaveToastMessage": "The record was saved successfully.",
+      "verifyCounterMeasureSaveToastMessage": "The record was saved successfully.",
+      "verifyLinkingDeleteToastMessage": "The record was deleted.",
+      "verifyLinkingSaveToastMessage": "The record was saved successfully.",
+      "verifyLogoutText": "Logout You are now logged out.",
+      "verifyPossibleCauseSaveToastMessage": "The record was saved successfully.",
+      "verifyScaToastMessage": "Camera criteria updated successfully.",
+      "applicableArea": "All",
+      "estimatedConstructionCost": "2250",
+      "impactedCrashSeverity": "Select All",
+      "unitOfMeasure": "Per Km",
+      "knownMaintenanceCost": "2250",
+      "applicableControlType": "No Signal",
+      "treatmentLifeTime": "10",
+      "applicableTreatmentType": "Road",
+      "estimatedEffectivness": "10"
+    }
+  ],
+  "APICrashTestData": [
+    {
+      "canValidateAll": false,
+      "isConfirmed": null,
+      "crash": {
+        "id": -166,
+        "isRemoved": false,
+        "fieldValues": [
+          {
+            "formFieldId": 1,
+            "value": "1569369600",
+            "originalFieldValue": "2019-09-24T21:00:00.000Z"
+          },
+          {
+            "formFieldId": 2,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 3,
+            "value": "-2.26094237892622",
+            "originalFieldValue": "-2.26094237892622"
+          },
+          {
+            "formFieldId": 4,
+            "value": "53.4711213738196",
+            "originalFieldValue": "53.4711213738196"
+          },
+          {
+            "formFieldId": 5,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 6,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 7,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 8,
+            "value": "",
+            "originalFieldValue": []
+          },
+          {
+            "formFieldId": 9,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 10,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 11,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 12,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 13,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 14,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 15,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 16,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 17,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 18,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 19,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 20,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 21,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 22,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 23,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 24,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 25,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 26,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 27,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 28,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 29,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 30,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 31,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 32,
+            "value": "",
+            "originalFieldValue": []
+          },
+          {
+            "formFieldId": 33,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 34,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 35,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 36,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 37,
+            "value": "1617",
+            "originalFieldValue": 1617
+          },
+          {
+            "formFieldId": 38,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 40,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 41,
+            "value": "1",
+            "originalFieldValue": 1
+          },
+          {
+            "formFieldId": 42,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 43,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 44,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 45,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 46,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 47,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 48,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 49,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 50,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 51,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 52,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 53,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 54,
+            "value": null,
+            "originalFieldValue": "0000"
+          },
+          {
+            "formFieldId": 55,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 56,
+            "value": null,
+            "originalFieldValue": "0000"
+          },
+          {
+            "formFieldId": 57,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 58,
+            "value": null,
+            "originalFieldValue": "0000"
+          },
+          {
+            "formFieldId": 59,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 60,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 61,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 62,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 63,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 64,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 65,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 66,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 67,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 68,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 69,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 70,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 71,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 72,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 73,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 74,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 75,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 76,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 77,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 78,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 79,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 80,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 81,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 82,
+            "value": null,
+            "originalFieldValue": null
+          }
+        ]
+      },
+      "vehicles": [
+        {
+          "id": -43,
+          "isRemoved": false,
+          "fieldValues": [
+            {
+              "formFieldId": 84,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 85,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 86,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 87,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 88,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 89,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 90,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 91,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 92,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 93,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 94,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 95,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 96,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 97,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 98,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 101,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 102,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 103,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 104,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 105,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 106,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 107,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 108,
+              "value": "1",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 110,
+              "value": "",
+              "originalFieldValue": null
+            }
+          ]
+        }
+      ],
+      "casualties": []
+    },
+    {
+      "canValidateAll": false,
+      "isConfirmed": null,
+      "rowVersion": 1569491623,
+      "crash": {
+        "id": -337,
+        "isRemoved": false,
+        "fieldValues": [
+          {
+            "formFieldId": 1,
+            "value": "1568764800",
+            "originalFieldValue": "2019-09-17T18:30:00.000Z"
+          },
+          {
+            "formFieldId": 2,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 3,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 4,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 5,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 6,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 7,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 8,
+            "value": null,
+            "originalFieldValue": []
+          },
+          {
+            "formFieldId": 9,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 10,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 11,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 12,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 13,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 14,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 15,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 16,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 17,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 18,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 19,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 20,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 21,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 22,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 23,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 24,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 25,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 26,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 27,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 28,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 29,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 30,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 31,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 32,
+            "value": null,
+            "originalFieldValue": []
+          },
+          {
+            "formFieldId": 33,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 34,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 35,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 36,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 37,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 38,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 40,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 41,
+            "value": "1",
+            "originalFieldValue": 1
+          },
+          {
+            "formFieldId": 42,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 43,
+            "value": "Mathew",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 44,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 45,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 46,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 47,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 48,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 49,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 50,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 51,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 52,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 53,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 54,
+            "value": null,
+            "originalFieldValue": "0000"
+          },
+          {
+            "formFieldId": 55,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 56,
+            "value": null,
+            "originalFieldValue": "0000"
+          },
+          {
+            "formFieldId": 57,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 58,
+            "value": null,
+            "originalFieldValue": "0000"
+          },
+          {
+            "formFieldId": 59,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 60,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 61,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 62,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 63,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 64,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 65,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 66,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 67,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 68,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 69,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 70,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 71,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 72,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 73,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 74,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 75,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 76,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 77,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 78,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 79,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 80,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 81,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 82,
+            "value": null,
+            "originalFieldValue": null
+          }
+        ]
+      },
+      "vehicles": [
+        {
+          "id": -467,
+          "isRemoved": false,
+          "fieldValues": [
+            {
+              "formFieldId": 84,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 85,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 86,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 87,
+              "value": null,
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 88,
+              "value": "792",
+              "originalFieldValue": 792
+            },
+            {
+              "formFieldId": 89,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 90,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 91,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 92,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 93,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 94,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 95,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 96,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 97,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 98,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 101,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 102,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 103,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 104,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 105,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 106,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 107,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 108,
+              "value": "21",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 110,
+              "value": "",
+              "originalFieldValue": null
+            }
+          ]
+        }
+      ],
+      "casualties": []
+    },
+    {
+      "canValidateAll": false,
+      "isConfirmed": null,
+      "rowVersion": 1569491623,
+      "crash": {
+        "id": -337,
+        "isRemoved": false,
+        "fieldValues": [
+          {
+            "formFieldId": 1,
+            "value": "1568764800",
+            "originalFieldValue": "2019-09-17T18:30:00.000Z"
+          },
+          {
+            "formFieldId": 2,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 3,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 4,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 5,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 6,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 7,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 8,
+            "value": null,
+            "originalFieldValue": []
+          },
+          {
+            "formFieldId": 9,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 10,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 11,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 12,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 13,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 14,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 15,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 16,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 17,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 18,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 19,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 20,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 21,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 22,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 23,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 24,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 25,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 26,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 27,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 28,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 29,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 30,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 31,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 32,
+            "value": null,
+            "originalFieldValue": []
+          },
+          {
+            "formFieldId": 33,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 34,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 35,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 36,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 37,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 38,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 40,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 41,
+            "value": "1",
+            "originalFieldValue": 1
+          },
+          {
+            "formFieldId": 42,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 43,
+            "value": "Mathew",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 44,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 45,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 46,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 47,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 48,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 49,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 50,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 51,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 52,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 53,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 54,
+            "value": null,
+            "originalFieldValue": "0000"
+          },
+          {
+            "formFieldId": 55,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 56,
+            "value": null,
+            "originalFieldValue": "0000"
+          },
+          {
+            "formFieldId": 57,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 58,
+            "value": null,
+            "originalFieldValue": "0000"
+          },
+          {
+            "formFieldId": 59,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 60,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 61,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 62,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 63,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 64,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 65,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 66,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 67,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 68,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 69,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 70,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 71,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 72,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 73,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 74,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 75,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 76,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 77,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 78,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 79,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 80,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 81,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 82,
+            "value": null,
+            "originalFieldValue": null
+          }
+        ]
+      },
+      "vehicles": [
+        {
+          "id": -467,
+          "isRemoved": false,
+          "fieldValues": [
+            {
+              "formFieldId": 84,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 85,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 86,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 87,
+              "value": null,
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 88,
+              "value": "792",
+              "originalFieldValue": 792
+            },
+            {
+              "formFieldId": 89,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 90,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 91,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 92,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 93,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 94,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 95,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 96,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 97,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 98,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 101,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 102,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 103,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 104,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 105,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 106,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 107,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 108,
+              "value": "21",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 110,
+              "value": "",
+              "originalFieldValue": null
+            }
+          ]
+        }
+      ],
+      "casualties": []
+    },
+    {
+      "canValidateAll": false,
+      "isConfirmed": null,
+      "rowVersion": 1569491623,
+      "crash": {
+        "id": -337,
+        "isRemoved": false,
+        "fieldValues": [
+          {
+            "formFieldId": 1,
+            "value": "1568764800",
+            "originalFieldValue": "2019-09-17T18:30:00.000Z"
+          },
+          {
+            "formFieldId": 2,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 3,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 4,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 5,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 6,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 7,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 8,
+            "value": null,
+            "originalFieldValue": []
+          },
+          {
+            "formFieldId": 9,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 10,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 11,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 12,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 13,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 14,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 15,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 16,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 17,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 18,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 19,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 20,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 21,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 22,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 23,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 24,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 25,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 26,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 27,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 28,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 29,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 30,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 31,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 32,
+            "value": null,
+            "originalFieldValue": []
+          },
+          {
+            "formFieldId": 33,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 34,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 35,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 36,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 37,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 38,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 40,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 41,
+            "value": "1",
+            "originalFieldValue": 1
+          },
+          {
+            "formFieldId": 42,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 43,
+            "value": "Mathew",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 44,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 45,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 46,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 47,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 48,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 49,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 50,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 51,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 52,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 53,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 54,
+            "value": null,
+            "originalFieldValue": "0000"
+          },
+          {
+            "formFieldId": 55,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 56,
+            "value": null,
+            "originalFieldValue": "0000"
+          },
+          {
+            "formFieldId": 57,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 58,
+            "value": null,
+            "originalFieldValue": "0000"
+          },
+          {
+            "formFieldId": 59,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 60,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 61,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 62,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 63,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 64,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 65,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 66,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 67,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 68,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 69,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 70,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 71,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 72,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 73,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 74,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 75,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 76,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 77,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 78,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 79,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 80,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 81,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 82,
+            "value": null,
+            "originalFieldValue": null
+          }
+        ]
+      },
+      "vehicles": [
+        {
+          "id": -467,
+          "isRemoved": false,
+          "fieldValues": [
+            {
+              "formFieldId": 84,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 85,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 86,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 87,
+              "value": null,
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 88,
+              "value": "792",
+              "originalFieldValue": 792
+            },
+            {
+              "formFieldId": 89,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 90,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 91,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 92,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 93,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 94,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 95,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 96,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 97,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 98,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 101,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 102,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 103,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 104,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 105,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 106,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 107,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 108,
+              "value": "21",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 110,
+              "value": "",
+              "originalFieldValue": null
+            }
+          ]
+        }
+      ],
+      "casualties": []
+    },
+    {
+      "canValidateAll": false,
+      "isConfirmed": null,
+      "rowVersion": 1569491623,
+      "crash": {
+        "id": -337,
+        "isRemoved": false,
+        "fieldValues": [
+          {
+            "formFieldId": 1,
+            "value": "1568764800",
+            "originalFieldValue": "2019-09-17T18:30:00.000Z"
+          },
+          {
+            "formFieldId": 2,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 3,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 4,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 5,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 6,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 7,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 8,
+            "value": null,
+            "originalFieldValue": []
+          },
+          {
+            "formFieldId": 9,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 10,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 11,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 12,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 13,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 14,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 15,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 16,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 17,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 18,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 19,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 20,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 21,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 22,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 23,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 24,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 25,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 26,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 27,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 28,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 29,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 30,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 31,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 32,
+            "value": null,
+            "originalFieldValue": []
+          },
+          {
+            "formFieldId": 33,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 34,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 35,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 36,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 37,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 38,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 40,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 41,
+            "value": "1",
+            "originalFieldValue": 1
+          },
+          {
+            "formFieldId": 42,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 43,
+            "value": "Mathew",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 44,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 45,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 46,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 47,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 48,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 49,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 50,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 51,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 52,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 53,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 54,
+            "value": null,
+            "originalFieldValue": "0000"
+          },
+          {
+            "formFieldId": 55,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 56,
+            "value": null,
+            "originalFieldValue": "0000"
+          },
+          {
+            "formFieldId": 57,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 58,
+            "value": null,
+            "originalFieldValue": "0000"
+          },
+          {
+            "formFieldId": 59,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 60,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 61,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 62,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 63,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 64,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 65,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 66,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 67,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 68,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 69,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 70,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 71,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 72,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 73,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 74,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 75,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 76,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 77,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 78,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 79,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 80,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 81,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 82,
+            "value": null,
+            "originalFieldValue": null
+          }
+        ]
+      },
+      "vehicles": [
+        {
+          "id": -467,
+          "isRemoved": false,
+          "fieldValues": [
+            {
+              "formFieldId": 84,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 85,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 86,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 87,
+              "value": null,
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 88,
+              "value": "792",
+              "originalFieldValue": 792
+            },
+            {
+              "formFieldId": 89,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 90,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 91,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 92,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 93,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 94,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 95,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 96,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 97,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 98,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 101,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 102,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 103,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 104,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 105,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 106,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 107,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 108,
+              "value": "21",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 110,
+              "value": "",
+              "originalFieldValue": null
+            }
+          ]
+        }
+      ],
+      "casualties": []
+    },
+    {
+      "canValidateAll": false,
+      "isConfirmed": null,
+      "crash": {
+        "id": -129,
+        "isRemoved": false,
+        "fieldValues": [
+          {
+            "formFieldId": 1,
+            "value": "1540339200",
+            "originalFieldValue": "2018-10-23T21:00:00.000Z"
+          },
+          {
+            "formFieldId": 2,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 3,
+            "value": "-2.128355422897031",
+            "originalFieldValue": "-2.128355422897031"
+          },
+          {
+            "formFieldId": 4,
+            "value": "52.584742375876985",
+            "originalFieldValue": "52.584742375876985"
+          },
+          {
+            "formFieldId": 5,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 6,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 7,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 8,
+            "value": "",
+            "originalFieldValue": []
+          },
+          {
+            "formFieldId": 9,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 10,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 11,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 12,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 13,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 14,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 15,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 16,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 17,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 18,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 19,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 20,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 21,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 22,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 23,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 24,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 25,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 26,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 27,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 28,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 29,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 30,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 31,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 32,
+            "value": "",
+            "originalFieldValue": []
+          },
+          {
+            "formFieldId": 33,
+            "value": "1161",
+            "originalFieldValue": 1161
+          },
+          {
+            "formFieldId": 34,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 35,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 36,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 37,
+            "value": "1617",
+            "originalFieldValue": 1617
+          },
+          {
+            "formFieldId": 38,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 40,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 41,
+            "value": "1",
+            "originalFieldValue": 1
+          },
+          {
+            "formFieldId": 42,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 43,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 44,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 45,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 46,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 47,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 48,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 49,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 50,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 51,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 52,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 53,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 54,
+            "value": null,
+            "originalFieldValue": "0000"
+          },
+          {
+            "formFieldId": 55,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 56,
+            "value": null,
+            "originalFieldValue": "0000"
+          },
+          {
+            "formFieldId": 57,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 58,
+            "value": null,
+            "originalFieldValue": "0000"
+          },
+          {
+            "formFieldId": 59,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 60,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 61,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 62,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 63,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 64,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 65,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 66,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 67,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 68,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 69,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 70,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 71,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 72,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 73,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 74,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 75,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 76,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 77,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 78,
+            "value": "",
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 79,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 80,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 81,
+            "value": null,
+            "originalFieldValue": null
+          },
+          {
+            "formFieldId": 82,
+            "value": null,
+            "originalFieldValue": null
+          }
+        ]
+      },
+      "vehicles": [
+        {
+          "id": -156,
+          "isRemoved": false,
+          "fieldValues": [
+            {
+              "formFieldId": 84,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 85,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 86,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 87,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 88,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 89,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 90,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 91,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 92,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 93,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 94,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 95,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 96,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 97,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 98,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 101,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 102,
+              "value": "",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 103,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 104,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 105,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 106,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 107,
+              "value": "",
+              "originalFieldValue": null
+            },
+            {
+              "formFieldId": 108,
+              "value": "11",
+              "originalFieldValue": ""
+            },
+            {
+              "formFieldId": 110,
+              "value": "",
+              "originalFieldValue": null
+            }
+          ]
+        }
+      ],
+      "casualties": []
+    }
+  ],
+  "PlotCrashTestData": [
+    {
+      "toDateForQuery": "2019-09-25T21:00:00.000Z",
+      "fromDateForQuery": "2009-12-31T21:00:00.000Z",
+      "siteWkts": [ "POLYGON((-251640.49098591358 7070659.493896011,-251643.2196612159 7070687.198601282,-251651.30082566116 7070713.8386302795,-251664.4239246318 7070738.390221615,-251682.08464479377 7070759.909871388,-251703.60429457563 7070777.570591554,-251728.15588590453 7070790.693690529,-251754.79591489444 7070798.774854968,-251782.50062017114 7070801.5035302695,-251810.20532544784 7070798.774854968,-251836.84535443774 7070790.693690529,-251861.3969457667 7070777.570591554,-251882.91659554848 7070759.909871388,-251900.5773157105 7070738.390221615,-251913.70041468114 7070713.8386302795,-251921.78157912643 7070687.198601282,-251924.5102544287 7070659.493896011,-251921.78157912643 7070631.78919074,-251913.70041468114 7070605.149161745,-251900.5773157105 7070580.597570415,-251882.91659554848 7070559.077920639,-251861.3969457667 7070541.417200469,-251836.84535443774 7070528.2941015,-251810.20532544784 7070520.2129370645,-251782.50062017114 7070517.484261755,-251754.79591489444 7070520.2129370645,-251728.15588590453 7070528.2941015,-251703.60429457563 7070541.417200469,-251682.08464479377 7070559.077920639,-251664.4239246318 7070580.597570415,-251651.30082566116 7070605.149161745,-251643.2196612159 7070631.78919074,-251640.49098591358 7070659.493896011))" ],
+      "languageId": 1,
+      "mapProjId": 3857
+    },
+    {
+      "toDateForQuery": "2019-09-25T21:00:00.000Z",
+      "fromDateForQuery": "2009-12-31T21:00:00.000Z",
+      "siteWkts": [ "POLYGON((-251849.3830199207 7070542.151073272,-251544.23207106345 7070542.151073272,-251544.23207106345 7070720.703194033,-251849.3830199207 7070720.703194033,-251849.3830199207 7070542.151073272))" ],
+      "languageId": 1,
+      "mapProjId": 3857
+    },
+    {
+      "toDateForQuery": "2019-09-25T21:00:00.000Z",
+      "fromDateForQuery": "2009-12-31T21:00:00.000Z",
+      "siteWkts": [ "POLYGON((-251863.71496272413 7070701.59393696,-251543.63490677997 7070680.096022757,-251593.79670659214 7070531.40211617,-251855.35466275548 7070560.066001778,-251863.71496272413 7070701.59393696))" ],
+      "languageId": 1,
+      "mapProjId": 3857
+    },
+    {
+      "toDateForQuery": "2019-09-25T21:00:00.000Z",
+      "fromDateForQuery": "2009-12-31T21:00:00.000Z",
+      "siteWkts": [ "POLYGON((-251670.25447406853 7070647.183189832,-251668.33239180056 7070647.860129618,-251666.3686336382 7070647.8940836005,-251664.4386657063 7070647.283746926,-251662.6166555901 7070646.052574646,-251660.97262211656 7070644.247880276,-251659.56974457018 7070641.939017585,-251658.46193474825 7070639.214715273,-251657.69176516097 7070636.179667109,-251657.2888329937 7070632.950508577,-251657.2686227036 7070629.651334591,-251657.63191096083 7070626.40893057,-251658.36473680133 7070623.347900133,-251659.43893813918 7070620.585876687,-251660.81323401915 7070618.229002884,-251662.43481102152 7070616.367851666,-251664.24135285133 7070615.073945663,-251706.04285269478 7070592.978911865,-251707.96493496274 7070592.301976758,-251709.9286931251 7070592.2680230085,-251711.85866105702 7070592.878355452,-251713.6806711732 7070594.10951949,-251715.32470464674 7070595.9142024545,-251716.72758219313 7070598.2230517585,-251717.83539201505 7070600.947340006,-251718.60556160234 7070603.982374698,-251719.0084937696 7070607.211521445,-251719.02870405966 7070610.510686103,-251718.66541580248 7070613.75308363,-251717.9325899619 7070616.8141103685,-251716.85838862412 7070619.576132501,-251715.4840927441 7070621.933006699,-251713.86251574176 7070623.794159226,-251712.05597391195 7070625.088066648,-251670.25447406853 7070647.183189832))" ],
+      "languageId": 1,
+      "mapProjId": 3857
+    }
+  ],
+  "SafetyCameraTestData": [
+
+    {
+      "dateFrom": 1262293200,
+      "datetTo": 1569445200,
+      "length": 0,
+      "area": "0.03",
+      "areaTypeId": "3",
+      "ksiWeighting": "10",
+      "slightWeighting": "10",
+      "crashIds": [ 10121 ],
+      "siteName": "",
+      "languageId": 1,
+      "cameraCriteria": [
+        {
+          "cameraCriteria": {
+            "id": 1,
+            "cameraTypeId": 1,
+            "minLength": 10,
+            "maxLength": 100,
+            "ksi": 21
+          },
+          "picDetails": [
+            {
+              "id": 1,
+              "cameraTypeId": 1,
+              "areaTypeId": 5,
+              "value": 21
+            },
+            {
+              "id": 2,
+              "cameraTypeId": 1,
+              "areaTypeId": 6,
+              "value": 6
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 3,
+            "cameraTypeId": 3,
+            "minLength": 10,
+            "maxLength": 100,
+            "ksi": 21
+          },
+          "picDetails": [
+            {
+              "id": 5,
+              "cameraTypeId": 3,
+              "areaTypeId": 5,
+              "value": 6
+            },
+            {
+              "id": 6,
+              "cameraTypeId": 3,
+              "areaTypeId": 6,
+              "value": 15
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 4,
+            "cameraTypeId": 4,
+            "minLength": 100,
+            "maxLength": 10000,
+            "ksi": 21
+          },
+          "picDetails": [
+            {
+              "id": 7,
+              "cameraTypeId": 4,
+              "areaTypeId": 5,
+              "value": 16
+            },
+            {
+              "id": 8,
+              "cameraTypeId": 4,
+              "areaTypeId": 6,
+              "value": 5
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 2,
+            "cameraTypeId": 2,
+            "minLength": 10,
+            "maxLength": 100,
+            "ksi": "1"
+          },
+          "picDetails": [
+            {
+              "id": 3,
+              "cameraTypeId": 2,
+              "areaTypeId": 3,
+              "value": "1"
+            },
+            {
+              "id": 4,
+              "cameraTypeId": 2,
+              "areaTypeId": 4,
+              "value": "1"
+            }
+          ],
+          "defaultPICValue": 0
+        }
+      ],
+      "createdOn": "26-Sep-2019"
+    },
+    {
+      "dateFrom": 1262293200,
+      "datetTo": 1569445200,
+      "length": 0,
+      "area": "0.03",
+      "areaTypeId": "4",
+      "ksiWeighting": "10",
+      "slightWeighting": "10",
+      "crashIds": [ 10121 ],
+      "siteName": "",
+      "languageId": 1,
+      "cameraCriteria": [
+        {
+          "cameraCriteria": {
+            "id": 1,
+            "cameraTypeId": 1,
+            "minLength": 10,
+            "maxLength": 100,
+            "ksi": 21
+          },
+          "picDetails": [
+            {
+              "id": 1,
+              "cameraTypeId": 1,
+              "areaTypeId": 5,
+              "value": 21
+            },
+            {
+              "id": 2,
+              "cameraTypeId": 1,
+              "areaTypeId": 6,
+              "value": 6
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 3,
+            "cameraTypeId": 3,
+            "minLength": 10,
+            "maxLength": 100,
+            "ksi": 21
+          },
+          "picDetails": [
+            {
+              "id": 5,
+              "cameraTypeId": 3,
+              "areaTypeId": 5,
+              "value": 6
+            },
+            {
+              "id": 6,
+              "cameraTypeId": 3,
+              "areaTypeId": 6,
+              "value": 15
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 4,
+            "cameraTypeId": 4,
+            "minLength": 100,
+            "maxLength": 10000,
+            "ksi": 21
+          },
+          "picDetails": [
+            {
+              "id": 7,
+              "cameraTypeId": 4,
+              "areaTypeId": 5,
+              "value": 16
+            },
+            {
+              "id": 8,
+              "cameraTypeId": 4,
+              "areaTypeId": 6,
+              "value": 5
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 2,
+            "cameraTypeId": 2,
+            "minLength": 10,
+            "maxLength": 100,
+            "ksi": "1"
+          },
+          "picDetails": [
+            {
+              "id": 3,
+              "cameraTypeId": 2,
+              "areaTypeId": 3,
+              "value": "1"
+            },
+            {
+              "id": 4,
+              "cameraTypeId": 2,
+              "areaTypeId": 4,
+              "value": "1"
+            }
+          ],
+          "defaultPICValue": 0
+        }
+      ],
+      "createdOn": "26-Sep-2019"
+    },
+    {
+      "dateFrom": 1262293200,
+      "datetTo": 1569445200,
+      "length": 0,
+      "area": "0.02",
+      "areaTypeId": "4",
+      "ksiWeighting": "10",
+      "slightWeighting": "10",
+      "crashIds": [ 10121 ],
+      "siteName": "",
+      "languageId": 1,
+      "cameraCriteria": [
+        {
+          "cameraCriteria": {
+            "id": 1,
+            "cameraTypeId": 1,
+            "minLength": 10,
+            "maxLength": 100,
+            "ksi": 21
+          },
+          "picDetails": [
+            {
+              "id": 1,
+              "cameraTypeId": 1,
+              "areaTypeId": 5,
+              "value": 21
+            },
+            {
+              "id": 2,
+              "cameraTypeId": 1,
+              "areaTypeId": 6,
+              "value": 6
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 3,
+            "cameraTypeId": 3,
+            "minLength": 10,
+            "maxLength": 100,
+            "ksi": 21
+          },
+          "picDetails": [
+            {
+              "id": 5,
+              "cameraTypeId": 3,
+              "areaTypeId": 5,
+              "value": 6
+            },
+            {
+              "id": 6,
+              "cameraTypeId": 3,
+              "areaTypeId": 6,
+              "value": 15
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 4,
+            "cameraTypeId": 4,
+            "minLength": 100,
+            "maxLength": 10000,
+            "ksi": 21
+          },
+          "picDetails": [
+            {
+              "id": 7,
+              "cameraTypeId": 4,
+              "areaTypeId": 5,
+              "value": 16
+            },
+            {
+              "id": 8,
+              "cameraTypeId": 4,
+              "areaTypeId": 6,
+              "value": 5
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 2,
+            "cameraTypeId": 2,
+            "minLength": 10,
+            "maxLength": 100,
+            "ksi": "1"
+          },
+          "picDetails": [
+            {
+              "id": 3,
+              "cameraTypeId": 2,
+              "areaTypeId": 3,
+              "value": "1"
+            },
+            {
+              "id": 4,
+              "cameraTypeId": 2,
+              "areaTypeId": 4,
+              "value": "1"
+            }
+          ],
+          "defaultPICValue": 0
+        }
+      ],
+      "createdOn": "26-Sep-2019"
+    },
+    {
+      "dateFrom": 1262293200,
+      "datetTo": 1569445200,
+      "length": 0,
+      "area": "0.02",
+      "areaTypeId": "3",
+      "ksiWeighting": "10",
+      "slightWeighting": "10",
+      "crashIds": [ 10121 ],
+      "siteName": "",
+      "languageId": 1,
+      "cameraCriteria": [
+        {
+          "cameraCriteria": {
+            "id": 1,
+            "cameraTypeId": 1,
+            "minLength": 10,
+            "maxLength": 100,
+            "ksi": 21
+          },
+          "picDetails": [
+            {
+              "id": 1,
+              "cameraTypeId": 1,
+              "areaTypeId": 5,
+              "value": 21
+            },
+            {
+              "id": 2,
+              "cameraTypeId": 1,
+              "areaTypeId": 6,
+              "value": 6
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 3,
+            "cameraTypeId": 3,
+            "minLength": 10,
+            "maxLength": 100,
+            "ksi": 21
+          },
+          "picDetails": [
+            {
+              "id": 5,
+              "cameraTypeId": 3,
+              "areaTypeId": 5,
+              "value": 6
+            },
+            {
+              "id": 6,
+              "cameraTypeId": 3,
+              "areaTypeId": 6,
+              "value": 15
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 4,
+            "cameraTypeId": 4,
+            "minLength": 100,
+            "maxLength": 10000,
+            "ksi": 21
+          },
+          "picDetails": [
+            {
+              "id": 7,
+              "cameraTypeId": 4,
+              "areaTypeId": 5,
+              "value": 16
+            },
+            {
+              "id": 8,
+              "cameraTypeId": 4,
+              "areaTypeId": 6,
+              "value": 5
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 2,
+            "cameraTypeId": 2,
+            "minLength": 10,
+            "maxLength": 100,
+            "ksi": "1"
+          },
+          "picDetails": [
+            {
+              "id": 3,
+              "cameraTypeId": 2,
+              "areaTypeId": 3,
+              "value": "1"
+            },
+            {
+              "id": 4,
+              "cameraTypeId": 2,
+              "areaTypeId": 4,
+              "value": "1"
+            }
+          ],
+          "defaultPICValue": 0
+        }
+      ],
+      "createdOn": "26-Sep-2019"
+    },
+    {
+      "dateFrom": 1262293200,
+      "datetTo": 1569445200,
+      "length": 0,
+      "area": "0.02",
+      "areaTypeId": "3",
+      "ksiWeighting": "10",
+      "slightWeighting": "10",
+      "crashIds": [ 10121 ],
+      "siteName": "",
+      "languageId": 1,
+      "cameraCriteria": [
+        {
+          "cameraCriteria": {
+            "id": 1,
+            "cameraTypeId": 1,
+            "minLength": 10,
+            "maxLength": 100,
+            "ksi": 21
+          },
+          "picDetails": [
+            {
+              "id": 1,
+              "cameraTypeId": 1,
+              "areaTypeId": 5,
+              "value": 21
+            },
+            {
+              "id": 2,
+              "cameraTypeId": 1,
+              "areaTypeId": 6,
+              "value": 6
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 3,
+            "cameraTypeId": 3,
+            "minLength": 10,
+            "maxLength": 100,
+            "ksi": 21
+          },
+          "picDetails": [
+            {
+              "id": 5,
+              "cameraTypeId": 3,
+              "areaTypeId": 5,
+              "value": 6
+            },
+            {
+              "id": 6,
+              "cameraTypeId": 3,
+              "areaTypeId": 6,
+              "value": 15
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 4,
+            "cameraTypeId": 4,
+            "minLength": 100,
+            "maxLength": 10000,
+            "ksi": 21
+          },
+          "picDetails": [
+            {
+              "id": 7,
+              "cameraTypeId": 4,
+              "areaTypeId": 5,
+              "value": 16
+            },
+            {
+              "id": 8,
+              "cameraTypeId": 4,
+              "areaTypeId": 6,
+              "value": 5
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 2,
+            "cameraTypeId": 2,
+            "minLength": 10,
+            "maxLength": 100,
+            "ksi": "1"
+          },
+          "picDetails": [
+            {
+              "id": 3,
+              "cameraTypeId": 2,
+              "areaTypeId": 3,
+              "value": "1"
+            },
+            {
+              "id": 4,
+              "cameraTypeId": 2,
+              "areaTypeId": 4,
+              "value": "1"
+            }
+          ],
+          "defaultPICValue": 0
+        }
+      ],
+      "createdOn": "26-Sep-2019"
+    },
+    {
+      "dateFrom": 1262293200,
+      "datetTo": 1569445200,
+      "length": 0,
+      "area": "0.02",
+      "areaTypeId": "4",
+      "ksiWeighting": "10",
+      "slightWeighting": "10",
+      "crashIds": [ 10121 ],
+      "siteName": "",
+      "languageId": 1,
+      "cameraCriteria": [
+        {
+          "cameraCriteria": {
+            "id": 1,
+            "cameraTypeId": 1,
+            "minLength": 10,
+            "maxLength": 100,
+            "ksi": 21
+          },
+          "picDetails": [
+            {
+              "id": 1,
+              "cameraTypeId": 1,
+              "areaTypeId": 5,
+              "value": 21
+            },
+            {
+              "id": 2,
+              "cameraTypeId": 1,
+              "areaTypeId": 6,
+              "value": 6
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 3,
+            "cameraTypeId": 3,
+            "minLength": 10,
+            "maxLength": 100,
+            "ksi": 21
+          },
+          "picDetails": [
+            {
+              "id": 5,
+              "cameraTypeId": 3,
+              "areaTypeId": 5,
+              "value": 6
+            },
+            {
+              "id": 6,
+              "cameraTypeId": 3,
+              "areaTypeId": 6,
+              "value": 15
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 4,
+            "cameraTypeId": 4,
+            "minLength": 100,
+            "maxLength": 10000,
+            "ksi": 21
+          },
+          "picDetails": [
+            {
+              "id": 7,
+              "cameraTypeId": 4,
+              "areaTypeId": 5,
+              "value": 16
+            },
+            {
+              "id": 8,
+              "cameraTypeId": 4,
+              "areaTypeId": 6,
+              "value": 5
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 2,
+            "cameraTypeId": 2,
+            "minLength": 10,
+            "maxLength": 100,
+            "ksi": "1"
+          },
+          "picDetails": [
+            {
+              "id": 3,
+              "cameraTypeId": 2,
+              "areaTypeId": 3,
+              "value": "1"
+            },
+            {
+              "id": 4,
+              "cameraTypeId": 2,
+              "areaTypeId": 4,
+              "value": "1"
+            }
+          ],
+          "defaultPICValue": 0
+        }
+      ],
+      "createdOn": "26-Sep-2019"
+    },
+    {
+      "dateFrom": 1262293200,
+      "datetTo": 1569445200,
+      "length": "0.03",
+      "area": 0,
+      "areaTypeId": "4",
+      "ksiWeighting": "10",
+      "slightWeighting": "10",
+      "crashIds": [ 10121 ],
+      "siteName": "",
+      "languageId": 1,
+      "cameraCriteria": [
+        {
+          "cameraCriteria": {
+            "id": 1,
+            "cameraTypeId": 1,
+            "minLength": "0.01",
+            "maxLength": 100,
+            "ksi": "1"
+          },
+          "picDetails": [
+            {
+              "id": 1,
+              "cameraTypeId": 1,
+              "areaTypeId": 5,
+              "value": "1"
+            },
+            {
+              "id": 2,
+              "cameraTypeId": 1,
+              "areaTypeId": 6,
+              "value": "1"
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 3,
+            "cameraTypeId": 3,
+            "minLength": 10,
+            "maxLength": 100,
+            "ksi": 21
+          },
+          "picDetails": [
+            {
+              "id": 5,
+              "cameraTypeId": 3,
+              "areaTypeId": 5,
+              "value": 6
+            },
+            {
+              "id": 6,
+              "cameraTypeId": 3,
+              "areaTypeId": 6,
+              "value": 15
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 4,
+            "cameraTypeId": 4,
+            "minLength": 100,
+            "maxLength": 10000,
+            "ksi": 21
+          },
+          "picDetails": [
+            {
+              "id": 7,
+              "cameraTypeId": 4,
+              "areaTypeId": 5,
+              "value": 16
+            },
+            {
+              "id": 8,
+              "cameraTypeId": 4,
+              "areaTypeId": 6,
+              "value": 5
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 2,
+            "cameraTypeId": 2,
+            "minLength": 10,
+            "maxLength": 100,
+            "ksi": "10"
+          },
+          "picDetails": [
+            {
+              "id": 3,
+              "cameraTypeId": 2,
+              "areaTypeId": 3,
+              "value": "10"
+            },
+            {
+              "id": 4,
+              "cameraTypeId": 2,
+              "areaTypeId": 4,
+              "value": "10"
+            }
+          ],
+          "defaultPICValue": 0
+        }
+      ],
+      "createdOn": "26-Sep-2019"
+    },
+    {
+      "dateFrom": 1262293200,
+      "datetTo": 1569445200,
+      "length": "0.03",
+      "area": 0,
+      "areaTypeId": "6",
+      "ksiWeighting": "10",
+      "slightWeighting": "10",
+      "crashIds": [ 10121 ],
+      "siteName": "",
+      "languageId": 1,
+      "cameraCriteria": [
+        {
+          "cameraCriteria": {
+            "id": 1,
+            "cameraTypeId": 1,
+            "minLength": "0.01",
+            "maxLength": 100,
+            "ksi": "1"
+          },
+          "picDetails": [
+            {
+              "id": 1,
+              "cameraTypeId": 1,
+              "areaTypeId": 5,
+              "value": "1"
+            },
+            {
+              "id": 2,
+              "cameraTypeId": 1,
+              "areaTypeId": 6,
+              "value": "1"
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 3,
+            "cameraTypeId": 3,
+            "minLength": 10,
+            "maxLength": 100,
+            "ksi": 21
+          },
+          "picDetails": [
+            {
+              "id": 5,
+              "cameraTypeId": 3,
+              "areaTypeId": 5,
+              "value": 6
+            },
+            {
+              "id": 6,
+              "cameraTypeId": 3,
+              "areaTypeId": 6,
+              "value": 15
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 4,
+            "cameraTypeId": 4,
+            "minLength": 100,
+            "maxLength": 10000,
+            "ksi": 21
+          },
+          "picDetails": [
+            {
+              "id": 7,
+              "cameraTypeId": 4,
+              "areaTypeId": 5,
+              "value": 16
+            },
+            {
+              "id": 8,
+              "cameraTypeId": 4,
+              "areaTypeId": 6,
+              "value": 5
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 2,
+            "cameraTypeId": 2,
+            "minLength": 10,
+            "maxLength": 100,
+            "ksi": "10"
+          },
+          "picDetails": [
+            {
+              "id": 3,
+              "cameraTypeId": 2,
+              "areaTypeId": 3,
+              "value": "10"
+            },
+            {
+              "id": 4,
+              "cameraTypeId": 2,
+              "areaTypeId": 4,
+              "value": "10"
+            }
+          ],
+          "defaultPICValue": 0
+        }
+      ],
+      "createdOn": "26-Sep-2019"
+    },
+    {
+      "dateFrom": 1262293200,
+      "datetTo": 1569445200,
+      "length": "0.03",
+      "area": 0,
+      "areaTypeId": "5",
+      "ksiWeighting": "10",
+      "slightWeighting": "10",
+      "crashIds": [ 10121 ],
+      "siteName": "",
+      "languageId": 1,
+      "cameraCriteria": [
+        {
+          "cameraCriteria": {
+            "id": 1,
+            "cameraTypeId": 1,
+            "minLength": "1",
+            "maxLength": 100,
+            "ksi": "1"
+          },
+          "picDetails": [
+            {
+              "id": 1,
+              "cameraTypeId": 1,
+              "areaTypeId": 5,
+              "value": "1"
+            },
+            {
+              "id": 2,
+              "cameraTypeId": 1,
+              "areaTypeId": 6,
+              "value": "1"
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 3,
+            "cameraTypeId": 3,
+            "minLength": "0.01",
+            "maxLength": 100,
+            "ksi": "1"
+          },
+          "picDetails": [
+            {
+              "id": 5,
+              "cameraTypeId": 3,
+              "areaTypeId": 5,
+              "value": "1"
+            },
+            {
+              "id": 6,
+              "cameraTypeId": 3,
+              "areaTypeId": 6,
+              "value": "1"
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 4,
+            "cameraTypeId": 4,
+            "minLength": 100,
+            "maxLength": 10000,
+            "ksi": 21
+          },
+          "picDetails": [
+            {
+              "id": 7,
+              "cameraTypeId": 4,
+              "areaTypeId": 5,
+              "value": 16
+            },
+            {
+              "id": 8,
+              "cameraTypeId": 4,
+              "areaTypeId": 6,
+              "value": 5
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 2,
+            "cameraTypeId": 2,
+            "minLength": 10,
+            "maxLength": 100,
+            "ksi": "10"
+          },
+          "picDetails": [
+            {
+              "id": 3,
+              "cameraTypeId": 2,
+              "areaTypeId": 3,
+              "value": "10"
+            },
+            {
+              "id": 4,
+              "cameraTypeId": 2,
+              "areaTypeId": 4,
+              "value": "10"
+            }
+          ],
+          "defaultPICValue": 0
+        }
+      ],
+      "createdOn": "26-Sep-2019"
+    },
+    {
+      "dateFrom": 1262293200,
+      "datetTo": 1569445200,
+      "length": "0.03",
+      "area": 0,
+      "areaTypeId": "6",
+      "ksiWeighting": "10",
+      "slightWeighting": "10",
+      "crashIds": [ 10121 ],
+      "siteName": "",
+      "languageId": 1,
+      "cameraCriteria": [
+        {
+          "cameraCriteria": {
+            "id": 1,
+            "cameraTypeId": 1,
+            "minLength": "1",
+            "maxLength": 100,
+            "ksi": "1"
+          },
+          "picDetails": [
+            {
+              "id": 1,
+              "cameraTypeId": 1,
+              "areaTypeId": 5,
+              "value": "1"
+            },
+            {
+              "id": 2,
+              "cameraTypeId": 1,
+              "areaTypeId": 6,
+              "value": "1"
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 3,
+            "cameraTypeId": 3,
+            "minLength": "0.01",
+            "maxLength": 100,
+            "ksi": "1"
+          },
+          "picDetails": [
+            {
+              "id": 5,
+              "cameraTypeId": 3,
+              "areaTypeId": 5,
+              "value": "1"
+            },
+            {
+              "id": 6,
+              "cameraTypeId": 3,
+              "areaTypeId": 6,
+              "value": "1"
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 4,
+            "cameraTypeId": 4,
+            "minLength": 100,
+            "maxLength": 10000,
+            "ksi": 21
+          },
+          "picDetails": [
+            {
+              "id": 7,
+              "cameraTypeId": 4,
+              "areaTypeId": 5,
+              "value": 16
+            },
+            {
+              "id": 8,
+              "cameraTypeId": 4,
+              "areaTypeId": 6,
+              "value": 5
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 2,
+            "cameraTypeId": 2,
+            "minLength": 10,
+            "maxLength": 100,
+            "ksi": "10"
+          },
+          "picDetails": [
+            {
+              "id": 3,
+              "cameraTypeId": 2,
+              "areaTypeId": 3,
+              "value": "10"
+            },
+            {
+              "id": 4,
+              "cameraTypeId": 2,
+              "areaTypeId": 4,
+              "value": "10"
+            }
+          ],
+          "defaultPICValue": 0
+        }
+      ],
+      "createdOn": "26-Sep-2019"
+    },
+    {
+      "dateFrom": 1262293200,
+      "datetTo": 1569445200,
+      "length": "0.03",
+      "area": 0,
+      "areaTypeId": "6",
+      "ksiWeighting": "10",
+      "slightWeighting": "10",
+      "crashIds": [ 10121 ],
+      "siteName": "",
+      "languageId": 1,
+      "cameraCriteria": [
+        {
+          "cameraCriteria": {
+            "id": 1,
+            "cameraTypeId": 1,
+            "minLength": "1",
+            "maxLength": 100,
+            "ksi": "1"
+          },
+          "picDetails": [
+            {
+              "id": 1,
+              "cameraTypeId": 1,
+              "areaTypeId": 5,
+              "value": "1"
+            },
+            {
+              "id": 2,
+              "cameraTypeId": 1,
+              "areaTypeId": 6,
+              "value": "1"
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 3,
+            "cameraTypeId": 3,
+            "minLength": "1",
+            "maxLength": 100,
+            "ksi": "1"
+          },
+          "picDetails": [
+            {
+              "id": 5,
+              "cameraTypeId": 3,
+              "areaTypeId": 5,
+              "value": "1"
+            },
+            {
+              "id": 6,
+              "cameraTypeId": 3,
+              "areaTypeId": 6,
+              "value": "1"
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 4,
+            "cameraTypeId": 4,
+            "minLength": "0.01",
+            "maxLength": 10000,
+            "ksi": "1"
+          },
+          "picDetails": [
+            {
+              "id": 7,
+              "cameraTypeId": 4,
+              "areaTypeId": 5,
+              "value": "1"
+            },
+            {
+              "id": 8,
+              "cameraTypeId": 4,
+              "areaTypeId": 6,
+              "value": "1"
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 2,
+            "cameraTypeId": 2,
+            "minLength": 10,
+            "maxLength": 100,
+            "ksi": "10"
+          },
+          "picDetails": [
+            {
+              "id": 3,
+              "cameraTypeId": 2,
+              "areaTypeId": 3,
+              "value": "10"
+            },
+            {
+              "id": 4,
+              "cameraTypeId": 2,
+              "areaTypeId": 4,
+              "value": "10"
+            }
+          ],
+          "defaultPICValue": 0
+        }
+      ],
+      "createdOn": "26-Sep-2019"
+    },
+    {
+      "dateFrom": 1262293200,
+      "datetTo": 1569445200,
+      "length": "0.03",
+      "area": 0,
+      "areaTypeId": "5",
+      "ksiWeighting": "10",
+      "slightWeighting": "10",
+      "crashIds": [ 10121 ],
+      "siteName": "",
+      "languageId": 1,
+      "cameraCriteria": [
+        {
+          "cameraCriteria": {
+            "id": 1,
+            "cameraTypeId": 1,
+            "minLength": "1",
+            "maxLength": 100,
+            "ksi": "1"
+          },
+          "picDetails": [
+            {
+              "id": 1,
+              "cameraTypeId": 1,
+              "areaTypeId": 5,
+              "value": "1"
+            },
+            {
+              "id": 2,
+              "cameraTypeId": 1,
+              "areaTypeId": 6,
+              "value": "1"
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 3,
+            "cameraTypeId": 3,
+            "minLength": "1",
+            "maxLength": 100,
+            "ksi": "1"
+          },
+          "picDetails": [
+            {
+              "id": 5,
+              "cameraTypeId": 3,
+              "areaTypeId": 5,
+              "value": "1"
+            },
+            {
+              "id": 6,
+              "cameraTypeId": 3,
+              "areaTypeId": 6,
+              "value": "1"
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 4,
+            "cameraTypeId": 4,
+            "minLength": "0.01",
+            "maxLength": 10000,
+            "ksi": "1"
+          },
+          "picDetails": [
+            {
+              "id": 7,
+              "cameraTypeId": 4,
+              "areaTypeId": 5,
+              "value": "1"
+            },
+            {
+              "id": 8,
+              "cameraTypeId": 4,
+              "areaTypeId": 6,
+              "value": "1"
+            }
+          ],
+          "defaultPICValue": 0
+        },
+        {
+          "cameraCriteria": {
+            "id": 2,
+            "cameraTypeId": 2,
+            "minLength": 10,
+            "maxLength": 100,
+            "ksi": "10"
+          },
+          "picDetails": [
+            {
+              "id": 3,
+              "cameraTypeId": 2,
+              "areaTypeId": 3,
+              "value": "10"
+            },
+            {
+              "id": 4,
+              "cameraTypeId": 2,
+              "areaTypeId": 4,
+              "value": "10"
+            }
+          ],
+          "defaultPICValue": 0
+        }
+      ],
+      "createdOn": "26-Sep-2019"
+    }
+  ],
+  "QueryBuilderTestData": [
+    {
+      "fieldName": "driverSurname",
+      "fieldValue": "Mathew",
+      "query": "IS",
+      "displayName": "Driver Surname"
+    },
+    {
+      "fieldName": "drivingPositionDropicon",
+      "fieldValue": "OTHER",
+      "query": "IS",
+      "displayName": "Driving Position"
+    }
+  ],
+  "DeleteCrashTestData": [
+    {
+      "crashId": 10738,
+      "rowVersion": 1569639464
+    }
+  ],
+  "CalculatecrashcostTestData": [
+
+    {
+      "id": 0,
+      "dateRange": {
+        "beginDate": {
+          "year": 2016,
+          "month": 1,
+          "day": 1
+        },
+        "beginJsDate": "2015-12-31T21:00:00.000Z",
+        "endDate": {
+          "year": 2018,
+          "month": 12,
+          "day": 31
+        },
+        "endJsDate": "2018-12-30T21:00:00.000Z",
+        "formatted": "01-Jan-2016 - 31-Dec-2018",
+        "beginEpoc": 1451595600,
+        "endEpoc": 1546203600
+      },
+      "dateType": "-1",
+      "fromDate": 1451595600,
+      "toDate": 1546203600,
+      "selectedAreaGeoJson": "{\"type\":\"Polygon\",\"coordinates\":[[[-2.088250830691268,52.596164695171815],[-2.089531911192991,52.604064829374266],[-2.093325921492918,52.611660022227895],[-2.099487059902928,52.618658625691154],[-2.10777855732913,52.62479203292601],[-2.117881776175361,52.62982494809653],[-2.12940845540731,52.633564366616916],[-2.141915631206331,52.63586693018501],[-2.154922659820571,52.63664438338819],[-2.167929688434811,52.63586693018501],[-2.180436864233831,52.633564366616916],[-2.19196354346578,52.62982494809653],[-2.202066762312012,52.62479203292601],[-2.210358259738213,52.618658625691154],[-2.216519398148223,52.611660022227895],[-2.22031340844815,52.604064829374266],[-2.221594488949874,52.596164695171815],[-2.22031340844815,52.58826313616875],[-2.216519398148223,52.58066388582637],[-2.210358259738213,52.57365920990229],[-2.202066762312012,52.56751863971185],[-2.191963543465781,52.562478561586126],[-2.180436864233831,52.55873307060581],[-2.167929688434811,52.55642644954988],[-2.154922659820571,52.55564757154649],[-2.141915631206331,52.55642644954988],[-2.12940845540731,52.55873307060581],[-2.117881776175361,52.562478561586126],[-2.10777855732913,52.56751863971185],[-2.099487059902928,52.57365920990229],[-2.093325921492918,52.58066388582637],[-2.089531911192991,52.58826313616875],[-2.088250830691268,52.596164695171815]]]}"
+    }
+  ],
+  "CbaTestData": [
+    {
+      "collisionTypeIds": [],
+      "cbaCrashCostRequest": {
+        "selectedAreaGeoJson": "{\"type\":\"Polygon\",\"coordinates\":[[[-2.088250830691268,52.596164695171815],[-2.089531911192991,52.604064829374266],[-2.093325921492918,52.611660022227895],[-2.099487059902928,52.618658625691154],[-2.10777855732913,52.62479203292601],[-2.117881776175361,52.62982494809653],[-2.12940845540731,52.633564366616916],[-2.141915631206331,52.63586693018501],[-2.154922659820571,52.63664438338819],[-2.167929688434811,52.63586693018501],[-2.180436864233831,52.633564366616916],[-2.19196354346578,52.62982494809653],[-2.202066762312012,52.62479203292601],[-2.210358259738213,52.618658625691154],[-2.216519398148223,52.611660022227895],[-2.22031340844815,52.604064829374266],[-2.221594488949874,52.596164695171815],[-2.22031340844815,52.58826313616875],[-2.216519398148223,52.58066388582637],[-2.210358259738213,52.57365920990229],[-2.202066762312012,52.56751863971185],[-2.191963543465781,52.562478561586126],[-2.180436864233831,52.55873307060581],[-2.167929688434811,52.55642644954988],[-2.154922659820571,52.55564757154649],[-2.141915631206331,52.55642644954988],[-2.12940845540731,52.55873307060581],[-2.117881776175361,52.562478561586126],[-2.10777855732913,52.56751863971185],[-2.099487059902928,52.57365920990229],[-2.093325921492918,52.58066388582637],[-2.089531911192991,52.58826313616875],[-2.088250830691268,52.596164695171815]]]}",
+        "fromDate": 1451595600,
+        "toDate": 1546203600
+      },
+      "name": "",
+      "constructionYears": [],
+      "applicableAreaTypes": []
+    }
+  ],
+  "CalculateCmCostTestData": [
+    {
+      "id": 0,
+      "actualConstructionCost": null,
+      "actualMaintenanceCost": null,
+      "actualYear": null,
+      "name": "test1",
+      "year": 2019,
+      "interventionMeasureQuantity": 1,
+      "cbaCounterMeasureSchemeId": 0,
+      "cbaCounterMeasureId": 182,
+      "upgradeTypeId": 1,
+      "actualConstructionCostInBaseYear": "NA",
+      "actualMaintenanceCostInBaseYear": "NA"
+    }
+  ],
+  "RunCbaTestData": [
+    {
+      "cbaActualCountermeasure": {
+        "cbaActualCountermeasureDetails": [
+          {
+            "cbaActualCountermeasure": {
+              "id": 0,
+              "actualConstructionCost": null,
+              "actualMaintenanceCost": null,
+              "actualYear": null,
+              "interventionMeasureQuantity": 1,
+              "cbaCounterMeasureSchemeId": 0,
+              "cbaCounterMeasureId": 182,
+              "upgradeTypeId": 1
+            },
+            "countermeasure": {
+              "id": 182,
+              "name": "test1",
+              "applicableForCBA": true,
+              "constructionYear": 2019,
+              "estimatedConstructionCost": 2250,
+              "unitOfMeasure": 6,
+              "knownMaintananceCost": 225,
+              "treatmentLifeTime": 10,
+              "applicableAreaType": 19,
+              "applicableRoadType": null,
+              "counterMeasureCategoryId": 38,
+              "applicableControllType": 15,
+              "applicableTreatmentType": 11,
+              "source": 4,
+              "sourceUrl": null,
+              "estimatedEffectiveness": 10,
+              "impactedAccidentSeverity": null,
+              "benefits": null,
+              "implementationIssues": null
+            },
+            "totalEstimatedConstructionCost": 1800,
+            "totalEstimatedMaintenanceCost": 180,
+            "totalEstimatedConstructionCostInBaseYear": 18.181818181818183,
+            "totalEstimatedMaintenanceCostInBaseYear": 1.8181818181818181,
+            "actualConstructionCostInBaseYear": null,
+            "actualMaintenanceCostInBaseYear": null
+          }
+        ],
+        "actualEffectiveness": 0,
+        "estimatedEffectiveness": 10,
+        "totalBenefits": 0.001,
+        "resetActualCost": false
+      },
+      "cbaCrashCostRequest": {
+        "selectedAreaGeoJson": "{\"type\":\"Polygon\",\"coordinates\":[[[-2.088250830691268,52.596164695171815],[-2.089531911192991,52.604064829374266],[-2.093325921492918,52.611660022227895],[-2.099487059902928,52.618658625691154],[-2.10777855732913,52.62479203292601],[-2.117881776175361,52.62982494809653],[-2.12940845540731,52.633564366616916],[-2.141915631206331,52.63586693018501],[-2.154922659820571,52.63664438338819],[-2.167929688434811,52.63586693018501],[-2.180436864233831,52.633564366616916],[-2.19196354346578,52.62982494809653],[-2.202066762312012,52.62479203292601],[-2.210358259738213,52.618658625691154],[-2.216519398148223,52.611660022227895],[-2.22031340844815,52.604064829374266],[-2.221594488949874,52.596164695171815],[-2.22031340844815,52.58826313616875],[-2.216519398148223,52.58066388582637],[-2.210358259738213,52.57365920990229],[-2.202066762312012,52.56751863971185],[-2.191963543465781,52.562478561586126],[-2.180436864233831,52.55873307060581],[-2.167929688434811,52.55642644954988],[-2.154922659820571,52.55564757154649],[-2.141915631206331,52.55642644954988],[-2.12940845540731,52.55873307060581],[-2.117881776175361,52.562478561586126],[-2.10777855732913,52.56751863971185],[-2.099487059902928,52.57365920990229],[-2.093325921492918,52.58066388582637],[-2.089531911192991,52.58826313616875],[-2.088250830691268,52.596164695171815]]]}",
+        "fromDate": 1451595600,
+        "toDate": 1546203600
+      },
+      "constructionDate": null,
+      "openingDate": null
+    }
+  ]
+}
+

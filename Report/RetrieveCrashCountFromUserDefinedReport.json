@@ -1,0 +1,37 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to run 'User Defined Report' and is able to retrieve crash count.",
+      "stepName": "1",
+      "stepDescription": "Click 'Crash' tab.",
+      "expectedResult": "User is able to click 'Crash' tab.",
+      "actualResultPass": "User was able to click 'Crash' tab.",
+      "actualResultFail": "User was not able to click 'Crash' tab."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Drag and drop No of vehicles field to rows section.",
+      "expectedResult": "User is able to drag and drop No of vehicles field to rows section.",
+      "actualResultPass": "User was able to drag and drop No of vehicles field to rows section.",
+      "actualResultFail": "User was not able to drag and drop No of vehicles field to rows section."
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Drag and drop No of casualties field to column section.",
+      "expectedResult": "User is able to drag and drop No of casualties field to column section.",
+      "actualResultPass": "User was able to drag and drop No of casualties field to column section.",
+      "actualResultFail": "User was not able to drag and drop No of casualties field to column section."
+    },
+    {
+      "testObjective": "",
+      "stepName": "4",
+      "stepDescription": "Click 'Run' button.Capture screenshot.",
+      "expectedResult": "User is able to click on run button.",
+      "actualResultPass": "User was able to click on run button.",
+      "actualResultFail": "User was not able to click on run button."
+    }
+  ]
+}
+

@@ -1,0 +1,13 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to navigate to casualty tab ",
+      "stepName": "1",
+      "stepDescription": "Click on casualty tab.Capture screenshot.",
+      "expectedResult": "User is able to click casualty tab.",
+      "actualResultPass": "User was able to click casualty tab.",
+      "actualResultFail": "User was not able to click casualty tab."
+    }
+  ]
+}
+

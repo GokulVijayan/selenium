@@ -1,0 +1,12 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to navigate to casualty page.",
+      "stepName": "1",
+      "stepDescription": "Verify Casualty page title.Capture screenshot.",
+      "expectedResult": "User is able to verify Casualty page title.",
+      "actualResultPass": "User was able to verify Casualty page title.",
+      "actualResultFail": "User was not able to verify Casualty page title."
+    }
+  ]
+}

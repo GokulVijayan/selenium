@@ -1,0 +1,12 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "To verify that user is able to save potential hotspot with added hotspot type.",
+      "stepName": "1",
+      "stepDescription": "Invoke the save potential hotspot API /api/blackspot. Verify that new hotspot can be saved with hotspot type added.",
+      "expectedResult": "User is able to save potential hotspot with added hotspot type.",
+      "actualResultPass": "User was able to save potential hotspot with added hotspot type.",
+      "actualResultFail": "User was not able to save potential hotspot with added hotspot type."
+    }
+  ]
+}

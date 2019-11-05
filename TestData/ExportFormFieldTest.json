@@ -1,0 +1,10 @@
+{
+  "TestData": [
+    {
+      "username": "ReshmaPradeep",
+      "password": "Trl@123456",
+      "menuItem": "Form Field",
+      "verifyLogoutText": "Logout You are now logged out."
+    }
+  ]
+}

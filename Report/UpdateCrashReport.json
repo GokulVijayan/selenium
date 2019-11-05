@@ -1,0 +1,12 @@
+{
+	"TestReportSteps": [
+			{
+				"testObjective": "To verify that user is able to update added Crashes.",
+				"stepName": "1",
+				"stepDescription": "Invoke the update Crashes API /api/crashdetails. Verify that already added crashes can be updated.",
+				"expectedResult": "User is able to update Crashes .",
+				"actualResultPass": "User was able to update Crashes.",
+				"actualResultFail": "User was not able to update Crashes."
+			}
+	]
+}

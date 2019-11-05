@@ -1,0 +1,28 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to navigate to ARF screen.",
+      "stepName": "1",
+      "stepDescription": "Click '+' button.Capture screenshot.",
+      "expectedResult": "User is able to click '+' button. ",
+      "actualResultPass": "User was able to click '+' button. ",
+      "actualResultFail": "User was not able to click '+' button. "
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Click 'Continue' button.",
+      "expectedResult": "User is able to click 'Continue' button. ",
+      "actualResultPass": "User was able to click 'Continue' button. ",
+      "actualResultFail": "User was not able to click 'Continue' button. "
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Verify that user is able to view Crash tab.Capture screenshot.",
+      "expectedResult": "User is able to view Crash tab.",
+      "actualResultPass": "User was able to view Crash tab.",
+      "actualResultFail": "User was not able to view Crash tab."
+    }
+  ]
+}

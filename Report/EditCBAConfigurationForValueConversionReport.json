@@ -1,0 +1,44 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to edit Value Conversion CBA Configuration.",
+      "stepName": "1",
+      "stepDescription": "Click on Value Conversion Configuration Tab.",
+      "expectedResult": "User is able to click on Value Conversion Configuration Tab. ",
+      "actualResultPass": "User was able to click on Value Conversion Configuration Tab. ",
+      "actualResultFail": "User was not able to click on Value Conversion Configuration Tab. "
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Enter GDP Deflator Value.",
+      "expectedResult": "User is able to enter gdp deflator value. ",
+      "actualResultPass": "User was able to enter gdp deflator value. ",
+      "actualResultFail": "User was not able to enter gdp deflator value. "
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Enter GDP Growth Value.Capture screenshot",
+      "expectedResult": "User is able to enter gdp growth value.",
+      "actualResultPass": "User was able to enter gdp growth value.",
+      "actualResultFail": "User was not able to enter gdp growth value."
+    },
+    {
+      "testObjective": "",
+      "stepName": "4",
+      "stepDescription": "Click on Save button.",
+      "expectedResult": "User is able to click Save button.",
+      "actualResultPass": "User was able to click Save button.",
+      "actualResultFail": "User was not able to click Save button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "5",
+      "stepDescription": "Verify that user is able to edit Value Conversion CBA Configuration.Capture screenshot",
+      "expectedResult": "User is able to edit Value Conversion CBA Configuration.",
+      "actualResultPass": "User was able to edit Value Conversion CBA Configuration.",
+      "actualResultFail": "User was not able to edit Value Conversion CBA Configuration."
+    }
+  ]
+}

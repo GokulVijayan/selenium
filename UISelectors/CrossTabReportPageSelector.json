@@ -1,0 +1,22 @@
+{
+  "attributesTab": "//span[contains(text(),'ATTRIBUTES')]",
+  "crashTab": "//div[@class='accordion-toggle']//div[contains(text(),'Crash')]",
+  "vehicleTab": "//div[@class='accordion-toggle']//div[contains(text(),'Vehicle')]",
+  "casualtyTab": "//div[@class='accordion-toggle']//div[contains(text(),'Casualty')]",
+  "checkboxCrashTab": "//accordion-group[1]/div/div[2]/div/div/div",
+  "checkboxVehicleTab": "//accordion-group[2]/div/div[2]/div/div/div",
+  "checkboxCasualtyTab": "//accordion-group[3]/div/div[2]/div/div/div",
+  "checkbox2": "/label",
+  "tableRow1": "//dx-pivot-grid/div[1]/table/tr[4]/td[1]/div/div/div/div[1]/table/tbody/tr",
+  "tableRow2": "/td/span",
+  "tableColumn1": "//dx-pivot-grid/div[1]/table/tr[3]/td[2]/div/div/div/div[1]/table/thead/tr/td",
+  "tableColumn2": "/span",
+  "tableValue1": "//dx-pivot-grid/div[1]/table/tr[4]/td[2]/div/div/div/div[1]/table/tbody/tr",
+  "tableValue2": "/td",
+  "tableValue3": "/span",
+  "runBtn": "//button[@class='trl-c-btn trl-c-btn--primary']",
+  "expandCrossTabMenu": "//i[@class='fa trl-icn-arrow-right trl-c-arrow-animated']",
+  "collapseCrossTabMenu": "//i[@class='fa trl-icn-arrow-right']",
+  "verifyMenu": "//div[@class='trl-c-dashboard-final__pane-toggler']//span[contains(text(),'Cross Tab')]",
+  "exportButton": "//div[@class='dx-pivotgrid-export-button dx-button dx-button-normal dx-button-mode-contained dx-widget dx-button-has-icon']//div[@class='dx-button-content']"
+}

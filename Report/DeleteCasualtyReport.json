@@ -1,0 +1,29 @@
+{
+  "TestReportSteps": [
+
+    {
+      "testObjective": "Verify that a  Casualty can be deleted from a crash record.",
+      "stepName": "1",
+      "stepDescription": "Click delete icon.Capture screenshot.",
+      "expectedResult": "User is able to click delete icon.",
+      "actualResultPass": "User was able to click delete icon.",
+      "actualResultFail": "User was not able to click delete icon."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Click 'Yes' button.Capture screenshot.",
+      "expectedResult": "User is able to Click 'Yes' button.",
+      "actualResultPass": "User was able to Click 'Yes' button.",
+      "actualResultFail": "User was not able to Click 'Yes' button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Verify casualty count is decremented by 1.Capture screenshot.",
+      "expectedResult": "User is able to verify casualty count is decremented by 1.",
+      "actualResultPass": "User was able to verify casualty count is decremented by 1.",
+      "actualResultFail": "User was not able to verify casualty count is decremented by 1."
+    }
+  ]
+}

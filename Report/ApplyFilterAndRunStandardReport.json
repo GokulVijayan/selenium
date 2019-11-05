@@ -1,0 +1,54 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to run 'Standard Report'.",
+      "stepName": "1",
+      "stepDescription": "Click General option.",
+      "expectedResult": "User is able to click on General option.",
+      "actualResultPass": "User was able to click General option.",
+      "actualResultFail": "User was not able to click option."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Select Crash Distribution for Day of Week option.",
+      "expectedResult": "User is able to select Crash Distribution for Day of Week option.",
+      "actualResultPass": "User was able to select Crash Distribution for Day of Week option.",
+      "actualResultFail": "User was not able to select Crash Distribution for Day of Week option."
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Click Filter icon.",
+      "expectedResult": "User is able to click filter icon.",
+      "actualResultPass": "User was able to click filter icon.",
+      "actualResultFail": "User was not able to click filter icon."
+    },
+    {
+      "testObjective": "",
+      "stepName": "4",
+      "stepDescription": "Select 'From Date'.",
+      "expectedResult": "User is able to select 'From Date'.",
+      "actualResultPass": "User was able to select 'From Date'.",
+      "actualResultFail": "User was not able to select 'From Date'."
+    },
+    {
+      "testObjective": "",
+      "stepName": "5",
+      "stepDescription": "Select 'To Date'.Capture screenshot.",
+      "expectedResult": "User is able to select 'To Date'.",
+      "actualResultPass": "User was able to select 'To Date'.",
+      "actualResultFail": "User was not able to select 'To Date'."
+    },
+    {
+      "testObjective": "",
+      "stepName": "6",
+      "stepDescription": "Check 'Apply and Run' button.",
+      "expectedResult": "User is able to click 'Apply and Run' button.",
+      "actualResultPass": "User was able to click 'Apply and Run' button'.",
+      "actualResultFail": "User was not able to click 'Apply and Run' button."
+    }
+  ]
+}
+
+

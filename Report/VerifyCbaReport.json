@@ -1,0 +1,12 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "To verify calculating cba using the API api/countermeasures/cba.",
+      "stepName": "1",
+      "stepDescription": "Invoke the API api/countermeasures/cba.",
+      "expectedResult": "User is able  to verify cba.",
+      "actualResultPass": "User was able to verify cba.",
+      "actualResultFail": "User was not able to verify cba."
+    }
+  ]
+}

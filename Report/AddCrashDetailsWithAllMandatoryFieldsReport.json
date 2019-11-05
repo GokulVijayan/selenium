@@ -1,0 +1,36 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to enter details in mandatory fields of crash form.",
+      "stepName": "1",
+      "stepDescription": "Click Crash tab.",
+      "expectedResult": "User is able to click Crash tab.",
+      "actualResultPass": "User was able to click Crash tab.",
+      "actualResultFail": "User was not able to click Crash tab."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Enter Number Of Vehicles.Capture screenshot.",
+      "expectedResult": "User is able to enter Number Of Vehicles.",
+      "actualResultPass": "User was able to enter Number Of Vehicles.",
+      "actualResultFail": "User was not able to enter Number Of Vehicles."
+    },
+	{
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Enter Number Of Casualty",
+      "expectedResult": "User is able to enter Number Of Casualty",
+      "actualResultPass": "User was able to enter Number Of Casualty",
+      "actualResultFail": "User was not able to enter Number Of Casualty"
+    },
+	{
+      "testObjective": "",
+      "stepName": "4",
+      "stepDescription": "Select Driver Service",
+      "expectedResult": "User is able to select Driver Service",
+      "actualResultPass": "User was able to select Driver Service",
+      "actualResultFail": "User was not able to select Driver Service"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to click on add new button",
+      "stepName": "1",
+      "stepDescription": "Click on add new button.",
+      "expectedResult": "User is able to click add new button.",
+      "actualResultPass": "User was able to click add new button.",
+      "actualResultFail": "User was not able to click add new button."
+    }
+  ]
+}
+

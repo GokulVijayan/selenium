@@ -1,0 +1,407 @@
+[
+  {
+    "key": "ReferenceNumber",
+    "value": "ReferenceNumber00",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "NumberOfVehicles",
+    "value": "NumberOfVehicles00",
+    "propertyTypeId": 1
+  },
+  {
+    "key": "NumberOfCasualties",
+    "value": "NumberOfCasualties00",
+    "propertyTypeId": 1
+  },
+  {
+    "key": "PoliceForceId",
+    "value": "PoliceForceId00",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "DriverRankTitleId",
+    "value": "DriverRankTitleId00",
+    "propertyTypeId": 9
+  },
+  {
+    "key": "SurName",
+    "value": "SurName00",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "ServiceNumber",
+    "value": "ServiceNumber00",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "Age",
+    "value": "Age00",
+    "propertyTypeId": 1
+  },
+  {
+    "key": "DriverExperienceId",
+    "value": "DriverExperienceId00",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "DriverLicenseTypeId",
+    "value": "DriverLicenseTypeId00",
+    "propertyTypeId": 10
+  },
+  {
+    "key": "ReportingUIN",
+    "value": "ReportingUIN00",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "ModOrganisation",
+    "value": "ModOrganisation00",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "TLB",
+    "value": "TLB00",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "WorkAddress",
+    "value": "WorkAddress00",
+    "propertyTypeId": 3
+  },
+  {
+    "key": "PostCode",
+    "value": "PostCode00",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "BLB",
+    "value": "BLB00",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "Regiment",
+    "value": "Regiment00",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "CountryId",
+    "value": "CountryId00",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "UINAddressStatusId",
+    "value": "UINAddressStatusId00",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "ContactNumber",
+    "value": "ContactNumber00",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "DrivingTime",
+    "value": "DrivingTime00",
+    "propertyTypeId": 15
+  },
+  {
+    "key": "DrivingMiles",
+    "value": "DrivingMiles00",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "RestDrivingTime",
+    "value": "RestDrivingTime00",
+    "propertyTypeId": 15
+  },
+  {
+    "key": "RestDrivingMile",
+    "value": "RestDrivingMile00",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "TotalMileOnDuty",
+    "value": "TotalMileOnDuty00",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "TotalTimeOnDuty",
+    "value": "TotalTimeOnDuty00",
+    "propertyTypeId": 15
+  },
+  {
+    "key": "CrashDate",
+    "value": "CrashDate00",
+    "propertyTypeId": 4
+  },
+  {
+    "key": "CrashTime",
+    "value": "CrashTime00",
+    "propertyTypeId": 13
+  },
+  {
+    "key": "CrashSeverityId",
+    "value": "CrashSeverityId00",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "LocationEasting",
+    "value": "LocationEasting00",
+    "propertyTypeId": 7
+  },
+  {
+    "key": "LocationNorthing",
+    "value": "LocationNorthing00",
+    "propertyTypeId": 7
+  },
+  {
+    "key": "CrashOnModPropertyId",
+    "value": "CrashOnModPropertyId00",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "CrashArea",
+    "value": "CrashArea00",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "CountryOfCrashId",
+    "value": "CountryOfCrashId00",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "RoadNumber",
+    "value": "RoadNumber00",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "AuthorizedJourneyId",
+    "value": "AuthorizedJourneyId00",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "AuthorizedRouteId",
+    "value": "AuthorizedRouteId00",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "FamilirisationTrainingId",
+    "value": "FamilirisationTrainingId00",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "UnderInstructionAtTimeOfCrashId",
+    "value": "UnderInstructionAtTimeOfCrashId00",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "NameOfExcercise",
+    "value": "NameOfExcercise00",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "ImpactOnModVehicleId",
+    "value": "ImpactOnModVehicleId00",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "ModVehicleDrivableId",
+    "value": "ModVehicleDrivableId00",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "VehicleCarryingDangerousGoodsId",
+    "value": "VehicleCarryingDangerousGoodsId00",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "RoadConfigurationId",
+    "value": "RoadConfigurationId00",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "RoadSurfaceConditionId",
+    "value": "RoadSurfaceConditionId00",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "TrafficConditionId",
+    "value": "TrafficConditionId00",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "WeatherConditionId",
+    "value": "WeatherConditionId00",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "CarriageWayTypeId",
+    "value": "CarriageWayTypeId00",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "GradientId",
+    "value": "GradientId00",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "RoadSurfaceTypeId",
+    "value": "RoadSurfaceTypeId00",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "StreetLightingId",
+    "value": "StreetLightingId00",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "PeriodOfDayId",
+    "value": "PeriodOfDayId00",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "ModVehicleStatusId",
+    "value": "ModVehicleStatusId00",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "RoadSpeedLimit",
+    "value": "RoadSpeedLimit00",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "EstimatedSpeedOfVehicle",
+    "value": "EstimatedSpeedOfVehicle00",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "SeatBeltStatusId",
+    "value": "SeatBeltStatusId00",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "ThirdPartyInvolvedStatusId",
+    "value": "ThirdPartyInvolvedStatusId00",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "NumberOfThirdParties",
+    "value": "NumberOfThirdParties00",
+    "propertyTypeId": 1
+  },
+  {
+    "key": "EmergencyServiceAttendedStatusId",
+    "value": "EmergencyServiceAttendedStatusId00",
+    "propertyTypeId": 10
+  },
+  {
+    "key": "CrashDescription",
+    "value": "CrashDescription00",
+    "propertyTypeId": 3
+  },
+  {
+    "key": "CollisionTypeId",
+    "value": "CollisionTypeId00",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "PrecipitatingFactorId",
+    "value": "PrecipitatingFactorId00",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "ContributingFactorId",
+    "value": "ContributingFactorId00",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "SkiddingAndOverturingId",
+    "value": "SkiddingAndOverturingId00",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "NumberOfWitness",
+    "value": "NumberOfWitness00",
+    "propertyTypeId": 1
+  },
+  {
+    "key": "NameOfFirstWitness",
+    "value": "NameOfFirstWitness00",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "ServiceNumberOfFirstWitness",
+    "value": "ServiceNumberOfFirstWitness00",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "ContactNumberOfFirstWitness",
+    "value": "ContactNumberOfFirstWitness00",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "AddressOfFirstWitness",
+    "value": "AddressOfFirstWitness00",
+    "propertyTypeId": 3
+  },
+  {
+    "key": "NameOfSecondWitness",
+    "value": "NameOfSecondWitness00",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "ServiceNumberOfSecondWitness",
+    "value": "ServiceNumberOfSecondWitness00",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "ContactNumberOfSecondWitness",
+    "value": "ContactNumberOfSecondWitness00",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "AddressOfSecondWitness",
+    "value": "AddressOfSecondWitness00",
+    "propertyTypeId": 3
+  },
+  {
+    "key": "ReportedToRelevantClaimHandlerId",
+    "value": "ReportedToRelevantClaimHandlerId00",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "ClaimHandlerReferenceNo",
+    "value": "ClaimHandlerReferenceNo00",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "SubmittedById",
+    "value": "SubmittedById00",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "RankTitle",
+    "value": "RankTitle00",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "DriverSurName",
+    "value": "DriverSurName00",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "DriverServiceNumber",
+    "value": "DriverServiceNumber00",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "DateSubmitted",
+    "value": "DateSubmitted00",
+    "propertyTypeId": 4
+  },
+  {
+    "key": "UTMEmail",
+    "value": "UTMEmail00",
+    "propertyTypeId": 2
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify validation message in 'Summary Print Report'.",
+      "stepName": "1",
+      "stepDescription": "Click 'Vehicle' tab.",
+      "expectedResult": "User is able to click 'Vehicle' tab.",
+      "actualResultPass": "User was able to click 'Vehicle' tab.",
+      "actualResultFail": "User was not able to click 'Vehicle' tab."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Select option 'Vehicle Registration No (VRN)'.Capture screenshot.",
+      "expectedResult": "User is able to select option 'Vehicle Registration No (VRN)'.",
+      "actualResultPass": "User was able to select option 'Vehicle Registration No (VRN)'.",
+      "actualResultFail": "User was not able to select option 'Vehicle Registration No (VRN)'."
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Click 'Casualty' tab.",
+      "expectedResult": "User is able to click 'Casualty' tab.",
+      "actualResultPass": "User was able to click 'Casualty' tab.",
+      "actualResultFail": "User was not able to click 'Casualty' tab."
+    },
+    {
+      "testObjective": "",
+      "stepName": "4",
+      "stepDescription": "Select option 'Injury Reference No'.Capture screenshot.",
+      "expectedResult": "User is able to select option 'Injury Reference No'.",
+      "actualResultPass": "User was able to select option 'Injury Reference No'.",
+      "actualResultFail": "User was not able to select option 'Injury Reference No'."
+    },
+    {
+      "testObjective": "",
+      "stepName": "5",
+      "stepDescription": "Click 'Run' button.",
+      "expectedResult": "User is able to click 'Run' button.",
+      "actualResultPass": "User was able to click 'Run' button.",
+      "actualResultFail": "User was not able to click 'Run' button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "6",
+      "stepDescription": "Verify validation message 'Please select atleast one crash field'.Capture screenshot.",
+      "expectedResult": "User is able to verify validation message 'Please select atleast one crash field'.",
+      "actualResultPass": "User was able verify validation message 'Please select atleast one crash field'.",
+      "actualResultFail": "User was not able to verify validation message 'Please select atleast one crash field'."
+    }
+  ]
+}
+

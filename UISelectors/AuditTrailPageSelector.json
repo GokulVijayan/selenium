@@ -1,0 +1,18 @@
+{
+  //"selector1": "\"//*[@id=\"_dropdown\"]/div[2]\"",
+  //"selector2": "",
+  "verifyAuditTrailTitle": "//div[@class='trl-l-breadcrumbs']//span[contains(text(),'Audit Trail')]",
+  "selectUsersDropDown": "/html/body/imaap-root/div[1]/section/imaap-audit-trial/div/div/div[1]/div[2]/div/form/div[1]/wj-multi-select/div[1]/div/div/span/button/span",
+  "usersList": "/html/body/div[7]/div[2]/div",
+  "addCheckBox": "//i[@class='trl-icn-r-zoomin trl-u-mh-sm']",
+  "customDateCheckBox": "//div[@class='trl-c-checkbox trl-u-mb0 ng-untouched ng-pristine ng-valid']//span[@class='trl-c-checkbox-icon']",
+  "last3DaysCheckBox": "//div[4]//label[1]//span[1]",
+  "searchButton": "//button[@class='trl-c-btn trl-c-btn--primary']",
+  "cellLocator": "//table[@class='table table-striped table-bordered table-sm']//tbody/tr",
+  "editCheckBox": "//i[@class='trl-icn-r-edit trl-u-mh-sm']",
+  "deleteCheckBox": "//i[@class='trl-icn-r-delete trl-u-mh-sm']",
+  "tableSelector": "//table[@class='table table-striped table-bordered table-sm']//tbody",
+  "rowCountSelector": "//table[@class='table table-striped table-bordered table-sm']//tbody/tr",
+  "colCountSelector": "//table[@class='table table-striped table-bordered table-sm']//tbody/tr[1]/td",
+  "colCountForTableheadSelector": "//table[@class='table table-striped table-bordered table-sm']//thead/tr//th"
+}

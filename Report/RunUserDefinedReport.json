@@ -1,0 +1,53 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to run 'User Defined Report'.",
+      "stepName": "1",
+      "stepDescription": "Click 'Crash' tab.",
+      "expectedResult": "User is able to click 'Crash' tab.",
+      "actualResultPass": "User was able to click 'Crash' tab.",
+      "actualResultFail": "User was not able to click 'Crash' tab."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Drag and drop Severity of Crash field to rows section.",
+      "expectedResult": "User is able to drag and drop Severity of Crash field to rows section.",
+      "actualResultPass": "User was able to drag and drop Severity of Crash field to rows section.",
+      "actualResultFail": "User was not able to drag and drop Severity of Crash field to rows section."
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Drag and drop Collision Type field to rows section.",
+      "expectedResult": "User is able to drag and drop Collision Type field to rows section.",
+      "actualResultPass": "User was able to drag and drop Collision Type field to rows section.",
+      "actualResultFail": "User was not able to drag and drop Collision Type field to rows section."
+    },
+    {
+      "testObjective": "",
+      "stepName": "4",
+      "stepDescription": "Drag and drop Crash Date field to columns section.",
+      "expectedResult": "User is able to drag and drop Crash Date field to columns section.",
+      "actualResultPass": "User was able to drag and drop Crash Date field to columns section.",
+      "actualResultFail": "User was not able to drag and drop Crash Date field to columns section."
+    },
+    {
+      "testObjective": "",
+      "stepName": "5",
+      "stepDescription": "Drag and drop No of Vehicles field to columns section.",
+      "expectedResult": "User is able to drag and drop No of Vehicles field to columns section.",
+      "actualResultPass": "User was able to drag and drop No of Vehicles field to columns section.",
+      "actualResultFail": "User was not able to drag and drop No of Vehicles field to columns section."
+    },
+    {
+      "testObjective": "",
+      "stepName": "6",
+      "stepDescription": "Click 'Run' button.Capture screenshot.",
+      "expectedResult": "User is able to click on run button.",
+      "actualResultPass": "User was able to click on run button.",
+      "actualResultFail": "User was not able to click on run button."
+    }
+  ]
+}
+

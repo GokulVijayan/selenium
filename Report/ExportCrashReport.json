@@ -1,0 +1,60 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that export to excel functionality in Export Crash Page is working as expected.",
+      "stepName": "1",
+      "stepDescription": "Open crashes accordion.",
+      "expectedResult": "User is able to open crash accordion.",
+      "actualResultPass": "User was able to open crash accordion.",
+      "actualResultFail": "User was not able to open crash accordion."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Select all fields in crash.",
+      "expectedResult": "User is able to select all fields in crash.",
+      "actualResultPass": "User was able to select all fields in crash.",
+      "actualResultFail": "User was not able to select all fields in crash."
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Click 'Get No. of records' button",
+      "expectedResult": "User is able to click the button.",
+      "actualResultPass": "User was able to click the button.",
+      "actualResultFail": "User was not able to click the button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "4",
+      "stepDescription": "Click 'Start Export' button",
+      "expectedResult": "User is able to click the button.",
+      "actualResultPass": "User was able to click the button.",
+      "actualResultFail": "User was not able to click the button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "5",
+      "stepDescription": "Click 'Export File' button",
+      "expectedResult": "User is able to click the button.",
+      "actualResultPass": "User was able to click the button.",
+      "actualResultFail": "User was not able to click the button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "6",
+      "stepDescription": "Verify that excel file is exported.Capture screenshot.",
+      "expectedResult": "User is able to verify that excel file is exported.",
+      "actualResultPass": "User was able to verify that excel file is exported.",
+      "actualResultFail": "User was not able to verify that excel file is exported."
+    },
+    {
+      "testObjective": "",
+      "stepName": "7",
+      "stepDescription": "Verify that the data is valid in exported file.",
+      "expectedResult": "User is able to verify that the data is valid in exported file.",
+      "actualResultPass": "User was able to verify that the data is valid in exported file.",
+      "actualResultFail": "User was not able to verify that the data is valid in exported file."
+    }
+  ]
+}

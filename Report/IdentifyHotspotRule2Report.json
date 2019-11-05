@@ -1,0 +1,12 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "To verify that user is able to perform hostpot analysis using rule 2 - 'Minimum Number of Injury Crashes'.",
+      "stepName": "1",
+      "stepDescription": "Invoke the hotspot analysis API /api/blackspotanalysis. Verify that hotspot analysis can be performed.",
+      "expectedResult": "User is able to verify rule 2.",
+      "actualResultPass": "User was able to verify rule 2.",
+      "actualResultFail": "User was not able to verify rule 2."
+    }
+  ]
+}

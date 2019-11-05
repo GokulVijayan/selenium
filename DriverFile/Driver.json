@@ -1,0 +1,28 @@
+{
+  "EditAndDeleteCrashTest": "false", //TS001_Web_Verify the Add ARF, Edit ARF and Delete ARF functionality 
+  "AddAndSearchCrashTest": "false", //TS002_Web_Verify adding a crash record with all form fields and search that crash record 
+  "SummaryPrintReportExportTest": "false", //TS2-Export summary print report to different formats 
+  "SetFormFieldsTest": "false", //Setting up the UI Object properties - meta data for the ARF form fields
+  "VerifySummaryPrintReportTest": "false", //TS1-Generate summary print report and add,delete template
+  "ValidateAndSaveCrashTest": "false", //TS005_Web_Validate a crash record successfully
+  "DeleteVehicleAndCasualtyTest": "false", //TS003_Web_Verify deleting the vehicle and casualty details of a Crash record 
+  "VerifyCostBenifitAnalysisTest": "false", //TS027_Web_Verify Cost Benefit Analysis
+  "VerifyMonthOfYearStandardReport": "false", //TS009_Web_Crash Distribution for MoD Standard Report
+  "CrossTabReportTest": "false", //TS007_iMAAP_Web_Cross Tab Report verification
+  "ExportLookUpDataTest": "false", //TS024_Web_Export Master Data-Lookup details
+  "ExportPasswordPolicyTest": "false", //TS022_Web_Export Master Data-Password Policy details
+  "ExportCrashDataTest": "false", //TS020_Web_Verify the Crash Data exported to TXT, CSV & XLSX formats
+  "BatchOperationTest": "false", //TS031_verify batch operation report
+  "VerifyLoginHistoryTest": "false", //TS028_Verify Login History
+  "AddUserRoleTest": "false", //TS029_create new user & login
+  "VerifyUserDefinedReportTest": "false", //TS1-Generate user defined report and add,delete template
+  "VerifyUserDefinedReportExportTest": "false", //TS2-Export user defined report to different formats
+  "SetupHotspotParameterTest": "false", //TS026_Web_Verify Hotspot report
+  "VerifyCasualtyByYearReportTest": "false", //TS011_Web_Casualty Severity by Year Standard Report
+  "ExportFormFieldTest": "false", //TS023_Web_Export Master Data -Form field details
+  "VerifyDayOfWeekStandardReportTest": "false", //TS008_Web_Crash Distribution for DoW Standard Report
+  "UsageStatisticsReport": "true", //TS020_Web_Verify Usage Statistics report is working fine
+  "VerifyTimeOfDayStandardReportTest": "false", //TS010_Web_Crash Distribution for ToD Standard Report
+  "VerifyAuditTrailTest": "false" //TS011_Web_Verify audit trail for the user actions
+
+}

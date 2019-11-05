@@ -1,0 +1,28 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that the deleted crash record is listed in the audit trail page",
+      "stepName": "1",
+      "stepDescription": "Verify that in the audit trail report the deleted crash with crash ID is listed",
+      "expectedResult": "User is able to see the deleted crash with crash ID",
+      "actualResultPass": "User was able to see the deleted crash with crash ID ",
+      "actualResultFail": "User was not able to see the deleted crash with crash ID"
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Verify that in the audit trail report the deleted vehicle with vehicle ID is listed",
+      "expectedResult": "User is able to see the deleted vehicle with vehicle ID",
+      "actualResultPass": "User was able to see the deleted vehicle with vehicle ID ",
+      "actualResultFail": "User was not able to see the deleted vehicle with vehicle ID"
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Verify that in the audit trail report the deleted casualty with casualty ID is listed.Capture Screenshot",
+      "expectedResult": "User is able to see the deleted casualty with casualty ID",
+      "actualResultPass": "User was able to see the deleted casualty with casualty ID ",
+      "actualResultFail": "User was not able to see the deleted casualty with casualty ID"
+    }
+  ]
+}

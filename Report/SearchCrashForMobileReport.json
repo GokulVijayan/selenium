@@ -1,0 +1,12 @@
+{
+	"TestReportSteps": [
+			{
+				"testObjective": "To verify that user is able to search for the added Crash.",
+				"stepName": "1",
+				"stepDescription": "Invoke the search Crash API - /api/crashdetails/mobile. Verify that already added crash can be searched.",
+				"expectedResult": "User is able to search the added Crash .",
+				"actualResultPass": "User was able to search the added Crash.",
+				"actualResultFail": "User was not able to search the added Crash."
+			}
+	]
+}

@@ -1,0 +1,16 @@
+{
+  "runBtn": "//button[@class='trl-c-btn trl-c-btn--primary'][contains(text(),'Run')]",
+  "loginCount": "//div[@id='StiViewerReportPanel']//tr[5]//td[2]",
+  "filterBtn": "//div[@class='trl-c-list-n-search-button-block']//button[@class='trl-c-btn trl-c-btn--sm trl-c-btn--alternate trl-c-btn--alternate--icon']",
+  "multiSelect": "//div[@id='_dropdown']//div",
+  "applyBtn": "//button[@class='trl-c-btn trl-c-btn--sm trl-c-btn--primary']",
+  "rowField": "//div[@class='trl-l-usage-stats-severity-holder']//div[1]//div[1]//div[1]//div[1]",
+  "columnField": "//div[@class='trl-c-dashboard-final__left-pane-content trl-c-usage-stats-tab__left-pane']//div[2]//div[1]//div[1]//div[1]",
+  "userText": "//li[contains(text(),'User')]",
+  "loginStatusText": "//li[contains(text(),'Login Status')]",
+  "multiSelectBtn": "//wj-multi-select[@class='form-control wj-control wj-content wj-dropdown wj-combobox wj-multiselect wj-state-readonly wj-state-collapsed wj-state-focus wj-state-focused']//span[@class='wj-glyph-down']",
+  "rowSelector": "//div[@id='StiViewerReportPanel']//tr",
+  "colSelector": "//td[1]",
+  "tableRowCount": "//div[@id='StiViewerReportPanel']//tr",
+  "imaapHeading": "//td[@class='s3dbf3622']//div"
+}

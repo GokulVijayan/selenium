@@ -1,0 +1,12 @@
+{
+	"TestReportSteps": [
+    {
+      "testObjective": "To verify that user is able to delete crash records.",
+      "stepName": "1",
+      "stepDescription": "Invoke the add Crashes API /api/crashdetails. Verify that crashes can be deleted.",
+      "expectedResult": "User is able  to delete crash records .",
+      "actualResultPass": "User was able to delete crash records.",
+      "actualResultFail": "User was not able to delete crash records."
+    }
+	]
+}

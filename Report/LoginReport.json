@@ -1,0 +1,12 @@
+{
+	"TestReportSteps": [
+		{
+			"testObjective": "To verify that the login API is working as expected.",
+			"stepName": "1",
+			"stepDescription": "Acccess the login API - api/authenticate/mobile  and login with valid credentials",
+			"expectedResult": "The login is successful.",
+			"actualResultPass": "The login was successful. ",
+			"actualResultFail": "The login was unsuccessful."
+		}
+	]
+}

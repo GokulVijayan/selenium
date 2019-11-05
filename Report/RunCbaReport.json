@@ -1,0 +1,12 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "To verify user is able to run cba report using the API-api/cba/run.",
+      "stepName": "1",
+      "stepDescription": "Invoke the API api/cba/run.",
+      "expectedResult": "User is able  to verify cba report.",
+      "actualResultPass": "User was able to verify cba report.",
+      "actualResultFail": "User was not able to verify cba report."
+    }
+  ]
+}

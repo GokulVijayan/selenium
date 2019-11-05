@@ -1,0 +1,13 @@
+{
+  "addNewBtn": "//button[contains(text(),'Add New Rule')]",
+  "surnameDropdown": "//div[@class='trl-c-rule-condition-set']//div[2]//select[1]",
+  "blankDropdown": "//div[4]//select[1]",
+  "textArea": "//imaap-validation-rule-management/div[2]/div[1]/div[2]/div/div/div[4]/form/div/div/textarea",
+  "saveBtn": "//button[@class='btn btn-primary trl-u-mb-sm']",
+  "validateBtn": "//span[@class='trl-c-checkbox-icon']",
+  "messageFilter": "//div[@class='wj-cell wj-header wj-wrap wj-filter-off']",
+  "searchInput": "//input[@placeholder='Search']",
+  "applyFilter": "//button[contains(text(),'Apply')]",
+  "deleteBtn": "//button[@class='trl-u-p0 trl-u-no-background trl-u-b0 expand-collapse-btn trl-icn-r-delete']",
+  "okBtn": "//button[@class='swal2-confirm swal2-styled']"
+}

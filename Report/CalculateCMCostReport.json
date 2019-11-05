@@ -1,0 +1,12 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "To verify calculating cm cost using the API-api/calculatecmcost.",
+      "stepName": "1",
+      "stepDescription": "Invoke the API api/calculatecmcost.",
+      "expectedResult": "User is able  to verify cm cost.",
+      "actualResultPass": "User was able to verify cm cost.",
+      "actualResultFail": "User was not able to verify cm cost."
+    }
+  ]
+}

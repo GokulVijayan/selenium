@@ -1,0 +1,37 @@
+{
+  "TestReportSteps": [
+
+    {
+      "testObjective": "Verify that Usage statistics report can be validated",
+      "stepName": "1",
+      "stepDescription": "Drag and drop 'User' to row.",
+      "expectedResult": "User is able to drag and drop 'User' to row.",
+      "actualResultPass": "User was able to drag and drop 'User' to row.",
+      "actualResultFail": "User was not able to drag and drop 'User' to row."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Drag and drop 'Login Status' to colum.",
+      "expectedResult": "User is able to drag and drop 'Login Status' to colum.",
+      "actualResultPass": "User was able to drag and drop 'Login Status' to colum.",
+      "actualResultFail": "User was not able to drag and drop 'Login Status' to colum."
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Click on run button.",
+      "expectedResult": "User is able to click on run button.",
+      "actualResultPass": "User was able to click on run button.",
+      "actualResultFail": "User was not able to click on run button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "4",
+      "stepDescription": "Verify that report is displayed.Capture screenshot.",
+      "expectedResult": "User is able to verify that report is displayed.",
+      "actualResultPass": "User was able to verify that report is displayed.",
+      "actualResultFail": "User was not able to verify that report is displayed."
+    }
+  ]
+}

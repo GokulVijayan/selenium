@@ -1,0 +1,5 @@
+{
+  "addLookupBtn": "//button[@class='trl-c-btn trl-c-btn--primary trl-c-btn--sm']",
+  "exportLookupBtn": "//div[@class='trl-u-display-table--cell trl-u-align-middle trl-u-text-nowrap trl-u-width-1 trl-u-text-right']//i[@class='trl-icn-r-export-to-excel']",
+  "addLookupMasterBtn": "//i[@class='fa fa-list-ul']"
+}

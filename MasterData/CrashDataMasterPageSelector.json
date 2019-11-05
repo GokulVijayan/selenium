@@ -1,0 +1,493 @@
+{
+  "Master": [
+
+    {
+      "apiKey": "ReferenceNumber",
+      "selector": "crashRefNo",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "NumberOfVehicles",
+      "selector": "numberOfVehicles",
+      "propertyTypeId": 1,
+      "isMandatory": true
+    },
+    {
+      "apiKey": "NumberOfCasualties",
+      "selector": "numberofCasualities",
+      "propertyTypeId": 1,
+      "isMandatory": true
+    },
+    {
+      "apiKey": "PoliceForceId",
+      "selector": "driverService",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "DriverRankTitleId",
+      "selector": "driverRankTitle",
+      "propertyTypeId": 9,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "SurName",
+      "selector": "driverSurname",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "ServiceNumber",
+      "selector": "driverStaffNo",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "Age",
+      "selector": "age",
+      "propertyTypeId": 1,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "DriverExperienceId",
+      "selector": "driverExperience",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "DriverLicenseTypeId",
+      "selector": "driverLicense",
+      "propertyTypeId": 10,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "ReportingUIN",
+      "selector": "reportingUIN",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "ModOrganisation",
+      "selector": "unitMod",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "TLB",
+      "selector": "tlb",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "WorkAddress",
+      "selector": "workAddress",
+      "propertyTypeId": 3,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "PostCode",
+      "selector": "postCode",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "BLB",
+      "selector": "blb",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "Regiment",
+      "selector": "regiment",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "CountryId",
+      "selector": "country",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "UINAddressStatusId",
+      "selector": "uinCorrectOrNot",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "ContactNumber",
+      "selector": "contactTele",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "DrivingTime",
+      "selector": "drivingTimeForDay",
+      "propertyTypeId": 15,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "DrivingMiles",
+      "selector": "drivingMiles",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "RestDrivingTime",
+      "selector": "drivingTimeRest",
+      "propertyTypeId": 15,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "RestDrivingMile",
+      "selector": "drivingMilesRest",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "TotalMileOnDuty",
+      "selector": "totalMilesOnduty",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "TotalTimeOnDuty",
+      "selector": "totalTimeOnduty",
+      "propertyTypeId": 15,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "CrashDate",
+      "selector": "crashDate",
+      "propertyTypeId": 4,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "CrashTime",
+      "selector": "crashTime",
+      "propertyTypeId": 13,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "CrashSeverityId",
+      "selector": "crashSeverity",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "LocationEasting",
+      "selector": "loactionEasting",
+      "propertyTypeId": 7,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "LocationNorthing",
+      "selector": "locationNorthing",
+      "propertyTypeId": 7,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "CrashOnModPropertyId",
+      "selector": "crashOnMODProperty",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "CrashArea",
+      "selector": "crashArea",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "CountryOfCrashId",
+      "selector": "countryOfCrash",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "RoadNumber",
+      "selector": "roadNumber",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "AuthorizedJourneyId",
+      "selector": "authorizedJourney",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "AuthorizedRouteId",
+      "selector": "authorizedRoute",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "FamilirisationTrainingId",
+      "selector": "familirisationTraining",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "UnderInstructionAtTimeOfCrashId",
+      "selector": "underInstructionAtCrash",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "NameOfExcercise",
+      "selector": "nameofExerciseOperation",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "ImpactOnModVehicleId",
+      "selector": "impactOnMOD",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "ModVehicleDrivableId",
+      "selector": "modVehicleDrivable",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "VehicleCarryingDangerousGoodsId",
+      "selector": "vehicleCarryingDangerousGood",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "RoadConfigurationId",
+      "selector": "roadConfiguration",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "RoadSurfaceConditionId",
+      "selector": "roadSurfaceCondition",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "TrafficConditionId",
+      "selector": "trafficCondition",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "WeatherConditionId",
+      "selector": "weatherCondition",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "CarriageWayTypeId",
+      "selector": "carriageway",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "GradientId",
+      "selector": "gradient",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "RoadSurfaceTypeId",
+      "selector": "roadSurfaceType",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "StreetLightingId",
+      "selector": "streetLighting",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "PeriodOfDayId",
+      "selector": "periodOfDay",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "ModVehicleStatusId",
+      "selector": "modVehicleStationary",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "RoadSpeedLimit",
+      "selector": "roadSpeedLimit",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "EstimatedSpeedOfVehicle",
+      "selector": "estimatedSpeedOfLimit",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "SeatBeltStatusId",
+      "selector": "driverSeatBelt",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "ThirdPartyInvolvedStatusId",
+      "selector": "thirdPartyInvolvedStatus",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "NumberOfThirdParties",
+      "selector": "numberOfThirdParties",
+      "propertyTypeId": 1,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "EmergencyServiceAttendedStatusId",
+      "selector": "emergencyServiceAttended",
+      "propertyTypeId": 10,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "CrashDescription",
+      "selector": "crashDescription",
+      "propertyTypeId": 3,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "CollisionTypeId",
+      "selector": "collisionType",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "PrecipitatingFactorId",
+      "selector": "precipitatingFactor",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "ContributingFactorId",
+      "selector": "contributingFactorCode",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "SkiddingAndOverturingId",
+      "selector": "skiddingAndOverturning",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "NumberOfWitness",
+      "selector": "numberOfWitness",
+      "propertyTypeId": 1,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "NameOfFirstWitness",
+      "selector": "nameOfFirstWitness",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "ServiceNumberOfFirstWitness",
+      "selector": "serviceNumberOfFirstWitness",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "ContactNumberOfFirstWitness",
+      "selector": "contactNUmberOfFirstWitness",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "AddressOfFirstWitness",
+      "selector": "addressOfFirstWitness",
+      "propertyTypeId": 3,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "NameOfSecondWitness",
+      "selector": "nameOfSecondWitness",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "ServiceNumberOfSecondWitness",
+      "selector": "serviceNumberOfSecondWitness",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "ContactNumberOfSecondWitness",
+      "selector": "contactNumberOfSecondWitness",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "AddressOfSecondWitness",
+      "selector": "addressOfSecondWitness",
+      "propertyTypeId": 3,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "ReportedToRelevantClaimHandlerId",
+      "selector": "reportedToReleventClaimHandler",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "ClaimHandlerReferenceNo",
+      "selector": "claimHandlerReference",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "SubmittedById",
+      "selector": "submittedBy",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "RankTitle",
+      "selector": "rankTitle",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "DriverSurName",
+      "selector": "surname",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "DriverServiceNumber",
+      "selector": "driverServiceNumber",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "DateSubmitted",
+      "selector": "dateSubmitted",
+      "propertyTypeId": 4,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "UTMEmail",
+      "selector": "utmLmEmailId",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    }
+  ]
+}
+  
+    

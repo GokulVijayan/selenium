@@ -1,0 +1,12 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to navigate to Standard Report page.",
+      "stepName": "1",
+      "stepDescription": "Verify Standard Report page title.Capture screenshot.",
+      "expectedResult": "User is able to verify Standard Report page title.",
+      "actualResultPass": "User was able to verify Standard Report page title.",
+      "actualResultFail": "User was not able to verify Standard Report page title."
+    }
+  ]
+}

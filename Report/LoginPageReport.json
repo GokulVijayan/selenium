@@ -1,0 +1,28 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that login functionality is working as expected.",
+      "stepName": "1",
+      "stepDescription": "Enter username.",
+      "expectedResult": "User is able to enter username. ",
+      "actualResultPass": "User was able to enter username. ",
+      "actualResultFail": "User was not able to enter username. "
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Enter password.Capture screenshot.",
+      "expectedResult": "User is able to enter password.",
+      "actualResultPass": "User was able to enter password.",
+      "actualResultFail": "User was not able to enter password."
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Click Login button.",
+      "expectedResult": "User is able to click Login button.",
+      "actualResultPass": "User was able to click Login button.",
+      "actualResultFail": "User was not able to click Login button."
+    }
+  ]
+}

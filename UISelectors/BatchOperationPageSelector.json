@@ -1,0 +1,13 @@
+{
+  "filterBtn": "//div[@class='trl-l-page-head']//button[2]",
+  "crashRefNoInput": "//input[@class='form-control ng-untouched ng-pristine ng-valid']",
+  "searchBtn": "//button[@class='trl-c-btn trl-c-btn--sm trl-c-btn--primary']",
+  "resetBtn": "//button[@class='trl-c-btn trl-c-btn--sm trl-c-btn--secondary']",
+  "selectCheckBox": "//wj-flex-grid/div[1]/div[5]/div/div/div[1]/div/div/label/span",
+  "innerCheckBox": "//div[@class='wj-cell wj-state-selected wj-state-active']//div//span[@class='trl-c-checkbox-icon']",
+  "validationBtn": "//div[@class='trl-l-page-head']//button[3]",
+  "canvas": "//button[contains(text(),'Quick Search')]",
+  "validRecCount": "//*[@id=\"StiViewerReportPanel\"]/div/table/tbody/tr[7]/td[2]",
+  "heading": "//h1[@class='trl-c-page-title']",
+  "table": "//div[@class='wj-cell wj-header'][contains(text(),'Crash Ref. No')]"
+}

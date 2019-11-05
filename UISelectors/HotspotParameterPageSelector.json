@@ -1,0 +1,25 @@
+{
+  "generalParameters": "//span[contains(text(),'General Parameters')]",
+  "dateRange": "//tabset/div/tab[1]/div/form/div[2]/div[1]/div[1]/div/select",
+  "resolutionDistance": "//div[@class='trl-l-blackspot-parameter__block trl-c-vertical-tabs-fullpage__wrapper']//div[1]//div[2]//div[1]//input[1]",
+  "corridorLength": "//div[@class='trl-c-vertical-tabs-fullpage__content trl-u-overflow-x-hidden trl-u-pr']//div[2]//div[1]//div[1]//input[1]",
+  "incrementalLength": "//div[@class='trl-c-vertical-tabs-fullpage__content trl-u-overflow-x-hidden trl-u-pr']//div[2]//div[2]//div[1]//input[1]",
+  "maxCrashType": "//div[3]//div[1]//div[1]//input[1]",
+  "minCrashType": "//div[3]//div[2]//div[1]//input[1]",
+  "qualificationScore": "//div[4]//div[1]//div[1]//input[1]",
+  "minCrashForCrashType": "//div[4]//div[2]//div[1]//input[1]",
+  "minCrashForCluster": "//div[5]//div[1]//div[1]//input[1]",
+  "accessControls": "//span[contains(text(),'Access Controls')]",
+  "accessControlOptions1": "//tabset/div/tab[2]/div/div[2]/div[1]",
+  "accessControlOptions2": "//tabset/div/tab[2]/div/div[2]/div[2]",
+  "accessControlOptions3": "//tabset/div/tab[2]/div/div[2]/div[3]",
+  "accessControlOptions4": "//tabset/div/tab[2]/div/div[2]/div[4]",
+  "accessControlOptions5": "//tabset/div/tab[2]/div/div[2]/div[5]",
+  "verifyDateRange": "//accordion-group[1]/div/div[2]/div/div/div[1]/select",
+  "resolutionLength": "//accordion-group[1]/div/div[2]/div/div/div[4]/div[2]/div[1]/div[2]/wj-input-number",
+  "verifyCorridorLength": "//accordion-group[1]/div/div[2]/div/div/div[4]/div[2]/div[2]/div[2]/wj-input-number",
+  "verifyIncrementalLength": "//accordion/accordion-group[1]/div/div[2]/div/div/div[4]/div[2]/div[2]/div[3]/wj-input-number",
+  "attributeName": "aria-valuenow",
+  "saveBtn": "//tabset/div/tab[1]/div/form/div[3]/button[2]"
+
+}

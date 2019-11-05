@@ -1,0 +1,12 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to run stick analysis report.",
+      "stepName": "1",
+      "stepDescription": "Click on Run button.",
+      "expectedResult": "User is able to click on run button.",
+      "actualResultPass": "User was able to click on run button.",
+      "actualResultFail": "User was not able to click on run button."
+    }
+  ]
+}

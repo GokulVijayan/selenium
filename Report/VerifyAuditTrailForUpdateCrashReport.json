@@ -1,0 +1,12 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "To Verify that the updated crash record is listed in the audit trail page",
+      "stepName": "1",
+      "stepDescription": "Verify that in the audit trail report the updated field in the ARF is listed with correct old and new values.Capture Screenshot",
+      "expectedResult": "User is able to see in audit trail report the updated field in the ARF with correct old and new values ",
+      "actualResultPass": "User was able to see in audit trail report the updated field in the ARF with correct old and new values ",
+      "actualResultFail": "User was not able to see in audit trail report the updated field in the ARF with correct old and new values "
+    }
+  ]
+}

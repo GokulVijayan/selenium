@@ -1,0 +1,22 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to run 'Standard Report'.",
+      "stepName": "1",
+      "stepDescription": "Click General option.",
+      "expectedResult": "User is able to click on General option.",
+      "actualResultPass": "User was able to click General option.",
+      "actualResultFail": "User was not able to click option."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Select Crash Distribution for Month of year option.",
+      "expectedResult": "User is able to select Crash Distribution for Month of year option.",
+      "actualResultPass": "User was able to select Crash Distribution for Month of year option.",
+      "actualResultFail": "User was not able to select Crash Distribution for Month of year option."
+    }
+  ]
+}
+
+

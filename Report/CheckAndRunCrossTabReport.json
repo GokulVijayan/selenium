@@ -1,0 +1,44 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to run Cross Tab report.",
+      "stepName": "1",
+      "stepDescription": "Click tab 'ATTRIBUTES'.",
+      "expectedResult": "User is able to click tab 'ATTRIBUTES'. ",
+      "actualResultPass": "User was able to click tab 'ATTRIBUTES'. ",
+      "actualResultFail": "User was not able to click tab 'ATTRIBUTES'. "
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Click option 'Driver Service' from Crash tab.Capture screenshot.",
+      "expectedResult": "User is able to click option 'Driver Service' from Crash tab. ",
+      "actualResultPass": "User was able to click option 'Driver Service' from Crash tab. ",
+      "actualResultFail": "User was not able to click option 'Driver Service' from Crash tab. "
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Click option 'Driving Position' from Vehicle tab.Capture screenshot.",
+      "expectedResult": "User is able to click option 'Driving Position' from Vehicle tab. ",
+      "actualResultPass": "User was able to click option 'Driving Position' from Vehicle tab. ",
+      "actualResultFail": "User was not able to click option 'Driving Position' from Vehicle tab. "
+    },
+    {
+      "testObjective": "",
+      "stepName": "4",
+      "stepDescription": "Click option 'Casualty Class' from Casualty tab.Capture screenshot.",
+      "expectedResult": "User is able to click option 'Casualty Class' from Casualty tab. ",
+      "actualResultPass": "User was able to click option 'Casualty Class' from Casualty tab. ",
+      "actualResultFail": "User was not able to click option 'Casualty Class' from Casualty tab. "
+    },
+    {
+      "testObjective": "",
+      "stepName": "5",
+      "stepDescription": "Click 'Run' button.",
+      "expectedResult": "User is able to click 'Run' button. ",
+      "actualResultPass": "User was able to click 'Run' button. ",
+      "actualResultFail": "User was not able to click 'Run' button. "
+    }
+  ]
+}

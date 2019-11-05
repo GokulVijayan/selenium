@@ -1,0 +1,15 @@
+{
+  "1": "Numeric",
+  "10": "Multi-select",
+  "11": "Dependent_Multi-select",
+  "13": "Time",
+  "14": "MultiSelect_ImageLookup",
+  "15": "Duration",
+  "2": "String",
+  "3": "Text",
+  "4": "Date",
+  "6": "Lookup",
+  "7": "Double",
+  "8": "DateTime",
+  "9": "Dependent_Lookup"
+}

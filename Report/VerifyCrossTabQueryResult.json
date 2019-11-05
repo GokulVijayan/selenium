@@ -1,0 +1,28 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify query result in Cross Tab report.",
+      "stepName": "1",
+      "stepDescription": "Verify visibility of driver service - ",
+      "expectedResult": "User is able to verify visibility of driver service - ",
+      "actualResultPass": "User was able to verify visibility of driver service - ",
+      "actualResultFail": "User was not able to verify visibility of driver service - "
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Verify table cell value.",
+      "expectedResult": "User is able to verify table cell value.",
+      "actualResultPass": "User was able to verify table cell value.",
+      "actualResultFail": "User was not able to verify table cell value."
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Verify 'Grand Total' value.Capture screenshot.",
+      "expectedResult": "User is able to verify 'Grand Total' value.",
+      "actualResultPass": "User was able to verify 'Grand Total' value.",
+      "actualResultFail": "User was not able to verify 'Grand Total' value."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to edit SCA Configuration for Average Speed Camera.",
+      "stepName": "1",
+      "stepDescription": "Click on Average Speed Tab.",
+      "expectedResult": "User is able to click Average Speed Tab.",
+      "actualResultPass": "User was able to click Average Speed Tab.",
+      "actualResultFail": "User was not able to click Average Speed Tab."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Enter KSI Per Year.",
+      "expectedResult": "User is able to enter KSI Per Year.",
+      "actualResultPass": "User was able to enter KSI Per Year.",
+      "actualResultFail": "User was not able to enter KSI Per Year."
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Enter Major Junction PIC Value.",
+      "expectedResult": "User is able to enter Major Junction PIC Value.",
+      "actualResultPass": "User was able to enter Urban PIC Value.",
+      "actualResultFail": "User was not able to enter Urban PIC Value."
+    },
+    {
+      "testObjective": "",
+      "stepName": "4",
+      "stepDescription": "Enter Rural PIC Value.Capture screenshot",
+      "expectedResult": "User is able to enter Rural PIC Value.",
+      "actualResultPass": "User was able to enter Rural PIC Value.",
+      "actualResultFail": "User was not able to enter Rural PIC Value."
+    },
+    {
+      "testObjective": "",
+      "stepName": "5",
+      "stepDescription": "Click on Save button.",
+      "expectedResult": "User is able to click Save button.",
+      "actualResultPass": "User was able to click Save button.",
+      "actualResultFail": "User was not able to click Save button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "6",
+      "stepDescription": "Verify that user is able to edit SCA Configuration for Average Speed Camera.Capture screenshot",
+      "expectedResult": "User is able to edit SCA Configuration for Average Speed Camera.",
+      "actualResultPass": "User was able to edit SCA Configuration for Average Speed Camera.",
+      "actualResultFail": "User was not able to edit SCA Configuration for Average Speed Camera."
+    }
+  ]
+}

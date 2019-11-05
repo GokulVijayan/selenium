@@ -1,0 +1,9 @@
+{
+  "crashTab": "//div[@class='accordion-toggle']//div[contains(text(),'Crash')]",
+  "stickAnalysisHeader": "//div[@class='trl-l-breadcrumbs']//span[contains(text(),'Stick Analysis')]",
+  "crashFieldSelector": "//div[@class='panel-collapse collapse in show']//div[contains(@class,'trl-l-all-reports-list')]//div",
+  "runButton": "//button[@class='trl-c-btn trl-c-btn--primary']",
+  "crashReferenceNumber": "//span[contains(text(),'Crash Ref. No')]",
+  "crashList": "//body[@class='trl-u-overflow-x-hidden']/imaap-root/div[@class='trl-l-master-wrapper']/section[@class='trl-l-app-body trl-p-spcing-adjustment-patch']/app-stick-analysis/div[@class='trl-l-standard-reports__new-block']/div[@class='trl-c-dashboard-final__wrap trl-c-user-defined-reports-wrapper']/div[@class='trl-l-standard-reports__new-panel trl-u-overflow-unset']/div[@class='trl-c-instruction-text-wrapper trl-c-stick-analysis__master-wrapper']/div[@class='trl-c-stick-analysis__wrapper show__stick-analysis-block trl-c-stick-item-spacing']/div[@class='trl-c-stick-analysis__block-content-container trl-c-stick-analysis__right-block__stick-item-enabled']/div[@class='trl-c-stick-analysis__right-block__stick-item-main primary__list-items']//span"
+}
+  

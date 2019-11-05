@@ -1,0 +1,12 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "To verify that the add user API is working as expected.",
+      "stepName": "1",
+      "stepDescription": "Add users using the API - api/users",
+      "expectedResult": "Able to add user.",
+      "actualResultPass": "Was Able to add user. ",
+      "actualResultFail": "Not Able to add user."
+    }
+  ]
+}

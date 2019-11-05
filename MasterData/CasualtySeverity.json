@@ -1,0 +1,18 @@
+﻿{
+  "Severity": [
+
+    {
+      "severityId": "1153",
+      "severityType": "SLIGHT"
+
+    },
+    {
+      "severityId": "1154",
+      "severityType": "SERIOUS"
+    },
+    {
+      "severityId": "1155",
+      "severityType": "FATAL"
+    }
+  ]
+}

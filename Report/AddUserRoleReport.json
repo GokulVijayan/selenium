@@ -1,0 +1,77 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to add user role.",
+      "stepName": "1",
+      "stepDescription": "Click on Add new user role button.",
+      "expectedResult": "User is able to click on add new user role button.",
+      "actualResultPass": "User was able to click on add new user role button .",
+      "actualResultFail": "User was not able to click on add new user role button ."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Enter User Role Name.",
+      "expectedResult": "User is able to enter user role name.",
+      "actualResultPass": "User was able to enter user role name.",
+      "actualResultFail": "User was not able to enter user role name."
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Click on Page Privileges Tab.",
+      "expectedResult": "User is able to click on page privileges tab.",
+      "actualResultPass": "User was able to click on page privileges tab.",
+      "actualResultFail": "User was not able to click on page privileges tab."
+    },
+    {
+      "testObjective": "",
+      "stepName": "4",
+      "stepDescription": "Select all Application Pages",
+      "expectedResult": "User is able to select all application pages.",
+      "actualResultPass": "User was able to select all application pages.",
+      "actualResultFail": "User was not able to select all application pages."
+    },
+    {
+      "testObjective": "",
+      "stepName": "5",
+      "stepDescription": "Select all Admin Pages.Capture screenshot",
+      "expectedResult": "User is able to select all admin pages.",
+      "actualResultPass": "User was able to select all admin pages.",
+      "actualResultFail": "User was not able to select all admin pages."
+    },
+    {
+      "testObjective": "",
+      "stepName": "6",
+      "stepDescription": "Click on Field Privileges Tab.",
+      "expectedResult": "User is able to click on field privileges tab.",
+      "actualResultPass": "User was able to click on field privileges tab.",
+      "actualResultFail": "User was not able to click on field privileges tab."
+    },
+    {
+      "testObjective": "",
+      "stepName": "7",
+      "stepDescription": "Select all Form Fields.Capture screenshot",
+      "expectedResult": "User is able to select all form fields.",
+      "actualResultPass": "User was able to select all form fields.",
+      "actualResultFail": "User was not able to select all form fields."
+    },
+    {
+      "testObjective": "",
+      "stepName": "8",
+      "stepDescription": "Click on save button.",
+      "expectedResult": "User is click on save button.",
+      "actualResultPass": "User was able to click on save button.",
+      "actualResultFail": "User was not able to click on save button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "9",
+      "stepDescription": "Verify Toast Message.Capture screenshot",
+      "expectedResult": "User is able to verify toast message.",
+      "actualResultPass": "User was able to verify toast message.",
+      "actualResultFail": "User was not able to verify toast message."
+    }
+  ]
+}
+

@@ -1,0 +1,13 @@
+{
+  "TestReportSteps": [
+    {
+      
+        "testObjective": "Verify that user is able to navigate to Add Vehicle page.",
+        "stepName": "1",
+        "stepDescription": "Verify Add vehicle page title.Capture screenshot.",
+        "expectedResult": "User is able to verify Add vehicle page title.",
+        "actualResultPass": "User was able to verify Add vehicle page title.",
+        "actualResultFail": "User was not able to verify Add vehicle page title."
+      }
+  ]
+}

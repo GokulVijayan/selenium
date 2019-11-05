@@ -1,0 +1,37 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to delete Counter Measure Category.",
+      "stepName": "1",
+      "stepDescription": "Select Counter Measure Category.",
+      "expectedResult": "User is able to select counter measure category.",
+      "actualResultPass": "User was able to select counter measure category .",
+      "actualResultFail": "User was not able to select counter measure category ."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Click on delete button.Capture screenshot",
+      "expectedResult": "User is click on delete button.",
+      "actualResultPass": "User was able to click on delete button.",
+      "actualResultFail": "User was not able to click on delete button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Click on yes button.",
+      "expectedResult": "User is click on yes button.",
+      "actualResultPass": "User was able to click on yes button.",
+      "actualResultFail": "User was not able to click on yes button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "4",
+      "stepDescription": "Verify Toast Message.Capture screenshot",
+      "expectedResult": "User is able to verify toast message.",
+      "actualResultPass": "User was able to verify toast message.",
+      "actualResultFail": "User was not able to verify toast message."
+    }
+  ]
+}
+

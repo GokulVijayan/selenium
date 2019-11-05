@@ -1,0 +1,68 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to edit Crash Cost CBA Configuration.",
+      "stepName": "1",
+      "stepDescription": "Click on Crash Cost Configuration Tab.",
+      "expectedResult": "User is able to click on Crash Cost Configuration Tab. ",
+      "actualResultPass": "User was able to click on Crash Cost Configuration Tab. ",
+      "actualResultFail": "User was not able to click on Crash Cost Configuration Tab. "
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Select Year.",
+      "expectedResult": "User is able to select Year. ",
+      "actualResultPass": "User was able to select Year. ",
+      "actualResultFail": "User was not able to select Year. "
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Enter slight crash cost.",
+      "expectedResult": "User is able to enter slight crash cost.",
+      "actualResultPass": "User was able to enter slight crash cost.",
+      "actualResultFail": "User was not able to enter slight crash cost."
+    },
+    {
+      "testObjective": "",
+      "stepName": "4",
+      "stepDescription": "Enter serious crash cost.",
+      "expectedResult": "User is able to enter serious crash cost.",
+      "actualResultPass": "User was able to enter serious crash cost.",
+      "actualResultFail": "User was not able to enter serious crash cost."
+    },
+    {
+      "testObjective": "",
+      "stepName": "5",
+      "stepDescription": "Enter fatal crash cost.",
+      "expectedResult": "User is able to enter fatal crash cost.",
+      "actualResultPass": "User was able to enter fatal crash cost.",
+      "actualResultFail": "User was not able to enter fatal crash cost."
+    },
+    {
+      "testObjective": "",
+      "stepName": "6",
+      "stepDescription": "Enter damage only cost.Capture screenshot",
+      "expectedResult": "User is able to enter damage only cost.",
+      "actualResultPass": "User was able to enter damage only cost.",
+      "actualResultFail": "User was not able to enter damage only cost."
+    },
+    {
+      "testObjective": "",
+      "stepName": "7",
+      "stepDescription": "Click on Save button.",
+      "expectedResult": "User is able to click Save button.",
+      "actualResultPass": "User was able to click Save button.",
+      "actualResultFail": "User was not able to click Save button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "8",
+      "stepDescription": "Verify that user is able to edit Crash Cost CBA Configuration.Capture screenshot",
+      "expectedResult": "User is able to edit Crash Cost CBA Configuration.",
+      "actualResultPass": "User was able to edit Crash Cost CBA Configuration.",
+      "actualResultFail": "User was not able to edit Crash Cost CBA Configuration."
+    }
+  ]
+}

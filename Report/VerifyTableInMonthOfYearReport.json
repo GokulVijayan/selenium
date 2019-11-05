@@ -1,0 +1,44 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that the newly added crash record got added in the 'Crash Distribution for month of year report'",
+      "stepName": "1",
+      "stepDescription": "Verify user is able to see the count against the month and severity in the table is incremented by count 1",
+      "expectedResult": "User is able to see the updated report",
+      "actualResultPass": "User was able to see the updated report",
+      "actualResultFail": "User was not able to see the updated report"
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Verify user is able to see the total count against the month in the table is incremented by count 1",
+      "expectedResult": "User is able to see the updated report",
+      "actualResultPass": "User was able to see the updated report",
+      "actualResultFail": "User was not able to see the updated report"
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Verify user is able to see the total count against the severity in the table is incremented by count 1",
+      "expectedResult": "User is able to see the updated report",
+      "actualResultPass": "User was able to see the updated report",
+      "actualResultFail": "User was not able to see the updated report"
+    },
+    {
+      "testObjective": "",
+      "stepName": "4",
+      "stepDescription": "Verify user is able to see the grand total count in the table is incremented by count 1",
+      "expectedResult": "User is able to see the updated report",
+      "actualResultPass": "User was able to see the updated report",
+      "actualResultFail": "User was not able to see the updated report"
+    },
+    {
+      "testObjective": "",
+      "stepName": "5",
+      "stepDescription": "Verify that the user is able to see all other values in the table with no changes",
+      "expectedResult": "User is able to see all other values in the table with no changes",
+      "actualResultPass": "User was able to see all other values in the table with no changes",
+      "actualResultFail": "User was not able to see all other values in the table with no changes"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that the added crash record is listed in the audit trail page",
+      "stepName": "1",
+      "stepDescription": "Verify that in the audit trail report the added crash with crash ID is listed",
+      "expectedResult": "User is able to see the added crash with crash ID",
+      "actualResultPass": "User was able to see the added crash with crash ID ",
+      "actualResultFail": "User was not able to see the added crash with crash ID"
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Verify that in the audit trail report the added vehicle with vehicle ID is listed",
+      "expectedResult": "User is able to see the added vehicle with vehicle ID",
+      "actualResultPass": "User was able to see the added vehicle with vehicle ID ",
+      "actualResultFail": "User was not able to see the added vehicle with vehicle ID"
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Verify that in the audit trail report the added casualty with casualty ID is listed.Capture screenshot",
+      "expectedResult": "User is able to see the added casualty with casualty ID",
+      "actualResultPass": "User was able to see the added casualty with casualty ID ",
+      "actualResultFail": "User was not able to see the added casualty with casualty ID"
+    }
+  ]
+}

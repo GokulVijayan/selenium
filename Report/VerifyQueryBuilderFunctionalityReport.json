@@ -1,0 +1,13 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that the query builder functionality is working as expected",
+      "stepName": "1",
+      "stepDescription": "Verify that the generated report contains only the details relating to applied query.",
+      "expectedResult": "User is able to verify generated report contains only the details relating to applied query.",
+      "actualResultPass": "User was able to verify generated report contains only the details relating to applied query",
+      "actualResultFail": "The generated report contains details of crash other than the applied query"
+    }
+  ]
+}
+

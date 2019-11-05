@@ -1,0 +1,102 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to save hostspot parameters.",
+      "stepName": "1",
+      "stepDescription": "Click 'GENERAL PARAMETERS' tab.",
+      "expectedResult": "User is able to click 'GENERAL PARAMETERS' tab.",
+      "actualResultPass": "User was able to click 'GENERAL PARAMETERS' tab.",
+      "actualResultFail": "User was not able to click 'GENERAL PARAMETERS' tab."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Select 'Default Date Range'.",
+      "expectedResult": "User is able to select 'Default Date Range'.",
+      "actualResultPass": "User was able to select 'Default Date Range'.",
+      "actualResultFail": "User was not able to select 'Default Date Range'."
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Enter 'Default Resolution Distance - in meters'.",
+      "expectedResult": "User is able to enter 'Default Resolution Distance - in meters'.",
+      "actualResultPass": "User was able to enter 'Default Resolution Distance - in meters'.",
+      "actualResultFail": "User was not able to enter 'Default Resolution Distance - in meters'."
+    },
+    {
+      "testObjective": "",
+      "stepName": "4",
+      "stepDescription": "Enter 'Default Corridor Length - in meters'.",
+      "expectedResult": "User is able to enter 'Default Corridor Length - in meters'.",
+      "actualResultPass": "User was able to enter 'Default Corridor Length - in meters'.",
+      "actualResultFail": "User was not able to enter 'Default Corridor Length - in meters'."
+    },
+    {
+      "testObjective": "",
+      "stepName": "5",
+      "stepDescription": "Enter 'Default Incremental Length - in meters'.",
+      "expectedResult": "User is able to enter 'Default Incremental Length - in meters'.",
+      "actualResultPass": "User was able to enter 'Default Incremental Length - in meters'.",
+      "actualResultFail": "User was not able to enter 'Default Incremental Length - in meters'."
+    },
+    {
+      "testObjective": "",
+      "stepName": "6",
+      "stepDescription": "Enter 'Maximum Number of Crash Type Pattern for Consideration'.",
+      "expectedResult": "User is able to enter 'Maximum Number of Crash Type Pattern for Consideration'.",
+      "actualResultPass": "User was able to enter 'Maximum Number of Crash Type Pattern for Consideration'.",
+      "actualResultFail": "User was not able to enter 'Maximum Number of Crash Type Pattern for Consideration'."
+    },
+    {
+      "testObjective": "",
+      "stepName": "7",
+      "stepDescription": "Enter 'Minimum Crash Type Pattern for Consideration - %'.",
+      "expectedResult": "User is able to enter 'Minimum Crash Type Pattern for Consideration - %'.",
+      "actualResultPass": "User was able to enter 'Minimum Crash Type Pattern for Consideration - %'.",
+      "actualResultFail": "User was not able to enter 'Minimum Crash Type Pattern for Consideration - %'."
+    },
+    {
+      "testObjective": "",
+      "stepName": "8",
+      "stepDescription": "Enter 'Qualification Score'.",
+      "expectedResult": "User is able to enter 'Qualification Score'.",
+      "actualResultPass": "User was able to enter 'Qualification Score'.",
+      "actualResultFail": "User was not able to enter 'Qualification Score'."
+    },
+    {
+      "testObjective": "",
+      "stepName": "9",
+      "stepDescription": "Enter 'Minimum Number of Crashes Required for Crash Type Pattern'.",
+      "expectedResult": "User is able to enter 'Minimum Number of Crashes Required for Crash Type Pattern'.",
+      "actualResultPass": "User was able to enter 'Minimum Number of Crashes Required for Crash Type Pattern'.",
+      "actualResultFail": "User was not able to enter 'Minimum Number of Crashes Required for Crash Type Pattern'."
+    },
+    {
+      "testObjective": "",
+      "stepName": "10",
+      "stepDescription": "Enter 'Minimum Number of Crashes Required for Cluster'.",
+      "expectedResult": "User is able to enter 'Minimum Number of Crashes Required for Cluster'.",
+      "actualResultPass": "User was able to enter 'Minimum Number of Crashes Required for Cluster'.",
+      "actualResultFail": "User was not able to enter 'Minimum Number of Crashes Required for Cluster'."
+    },
+    {
+      "testObjective": "",
+      "stepName": "11",
+      "stepDescription": "Click 'Save' button.",
+      "expectedResult": "User is able to click 'Save' button.",
+      "actualResultPass": "User was able to click 'Save' button.",
+      "actualResultFail": "User was not able to click 'Save' button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "12",
+      "stepDescription": "Verify toast message 'The record was saved successfully.'.Capture screenshot.",
+      "expectedResult": "User is able to verify toast message 'The record was saved successfully.'.",
+      "actualResultPass": "User was able to verify toast message 'The record was saved successfully.'.",
+      "actualResultFail": "User was not able to verify toast message 'The record was saved successfully.'."
+    }
+
+  ]
+}
+

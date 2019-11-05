@@ -1,0 +1,19 @@
+{
+  "TestData": [
+    {
+      "injuryRefNo": "66",
+      "vehicleReferenceNumber": "1",
+      "crashDate": "01-Aug-2019",
+      "casualtyClassDropDown": "Pedestrian",
+      "numberOfVehicles": "1",
+      "password": "Trl@123456",
+      "toastMsg": "The record was saved successfully.",
+      "username": "ReshmaPradeep",
+      "vehicleReferenceNo": "1",
+      "verifyCrashRefLabel": "Crash Ref. No",
+      "verifyDeleteText": "The record was deleted.",
+      "verifyLogoutText": "Logout You are now logged out.",
+      "verifyCrashDelete": "No records found."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "TestReportSteps": [
+    
+      {
+        "testObjective": "Verify the elements displayed in Add Vehicle Details Page.",
+        "stepName": "1",
+        "stepDescription": "Verify back button .Capture screenshot.",
+        "expectedResult": "User is able to verify back button in Add Vehicle Details page",
+        "actualResultPass": "User was able to verify back button in Add Vehicle Details page",
+        "actualResultFail": "User was not able to verify back button in Add Vehicle Details page"
+      },
+      {
+        "testObjective": " ",
+        "stepName": "2",
+        "stepDescription": "Verify vehicle registration no.Capture screenshot.",
+        "expectedResult": "User is able to verify vehicle registration no. in Add Vehicle Details page.",
+        "actualResultPass": "User was able to verify vehicle registration no. in Add Vehicle Details page.",
+        "actualResultFail": "User was not able to verify vehicle registration no. in Add Vehicle Details page."
+      },
+      {
+        "testObjective": " ",
+        "stepName": "3",
+        "stepDescription": "Verify Add More Details link in Add Vehicle Details Screen.Capture screenshot.",
+        "expectedResult": "User is able to verify Add More Details link in Add Vehicle Details page.",
+        "actualResultPass": "User was able to verify Add More Details link in Add Vehicle Details page.",
+        "actualResultFail": "User was not able to verify Add More Details link in Add Vehicle Details page."
+      },
+      {
+        "testObjective": " ",
+        "stepName": "4",
+        "stepDescription": "Verify Next Button in Add Vehicle Details Screen.Capture screenshot.",
+        "expectedResult": "User is able to verify Next Button in Add Vehicle Details page.",
+        "actualResultPass": "User was able to verify Next Button in Add Vehicle Details page.",
+        "actualResultFail": "User was not able to verify Next Button in Add Vehicle Details page."
+      },
+      {
+        "testObjective": " ",
+        "stepName": "5",
+        "stepDescription": "Verify Save and View Button in Add Vehicle Details Screen.Capture screenshot.",
+        "expectedResult": "User is able to verify Save and View Button in Add Vehicle Details page.",
+        "actualResultPass": "User was able to verify Save and View Button in Add Vehicle Details page.",
+        "actualResultFail": "User was not able to verify Save and View Button in Add Vehicle Details page."
+      }
+  ]
+}

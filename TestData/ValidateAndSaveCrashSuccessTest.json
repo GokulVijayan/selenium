@@ -1,0 +1,21 @@
+﻿{
+"TestData": [
+  {
+    "toastMsg": "The record was saved successfully.",
+    "username": "ReshmaPradeep",
+	"password": "Trl@123456",
+    "validateErrorMsg": "Vehicle reference number is missing for one or more vehicles",
+    "verifyCrashRefLabel": "Crash Ref. No",
+    "verifyDeleteText": "The record was deleted.",
+    "verifyLogoutText": "Logout You are now logged out.",
+	 "toastMsg": "The record was saved successfully.",
+	 "vehicleReferenceNo": "292",
+    "vehicleReferenceNumber": "292",
+	"verifyLogoutText": "Logout You are now logged out.",
+
+
+
+
+  }
+  ]
+}

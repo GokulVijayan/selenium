@@ -1,0 +1,93 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to add user account.",
+      "stepName": "1",
+      "stepDescription": "Click on Add new user account button.",
+      "expectedResult": "User is able to click on add new user account button.",
+      "actualResultPass": "User was able to click on add new user account button .",
+      "actualResultFail": "User was not able to click on add new user account button ."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Enter User Name.",
+      "expectedResult": "User is able to enter user name.",
+      "actualResultPass": "User was able to enter user name.",
+      "actualResultFail": "User was not able to enter user name."
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Enter First Name.",
+      "expectedResult": "User is able to enter first name.",
+      "actualResultPass": "User was able to enter first name.",
+      "actualResultFail": "User was not able to enter first name."
+    },
+    {
+      "testObjective": "",
+      "stepName": "4",
+      "stepDescription": "Enter Email.",
+      "expectedResult": "User is able to enter email.",
+      "actualResultPass": "User was able to enter email.",
+      "actualResultFail": "User was not able to enter email."
+    },
+    {
+      "testObjective": "",
+      "stepName": "5",
+      "stepDescription": "Enter Confirm Email.",
+      "expectedResult": "User is able to enter confirm email.",
+      "actualResultPass": "User was able to enter confirm email.",
+      "actualResultFail": "User was not able to enter confirm email."
+    },
+    {
+      "testObjective": "",
+      "stepName": "6",
+      "stepDescription": "Enter Password.",
+      "expectedResult": "User is able to enter password.",
+      "actualResultPass": "User was able to enter password.",
+      "actualResultFail": "User was not able to enter password."
+    },
+    {
+      "testObjective": "",
+      "stepName": "7",
+      "stepDescription": "Enter Confirm Password.Capture screenshot",
+      "expectedResult": "User is able to enter confirm password.",
+      "actualResultPass": "User was able to enter confirm password.",
+      "actualResultFail": "User was not able to enter confirm password."
+    },
+    {
+      "testObjective": "",
+      "stepName": "8",
+      "stepDescription": "Select Department",
+      "expectedResult": "User is able to select department.",
+      "actualResultPass": "User was able to select department.",
+      "actualResultFail": "User was not able to select department."
+    },
+    {
+      "testObjective": "",
+      "stepName": "9",
+      "stepDescription": "Select User Role.Capture screenshot",
+      "expectedResult": "User is able to select user role.",
+      "actualResultPass": "User was able to select user role.",
+      "actualResultFail": "User was not able to select user role."
+    },
+    {
+      "testObjective": "",
+      "stepName": "10",
+      "stepDescription": "Click on save button.",
+      "expectedResult": "User is click on save button.",
+      "actualResultPass": "User was able to click on save button.",
+      "actualResultFail": "User was not able to click on save button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "11",
+      "stepDescription": "Verify Toast Message.Capture screenshot",
+      "expectedResult": "User is able to verify toast message.",
+      "actualResultPass": "User was able to verify toast message.",
+      "actualResultFail": "User was not able to verify toast message."
+    }
+  ]
+}
+

@@ -1,0 +1,45 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to run 'Summary Print Report'.",
+      "stepName": "1",
+      "stepDescription": "Click filter option.",
+      "expectedResult": "User is able to click filter option.",
+      "actualResultPass": "User was able to click filter option.",
+      "actualResultFail": "User was not able to click filter option."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Check option 'Valid Records'.",
+      "expectedResult": "User is able to check option 'Valid Records'.",
+      "actualResultPass": "User was able to check option 'Valid Records'.",
+      "actualResultFail": "User was not able to check option 'Valid Records'."
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Select 'From Date'.",
+      "expectedResult": "User is able to select 'From Date'.",
+      "actualResultPass": "User was able to select 'From Date'.",
+      "actualResultFail": "User was not able to select 'From Date'."
+    },
+    {
+      "testObjective": "",
+      "stepName": "4",
+      "stepDescription": "Select 'To Date'.Capture screenshot.",
+      "expectedResult": "User is able to select 'To Date'.",
+      "actualResultPass": "User was able to select 'To Date'.",
+      "actualResultFail": "User was not able to select 'To Date'."
+    },
+    {
+      "testObjective": "",
+      "stepName": "5",
+      "stepDescription": "Check 'Apply' button.",
+      "expectedResult": "User is able to click 'Apply' button.",
+      "actualResultPass": "User was able to click 'Apply' button'.",
+      "actualResultFail": "User was not able to click 'Apply' button."
+    }
+  ]
+}
+

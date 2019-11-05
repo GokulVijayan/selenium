@@ -1,0 +1,13 @@
+{
+  "TestReportSteps": [
+
+    {
+      "testObjective": "Verify that query builder page can be closed.",
+      "stepName": "1",
+      "stepDescription": "Click on close button.",
+      "expectedResult": "User is able to click close button.",
+      "actualResultPass": "User was able to click close button.",
+      "actualResultFail": "User was not able to click close button."
+    }
+  ]
+}

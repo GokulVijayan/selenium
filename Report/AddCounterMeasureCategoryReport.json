@@ -1,0 +1,37 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to add Counter Measure Category.",
+      "stepName": "1",
+      "stepDescription": "Click on Add CMC Button.",
+      "expectedResult": "User is able to click on add button.",
+      "actualResultPass": "User was able to click on add button .",
+      "actualResultFail": "User was not able to click on add button ."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Enter Counter Measure Category Name.Capture screenshot",
+      "expectedResult": "User is able to enter counter measure category name.",
+      "actualResultPass": "User was able to enter counter measure category name.",
+      "actualResultFail": "User was not able to enter counter measure category name."
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Click on save button.",
+      "expectedResult": "User is click on save button.",
+      "actualResultPass": "User was able to click on save button.",
+      "actualResultFail": "User was not able to click on save button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "4",
+      "stepDescription": "Verify Toast Message.Capture screenshot",
+      "expectedResult": "User is able to verify toast message.",
+      "actualResultPass": "User was able to verify toast message.",
+      "actualResultFail": "User was not able to verify toast message."
+    }
+  ]
+}
+

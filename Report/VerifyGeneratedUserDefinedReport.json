@@ -1,0 +1,22 @@
+{
+  "TestReportSteps": [
+    {
+
+      "testObjective": "Verify that user is able to verify Report Heading.",
+      "stepName": "1",
+      "stepDescription": "Verify Report Heading.",
+      "expectedResult": "User is able to verify Report Heading.",
+      "actualResultPass": "User was able to verify Report Heading.",
+      "actualResultFail": "User was not able to verify Report Heading."
+    },
+    {
+
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Verify Crash Count has been updated.Capture screenshot",
+      "expectedResult": "User is able to verify Crash Count has been updated.",
+      "actualResultPass": "User was able to verify Crash Count has been updated.",
+      "actualResultFail": "User was not able to verify Crash Count has been updated."
+    }
+  ]
+}

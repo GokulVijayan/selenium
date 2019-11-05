@@ -1,0 +1,13 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to navigate to SCA Configuration page.",
+      "stepName": "1",
+      "stepDescription": "Verify SCA Configuration page title.Capture screenshot.",
+      "expectedResult": "User is able to verify SCA Configuration page title.",
+      "actualResultPass": "User was able to verify SCA Configuration page title.",
+      "actualResultFail": "User was not able to verify SCA Configuration page title."
+    }
+  ]
+}
+

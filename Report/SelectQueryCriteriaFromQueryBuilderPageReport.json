@@ -1,0 +1,20 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that select query criteria from query builder page functionality is working as expected.",
+      "stepName": "1",
+      "stepDescription": "Select query Option.",
+      "expectedResult": "User is able to select query option.",
+      "actualResultPass": "User was able to select query option.",
+      "actualResultFail": "User was not able to select query option."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Select Value. Capture Screenshot.",
+      "expectedResult": "User is able to select Value.",
+      "actualResultPass": "User was able to select Value.",
+      "actualResultFail": "User was not able to select Value."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "TestReportSteps": [
+
+    {
+      "testObjective": "Verify that user is able to setup vehicle fields in query builder screen.",
+      "stepName": "1",
+      "stepDescription": "Click on Vehicle Tab.",
+      "expectedResult": "User is able to click on vehicle tab.",
+      "actualResultPass": "User was able to click on vehicle tab.",
+      "actualResultFail": "User was not able to click on vehicle tab."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Select Field.",
+      "expectedResult": "User is able to select Field.",
+      "actualResultPass": "User was able to select Field.",
+      "actualResultFail": "User was not able to select Field."
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Select Query.",
+      "expectedResult": "User is able to select Query.",
+      "actualResultPass": "User was able to select Query.",
+      "actualResultFail": "User was not able to select Query."
+    },
+    {
+      "testObjective": "",
+      "stepName": "4",
+      "stepDescription": "Select Value.",
+      "expectedResult": "User is able to select Value.",
+      "actualResultPass": "User was able to select Value.",
+      "actualResultFail": "User was not able to select Value."
+    },
+    {
+      "testObjective": "",
+      "stepName": "5",
+      "stepDescription": "Click on Vehicle Tab.Capture Screenshot",
+      "expectedResult": "User is able to click on Vehicle tab.",
+      "actualResultPass": "User was able to click on Vehicle tab.",
+      "actualResultFail": "User was not able to click on Vehicle tab."
+    }
+  ]
+}

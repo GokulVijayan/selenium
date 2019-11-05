@@ -1,0 +1,20 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to verify stick analysis report.",
+      "stepName": "1",
+      "stepDescription": "Verify stick analysis header.",
+      "expectedResult": "User is able to verify stick analysis header.",
+      "actualResultPass": "User was able to verify stick analysis header.",
+      "actualResultFail": "User was not able to verify stick analysis header."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Verify crash records in the report.Capture screenshot",
+      "expectedResult": "User is able to verify crash records in the report.",
+      "actualResultPass": "User was able to verify crash records in the report.",
+      "actualResultFail": "User was not able to verify crash records in the report."
+    }
+  ]
+}

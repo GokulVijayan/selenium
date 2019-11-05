@@ -1,0 +1,61 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to add link between Cause and Counter Measure Category.",
+      "stepName": "1",
+      "stepDescription": "Click on Linking Screen Tab.",
+      "expectedResult": "User is able to click on linking screen tab.",
+      "actualResultPass": "User was able to click on linking screen tab .",
+      "actualResultFail": "User was not able to click on linking screen tab ."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Select Crash Type",
+      "expectedResult": "User is able to select crash type.",
+      "actualResultPass": "User was able to select crash type.",
+      "actualResultFail": "User was not able to select crash type."
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Click on Add button.",
+      "expectedResult": "User is click on add button.",
+      "actualResultPass": "User was able to click on add button.",
+      "actualResultFail": "User was not able to click on add button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "4",
+      "stepDescription": "Select Possible Cause",
+      "expectedResult": "User is able to select possible cause.",
+      "actualResultPass": "User was able to select possible cause.",
+      "actualResultFail": "User was not able to select possible cause."
+    },
+    {
+      "testObjective": "",
+      "stepName": "5",
+      "stepDescription": "Select Counter Measure.Capture screenshot",
+      "expectedResult": "User is able to select counter measure.",
+      "actualResultPass": "User was able to select counter measure.",
+      "actualResultFail": "User was not able to select counter measure."
+    },
+    {
+      "testObjective": "",
+      "stepName": "6",
+      "stepDescription": "Click on Save button.",
+      "expectedResult": "User is click on save button.",
+      "actualResultPass": "User was able to click on save button.",
+      "actualResultFail": "User was not able to click on save button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "7",
+      "stepDescription": "Verify Toast Message.Capture screenshot",
+      "expectedResult": "User is able to verify toast message.",
+      "actualResultPass": "User was able to verify toast message.",
+      "actualResultFail": "User was not able to verify toast message."
+    }
+  ]
+}
+

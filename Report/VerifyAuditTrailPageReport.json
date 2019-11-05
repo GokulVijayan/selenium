@@ -1,0 +1,12 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to navigate to Audit Trail page.",
+      "stepName": "1",
+      "stepDescription": "Verify Audit Trail page title.Capture screenshot.",
+      "expectedResult": "User is able to verify Audit Trail page title.",
+      "actualResultPass": "User was able to verify Audit Trail page title.",
+      "actualResultFail": "User was not able to verify Audit Trail page title."
+    }
+  ]
+}

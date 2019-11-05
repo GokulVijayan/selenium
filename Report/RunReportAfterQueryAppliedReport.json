@@ -1,0 +1,38 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "",
+      "stepName": "1",
+      "stepDescription": "Click General option.",
+      "expectedResult": "User is able to click on General option.",
+      "actualResultPass": "User was able to click General option.",
+      "actualResultFail": "User was not able to click option."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Select  ",
+      "expectedResult": "User is able to select ",
+      "actualResultPass": "User was able to select ",
+      "actualResultFail": "User was not able to select "
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Click Filter icon.",
+      "expectedResult": "User is able to click filter icon.",
+      "actualResultPass": "User was able to click filter icon.",
+      "actualResultFail": "User was not able to click filter icon."
+    },
+    {
+      "testObjective": "",
+      "stepName": "4",
+      "stepDescription": "Check 'Apply and Run' button.",
+      "expectedResult": "User is able to click 'Apply and Run' button.",
+      "actualResultPass": "User was able to click 'Apply and Run' button'.",
+      "actualResultFail": "User was not able to click 'Apply and Run' button."
+    }
+  ]
+}
+
+

@@ -1,0 +1,76 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to edit SCA Configuration for Average Speed Camera.",
+      "stepName": "1",
+      "stepDescription": "Click on Average Speed Tab.",
+      "expectedResult": "User is able to click on Average Speed Tab. ",
+      "actualResultPass": "User was able to click on Average Speed Tab. ",
+      "actualResultFail": "User was not able to click on Average Speed Tab. "
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Enter Lower bound of Length.",
+      "expectedResult": "User is able to enter Lower bound of Length. ",
+      "actualResultPass": "User was able to enter Lower bound of Length. ",
+      "actualResultFail": "User was not able to enter Lower bound of Length. "
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Enter Upper bound of Length.",
+      "expectedResult": "User is able to enter Upper bound of Length.",
+      "actualResultPass": "User was able to enter Upper bound of Length.",
+      "actualResultFail": "User was not able to enter Upper bound of Length."
+    },
+    {
+      "testObjective": "",
+      "stepName": "4",
+      "stepDescription": "Enter KSI Per Year.",
+      "expectedResult": "User is able to enter KSI Per Year.",
+      "actualResultPass": "User was able to enter KSI Per Year.",
+      "actualResultFail": "User was not able to enter KSI Per Year."
+    },
+    {
+      "testObjective": "",
+      "stepName": "5",
+      "stepDescription": "Enter PIC Value.",
+      "expectedResult": "User is able to enter PIC Value.",
+      "actualResultPass": "User was able to enter PIC Value.",
+      "actualResultFail": "User was not able to enter PIC Value."
+    },
+    {
+      "testObjective": "",
+      "stepName": "6",
+      "stepDescription": "Enter Urban PIC Value.",
+      "expectedResult": "User is able to enter Urban PIC Value.",
+      "actualResultPass": "User was able to enter Urban PIC Value.",
+      "actualResultFail": "User was not able to enter Urban PIC Value."
+    },
+    {
+      "testObjective": "",
+      "stepName": "7",
+      "stepDescription": "Enter Rural PIC Value.Capture screenshot",
+      "expectedResult": "User is able to enter Rural PIC Value.",
+      "actualResultPass": "User was able to enter Rural PIC Value.",
+      "actualResultFail": "User was not able to enter Rural PIC Value."
+    },
+    {
+      "testObjective": "",
+      "stepName": "8",
+      "stepDescription": "Click on Save button.",
+      "expectedResult": "User is able to click Save button.",
+      "actualResultPass": "User was able to click Save button.",
+      "actualResultFail": "User was not able to click Save button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "9",
+      "stepDescription": "Verify that user is able to edit SCA Configuration for Average Speed Camera.Capture screenshot",
+      "expectedResult": "User is able to edit SCA Configuration for Average Speed Camera.",
+      "actualResultPass": "User was able to edit SCA Configuration for Average Speed Camera.",
+      "actualResultFail": "User was not able to edit SCA Configuration for Average Speed Camera."
+    }
+  ]
+}

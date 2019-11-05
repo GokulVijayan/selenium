@@ -1,0 +1,21 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that access control options are displayed properly.",
+      "stepName": "1",
+      "stepDescription": "Click 'ACCESS CONTROLS' tab.",
+      "expectedResult": "User is able to click 'ACCESS CONTROLS' tab.",
+      "actualResultPass": "User was able to click 'ACCESS CONTROLS' tab.",
+      "actualResultFail": "User was not able to click 'ACCESS CONTROLS' tab."
+    },
+    {
+      "testObjective": ".",
+      "stepName": "2",
+      "stepDescription": "Verify the access control options displayed.Capture screenshot.",
+      "expectedResult": "User is able to verify the access control options displayed.",
+      "actualResultPass": "User was able to click 'ACCESS CONTROLS' tab.",
+      "actualResultFail": "User was not able to click 'ACCESS CONTROLS' tab."
+    }
+  ]
+}
+

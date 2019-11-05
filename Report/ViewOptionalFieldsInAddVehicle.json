@@ -1,0 +1,20 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that on expanding Add more details section,optional fields can be seen.",
+      "stepName": "1",
+      "stepDescription": "Click on Expand Button.",
+      "expectedResult": "User is able to click on expand button.",
+      "actualResultPass": "User was able to click on expand button.",
+      "actualResultFail": "User was not able to click on expand button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "User is able to view all the optional fields.Capture screenshot.",
+      "expectedResult": "User is able to view all the optional fields.",
+      "actualResultPass": "User was able to view all the optional fields.",
+      "actualResultFail": "User was not able to view all the optional fields."
+    }
+  ]
+}

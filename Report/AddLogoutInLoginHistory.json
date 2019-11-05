@@ -1,0 +1,12 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify login history data",
+      "stepName": "1",
+      "stepDescription": "Logout from the application.Capture screenshot.",
+      "expectedResult": "User is able to logout.",
+      "actualResultPass": "User was able to logout.",
+      "actualResultFail": "User was not able to logout."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "To verify that user is able to add new hotspot type.",
+      "stepName": "1",
+      "stepDescription": "Invoke the add hotspot API /api/blackspottypes. Verify that new hotspot type can be added.",
+      "expectedResult": "User is able to add new hotspot type.",
+      "actualResultPass": "User was able to add new hotspot type.",
+      "actualResultFail": "User was not able to add new hotspot type."
+    }
+  ]
+}

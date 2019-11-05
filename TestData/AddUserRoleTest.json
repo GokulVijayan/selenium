@@ -1,0 +1,86 @@
+﻿{
+  "TestData": [
+    {
+      "password": "Trl@123456",
+      "username": "ReshmaPradeep",
+      "verifyLogoutText": "Logout You are now logged out.",
+      "verifySaveUserAccount": "The record was saved successfully.",
+      "userRoleName": "TestUserRole",
+      "verifySaveUserRole": "The record was saved successfully.",
+      "userName": "TestUser",
+      "firstName": "Test User",
+      "email": "@mailinator.com",
+      "userPassword": "Trl@123456",
+      "confirmPassword": "Trl@123456",
+      "department": "Test"
+    }
+  ],
+  "UserRoleTestData" :[
+    {
+      "id": 0,
+      "userName": "TestUser1",
+      "confirmPassword": "74npGVe1rfkPbPTBgOmp2ZDNh/IRdm6P77984lhDjuA=",
+      "passwordHash": "74npGVe1rfkPbPTBgOmp2ZDNh/IRdm6P77984lhDjuA=",
+      "authenticationTypeId": 0,
+      "email": "TestUser@mailinator.com",
+      "confirmEmail": "TestUser@mailinator.com",
+      "firstName": "TestUser",
+      "lastName": "",
+      "mobileNumber": "",
+      "departmentId": "1",
+      "designationName": "",
+      "userRoleId": "22",
+      "isLocked": false,
+      "isActive": true,
+      "isAdmin": false,
+      "isCurrentUser": false,
+      "hasFullPrivilege": true,
+      "preferredLanguageId": 0,
+      "userDataSecurityDetails": [],
+      "dataSecuritySelection": [
+        {
+          "isSelected": true,
+          "accessType": 2,
+          "lookupId": 764,
+          "userDataSecurityDetails": ""
+        },
+        {
+          "isSelected": true,
+          "accessType": 2,
+          "lookupId": 765,
+          "userDataSecurityDetails": ""
+        },
+        {
+          "isSelected": true,
+          "accessType": 2,
+          "lookupId": 766,
+          "userDataSecurityDetails": ""
+        },
+        {
+          "isSelected": true,
+          "accessType": 2,
+          "lookupId": 767,
+          "userDataSecurityDetails": ""
+        },
+        {
+          "isSelected": true,
+          "accessType": 2,
+          "lookupId": 768,
+          "userDataSecurityDetails": ""
+        },
+        {
+          "isSelected": true,
+          "accessType": 2,
+          "lookupId": 769,
+          "userDataSecurityDetails": ""
+        },
+        {
+          "isSelected": true,
+          "accessType": 2,
+          "lookupId": 770,
+          "userDataSecurityDetails": ""
+        }
+      ]
+    }
+  ]
+}

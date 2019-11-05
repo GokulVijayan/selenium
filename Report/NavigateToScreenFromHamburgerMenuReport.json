@@ -1,0 +1,21 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to navigate to screen - ",
+      "stepName": "1",
+      "stepDescription": "Click hamburger menu.Capture screenshot.",
+      "expectedResult": "User is able to click hamburger menu.",
+      "actualResultPass": "User was able to click hamburger menu.",
+      "actualResultFail": "User was not able to click hamburger menu."
+    },
+    {
+      "testObjective": " ",
+      "stepName": "2",
+      "stepDescription": "Select menu item - ",
+      "expectedResult": "User is able to navigate to select menu item - ",
+      "actualResultPass": "User was able to navigate to select menu item - ",
+      "actualResultFail": "User was not able to navigate to select menu item - "
+    }
+  ]
+}
+

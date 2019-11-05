@@ -1,0 +1,28 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that export to excel functionality in Form field Report is working as expected.",
+      "stepName": "1",
+      "stepDescription": "Click export icon.",
+      "expectedResult": "User is able to click export icon.",
+      "actualResultPass": "User was able to click export icon.",
+      "actualResultFail": "User was not able to click export icon."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Verify that excel file is exported.",
+      "expectedResult": "User is able to verify that excel file is exported.",
+      "actualResultPass": "User was able to verify that excel file is exported.",
+      "actualResultFail": "User was not able to verify that excel file is exported."
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Verify that exported excel file data is correct.",
+      "expectedResult": "The exported excel file data is correct.",
+      "actualResultPass": "The exported excel file data is correct.",
+      "actualResultFail": "The exported excel file data is incorrect."
+    }
+  ]
+}

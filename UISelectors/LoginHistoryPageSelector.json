@@ -1,0 +1,23 @@
+{
+
+  "logoutBtn": "//i[@class='trl-icn-logout']",
+  "searchUserDropDownIcon": "//wj-multi-select[@class='form-control wj-control wj-content wj-dropdown wj-combobox wj-multiselect wj-state-readonly wj-state-empty wj-state-collapsed']",
+  "searchUserDropDownSelectAll": "//div[@class='wj-header wj-select-all wj-listbox-item']",
+  "multiSelect": "//wj-multi-select/div[1]/div/div/span/button",
+  "userSelector": "//input[@class='wj-form-control']",
+  "calenderButton": "//button[@class='btnpicker btnpickerenabled']",
+  "calenderCurrentDateDiv": "//div[@class='selectedday currmonth selecteddaygreen']",
+  "calenderCurrentDate": "//span[@class='currday']",
+  "calenderEndDateLink": "//div[@class='titlearearight titlearearightdisabled titleareatxtlink']",
+  "calenderEndDateButton": "//button[contains(text(),'Start Date')]",
+  "calenderOkButton": "//button[@class='footerbtn footerbtnenabled'][contains(text(),'OK')]",
+  "searchButton": "//button[@class='trl-c-btn trl-c-btn--primary trl-c-btn--sm']",
+  "resetButton": "//button[@class='trl-c-btn trl-c-btn--secondary trl-c-btn--sm']",
+  "nextPageButton": "//body//button[4]",
+  "firstPageButton": "//div[@class='trl-l-app-content-wrapper trl-u-pt0']//button[1]",
+  "lastPageButton": "//body//button[5]",
+  "dateRangeSelectorTextField": "//my-date-range-picker/div/div/input",
+  "grid": "//div[@wj-part='root']/div[@class='wj-cells']/div",
+  "pageCount": "//div[@class='btn-group']",
+  "gridSelector": "//wj-flex-grid[1]/div[1]/div[1]/div[1]/div["
+}

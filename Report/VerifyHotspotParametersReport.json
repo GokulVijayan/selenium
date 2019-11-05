@@ -1,0 +1,38 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to verify hostspot parameters in hotspot identification screen.",
+      "stepName": "1",
+      "stepDescription": "Verify 'Default Date Range'.",
+      "expectedResult": "User is able to verify 'Default Date Rage'.",
+      "actualResultPass": "User was able to verify 'Default Date Range'.",
+      "actualResultFail": "User was not able to verify 'Default Date Range'."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Verify 'Default Resolution Distance - in meters'.",
+      "expectedResult": "User is able to verify 'Default Resolution Distance - in meters'.",
+      "actualResultPass": "User was able to verify 'Default Resolution Distance - in meters'.",
+      "actualResultFail": "User was not able to verify 'Default Resolution Distance - in meters'."
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Verify 'Default Corridor Length - in meters'.Capture screenshot.",
+      "expectedResult": "User is able to verify 'Default Corridor Length - in meters'.",
+      "actualResultPass": "User was able to verify 'Default Corridor Length - in meters'.",
+      "actualResultFail": "User was not able to verify 'Default Corridor Length - in meters'."
+    },
+    {
+      "testObjective": "",
+      "stepName": "4",
+      "stepDescription": "Verify 'Default Incremental Length - in meters'.Capture screenshot.",
+      "expectedResult": "User is able to verify 'Default Incremental Length - in meters'.",
+      "actualResultPass": "User was able to verify 'Default Incremental Length - in meters'.",
+      "actualResultFail": "User was not able to verify 'Default Incremental Length - in meters'."
+    }
+
+  ]
+}
+

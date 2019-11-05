@@ -1,0 +1,12 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to run Cross Tab report.",
+      "stepName": "1",
+      "stepDescription": "Click 'Run' button.",
+      "expectedResult": "User is able to click 'Run' button. ",
+      "actualResultPass": "User was able to click 'Run' button. ",
+      "actualResultFail": "User was not able to click 'Run' button. "
+    }
+  ]
+}

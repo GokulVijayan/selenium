@@ -1,0 +1,53 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to add possible.",
+      "stepName": "1",
+      "stepDescription": "Click on Possible Cause Tab.",
+      "expectedResult": "User is able to click on possible cause tab.",
+      "actualResultPass": "User was able to click on possible cause tab .",
+      "actualResultFail": "User was not able to click on possible cause tab ."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Click on Add Possible Cause Button.",
+      "expectedResult": "User is able to click on add possible cause button.",
+      "actualResultPass": "User was able to click on add possible cause button.",
+      "actualResultFail": "User was not able to click on add possible cause button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Enter Possible Cause.",
+      "expectedResult": "User is able to enter possible cause.",
+      "actualResultPass": "User was able to enter possible cause.",
+      "actualResultFail": "User was not able to enter possible cause."
+    },
+    {
+      "testObjective": "",
+      "stepName": "4",
+      "stepDescription": "Enter Possible Cause Description.Capture screenshot",
+      "expectedResult": "User is able to enter possible description.",
+      "actualResultPass": "User was able to enter possible description.",
+      "actualResultFail": "User was not able to enter possible description."
+    },
+    {
+      "testObjective": "",
+      "stepName": "5",
+      "stepDescription": "Click on save button.",
+      "expectedResult": "User is click on save button.",
+      "actualResultPass": "User was able to click on save button.",
+      "actualResultFail": "User was not able to click on save button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "6",
+      "stepDescription": "Verify Toast Message.Capture screenshot",
+      "expectedResult": "User is able to verify toast message.",
+      "actualResultPass": "User was able to verify toast message.",
+      "actualResultFail": "User was not able to verify toast message."
+    }
+  ]
+}
+

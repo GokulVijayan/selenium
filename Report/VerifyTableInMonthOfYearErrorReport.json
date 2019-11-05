@@ -1,0 +1,12 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that the newly added crash record got added in the 'Crash Distribution for month of year report'",
+      "stepName": "1",
+      "stepDescription": "Verify user is able to see updated report",
+      "expectedResult": "User is able to see the updated report",
+      "actualResultPass": "User was able to see the updated report",
+      "actualResultFail": "The table dimensions in the reports which is generated before and after adding the crash is not same"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to edit General CBA Configuration.",
+      "stepName": "1",
+      "stepDescription": "Click on General Configuration Tab.",
+      "expectedResult": "User is able to click on General Configuration Tab. ",
+      "actualResultPass": "User was able to click on General Configuration Tab. ",
+      "actualResultFail": "User was not able to click on General Configuration Tab. "
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Select Base Year.",
+      "expectedResult": "User is able to select Base Year. ",
+      "actualResultPass": "User was able to select Base Year. ",
+      "actualResultFail": "User was not able to select Base Year."
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Select Number of Analysis Years.",
+      "expectedResult": "User is able to select Number of Analysis Years.",
+      "actualResultPass": "User was able to select Number of Analysis Years.",
+      "actualResultFail": "User was not able to select Number of Analysis Years."
+    },
+    {
+      "testObjective": "",
+      "stepName": "4",
+      "stepDescription": "Enter Discount Factor.",
+      "expectedResult": "User is able to enter Discount Factor.",
+      "actualResultPass": "User was able to enter Discount Factor.",
+      "actualResultFail": "User was not able to enter Discount Factor."
+    },
+    {
+      "testObjective": "",
+      "stepName": "5",
+      "stepDescription": "Enter Default Effectiveness.",
+      "expectedResult": "User is able to enter Effectiveness.",
+      "actualResultPass": "User was able to enter Effectiveness.",
+      "actualResultFail": "User was not able to enter Effectiveness."
+    },
+    {
+      "testObjective": "",
+      "stepName": "6",
+      "stepDescription": "Enter Annual Maintenance Cost in.",
+      "expectedResult": "User is able to enter Annual Maintenance Cost in.",
+      "actualResultPass": "User was able to enter Annual Maintenance Cost in.",
+      "actualResultFail": "User was not able to enter Annual Maintenance Cost in."
+    },
+    {
+      "testObjective": "",
+      "stepName": "7",
+      "stepDescription": "Select Damage Only to injury Ratio.Capture screenshot",
+      "expectedResult": "User is able to select Damage Only to injury Ratio.",
+      "actualResultPass": "User was able to select Damage Only to injury Ratio.",
+      "actualResultFail": "User was not able to select Damage Only to injury Ratio."
+    },
+    {
+      "testObjective": "",
+      "stepName": "8",
+      "stepDescription": "Click on Save button.",
+      "expectedResult": "User is able to click Save button.",
+      "actualResultPass": "User was able to click Save button.",
+      "actualResultFail": "User was not able to click Save button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "9",
+      "stepDescription": "Verify that user is able to edit General CBA Configuration.Capture screenshot",
+      "expectedResult": "User is able to edit General CBA Configuration.",
+      "actualResultPass": "User was able to edit General CBA Configuration.",
+      "actualResultFail": "User was not able to edit General CBA Configuration."
+    }
+  ]
+}

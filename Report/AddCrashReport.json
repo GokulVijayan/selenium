@@ -1,0 +1,12 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "To verify that user is able to add new Crash.",
+      "stepName": "1",
+      "stepDescription": "Invoke the add Crash API /api/crashdetails. Verify that new crash can be added.",
+      "expectedResult": "User is able  to add new Crash record.",
+      "actualResultPass": "User was able to add new Crash record.",
+      "actualResultFail": "User was not able to add new Crash record."
+    }
+  ]
+}

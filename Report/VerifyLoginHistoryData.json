@@ -1,0 +1,12 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Verify previous login is shown in login history.Capture screenshot.",
+      "expectedResult": "Previous login is shown in login history.",
+      "actualResultPass": "Previous login is shown in login history.",
+      "actualResultFail": "Previous login is not shown in login history."
+    }
+  ]
+}

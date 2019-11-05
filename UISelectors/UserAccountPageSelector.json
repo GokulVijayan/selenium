@@ -1,0 +1,13 @@
+{
+  "addUserAccount": "//imaap-user-account/div[1]/div[2]/div/button",
+  "userName": "//body[@class='trl-u-overflow-x-hidden']/imaap-root/div[@class='trl-l-master-wrapper']/section[@class='trl-l-app-body trl-p-spcing-adjustment-patch']/imaap-user-account/div[@class='trl-l-app-content-wrapper trl-u-pt0']/div[@class='trl-c-infopanel trl-c-infopanel--overlay trl-c-infopanel--open']/div[@class='trl-c-infopanel--body']/form[@class='ng-untouched ng-pristine ng-invalid']/div[@class='row']/div[@class='col-md-6']/div[1]/div[1]/div[1]/input[1]",
+  "firstName": "//imaap-user-account/div[2]/div[1]/div[2]/form/div/div[1]/div[2]/div[1]/div/input",
+  "email": "//imaap-user-account/div[2]/div[1]/div[2]/form/div/div[1]/div[3]/div[1]/div/input",
+  "confirmEmail": "//imaap-user-account/div[2]/div[1]/div[2]/form/div/div[1]/div[3]/div[2]/div/input",
+  "userPassword": "//imaap-user-account/div[2]/div[1]/div[2]/form/div/div[1]/div[4]/div[1]/div/input",
+  "confirmPassword": "//imaap-user-account/div[2]/div[1]/div[2]/form/div/div[1]/div[4]/div[2]/div/input",
+  "userRole": "//imaap-user-account/div[2]/div[1]/div[2]/form/div/div[1]/div[5]/div[2]/div/select",
+  "save": "//button[contains(text(),'Save')]",
+  "department": "//imaap-user-account/div[2]/div[1]/div[2]/form/div/div[1]/div[5]/div[1]/div/select",
+  "yes": "//button[@class='swal2-confirm swal2-styled']"
+}

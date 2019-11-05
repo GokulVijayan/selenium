@@ -1,0 +1,10 @@
+{
+  "addUserRole": "//imaap-user-role/div/div[1]/div[2]/button",
+  "userRoleName": "//input[@class='form-control ng-untouched ng-pristine ng-invalid']",
+  "pagePriveleges": "//span[contains(text(),'PAGE PRIVILEGES')]",
+  "fieldPriveleges": "//span[contains(text(),'FIELD PRIVILEGES')]",
+  "applicationPages": "//div[@class='row']//div[1]//div[1]//table[1]//thead[1]//tr[1]//th[1]//div[1]//div[1]//label[1]//span[1]",
+  "adminPages": "//div[contains(@class,'trl-l-user-role-panel--bottom')]//div[2]//div[1]//table[1]//thead[1]//tr[1]//th[1]//div[1]//div[1]//label[1]//span[1]",
+  "form": "//tab[contains(@class,'tab-pane active')]//div[contains(@class,'trl-c-fixed-table-header')]//table[contains(@class,'table fixed_headers trl-u-mb0 table-striped')]//thead//tr//th//span[contains(@class,'trl-c-checkbox-icon')]",
+  "save": "//button[contains(text(),'Save')]"
+}

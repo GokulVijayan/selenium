@@ -1,0 +1,12 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "To verify that user is able to view hotspot report.",
+      "stepName": "1",
+      "stepDescription": "Invoke the hotspot report API /api/blackspots/standardreport. Verify hotspot report.",
+      "expectedResult": "User is able to verify hotspot report.",
+      "actualResultPass": "User was able to verify hotspot report.",
+      "actualResultFail": "User was not able to verify hotspot report."
+    }
+  ]
+}

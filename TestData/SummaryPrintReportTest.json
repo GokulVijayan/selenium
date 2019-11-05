@@ -1,0 +1,43 @@
+{
+  "TestData": [
+    {
+      "appliedQuery": "Applied query",
+      "buildQuery": "Build Query",
+      "casualtyClassDropDown": "Pedestrian",
+      "casualtyDetailsTitle": "CASUALTY DETAILS",
+      "crashDate": "01-Aug-2019",
+      "crashDetailsTitle": "CRASH DETAILS",
+      "crashIdTitleInCasualtyDetails": "Crash Id",
+      "crashIdTitleInCrashDetails": "Crash Id",
+      "crashIdTitleInVehicleDetails": "Crash Id",
+      "crashReferenceNumber": "crashReferenceNumber",
+      "crashRefNo": "",
+      "crashRefNoTitleInCrashDetails": "Crash Ref. No",
+      "injuryRefNo": "66",
+      "injuryRefNoTitleInCasualtyDetails": "Injury Reference No",
+      "menuItem": "Summary Print Report",
+      "numberOfVehicles": "1",
+      "password": "Trl@123456",
+      "templateDeleteToastMessage": "Template deleted successfully.",
+      "templateName": "Test",
+      "templateSaveToastMessage": "Template saved successfully.",
+      "templateType": "Private",
+      "toastMsg": "The record was saved successfully.",
+      "username": "ReshmaPradeep",
+      "vehicleDetailsTitle": "VEHICLE DETAILS",
+      "vehicleReferenceNo": "1",
+      "vehicleReferenceNumber": "1",
+      "vehicleReferenceNumberDetails": "",
+      "verifyLogoutText": "Logout You are now logged out.",
+      "VRNTitleInVehicleDetails": "Vehicle Registration No (VRN)"
+    }
+  ],
+  "QueryBuilderTestData": [
+    {
+      "fieldName": "crashRefNo",
+      "fieldValue": "",
+      "query": "IS",
+      "displayName": "Crash Ref. No"
+    }
+  ]
+}

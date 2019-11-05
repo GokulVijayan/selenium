@@ -1,0 +1,12 @@
+{
+	"TestReportSteps": [
+    {
+      "testObjective": "To verify that the plot crahes API is working as expected when crashes are plotted using circle tool.",
+      "stepName": "1",
+      "stepDescription": "Invoke the Plot Crashes API /api/plotcrashes. Verify that the crashes are listed",
+      "expectedResult": "The crashes are listed.",
+      "actualResultPass": "The crashes were listed.",
+      "actualResultFail": "The crashes were not listed."
+    }
+	]
+}

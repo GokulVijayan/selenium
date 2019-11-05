@@ -1,0 +1,23 @@
+{
+  "generalConfiguration": "//span[contains(text(),'General Configuration')]",
+  "crashCostConfiguration": "//span[contains(text(),'Crash Cost Configuration')]",
+  "valueConversion": "//span[contains(text(),'Value Conversion')]",
+  "cbaOutputConfiguration": "//span[contains(text(),'CBA Output Configuration')]",
+  "baseYear": "//select[1]",
+  "numberOfAnalysisYear": "//select[1]",
+  "discountFactor": "//div[3]//div[2]//div[1]//input[1]",
+  "defaultEffectivness": "//div[4]//div[2]//div[1]//input[1]",
+  "defaultAnnualMaintenanceCost": "//div[5]//div[2]//div[1]//input[1]",
+  "damageOnly": "//select[@class='form-control ng-untouched ng-pristine ng-valid']",
+  "generalConfigurationSave": "//imaap-cost-benefit-analysis-configuration/div[2]/div/tabset/div/tab[1]/div/form/div[2]/button[2]",
+  "crashCostYear": "//imaap-crash-cost-configuration/div/form/div/div[1]/select",
+  "slightCost": "//tab[contains(@class,'tab-pane active')]//tr[1]//td[2]//div[1]//input[1]",
+  "seriousCost": "//tab[contains(@class,'tab-pane active')]//tr[2]//td[2]//div[1]//input[1]",
+  "fatalCost": "//tab[contains(@class,'tab-pane active')]//tr[3]//td[2]//div[1]//input[1]",
+  "damageCost": "//tr[5]//td[2]//div[1]//input[1]",
+  "crashCostSave": "//tab[contains(@class,'tab-pane active')]//button[contains(@class,'trl-c-btn trl-c-btn--primary trl-u-mb-sm')][contains(text(),'Save')]",
+  "gdpDeflatorValue": "//tab[contains(@class,'tab-pane active')]//tr[1]//td[2]//div[1]//input[1]",
+  "realGdpGrowth": "//tr[1]//td[3]//div[1]//input[1]",
+  "saveValueConversion": "//tab[contains(@class,'tab-pane active')]//button[contains(@class,'trl-c-btn trl-c-btn--primary trl-u-mb-sm')][contains(text(),'Save')]"
+
+}

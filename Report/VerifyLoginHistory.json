@@ -1,0 +1,44 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify login history is working as expected.",
+      "stepName": "1",
+      "stepDescription": "View the login history.Capture screenshot.",
+      "expectedResult": "User is able to view login history.",
+      "actualResultPass": "User was able to view login history.",
+      "actualResultFail": "User was not able to view login history."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Select a user name in search box.Capture screenshot.",
+      "expectedResult": "Selected user is shown in login history user name search box.",
+      "actualResultPass": "Selected user is shown in login history user name search box.",
+      "actualResultFail": "Selected user is not shown in login history user name search box."
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Select current date in date selector.Capture screenshot.",
+      "expectedResult": "Selected date is shown in login history date selector.",
+      "actualResultPass": "Selected date is shown in login history date selector.",
+      "actualResultFail": "Selected date is not shown in login history date selector."
+    },
+    {
+      "testObjective": "",
+      "stepName": "4",
+      "stepDescription": "Click search button and view search result.Capture screenshot.",
+      "expectedResult": "Login history filtered based on search criteria is only shown.",
+      "actualResultPass": "Login history filtered based on search criteria is only shown.",
+      "actualResultFail": "Login history filtered based on search criteria is not only shown."
+    },
+    {
+      "testObjective": "",
+      "stepName": "5",
+      "stepDescription": "Click reset button and view result.Capture screenshot.",
+      "expectedResult": "Login history is  shown.",
+      "actualResultPass": "Full Login history  was  shown.",
+      "actualResultFail": "Full Login history was not shown."
+    }
+  ]
+}

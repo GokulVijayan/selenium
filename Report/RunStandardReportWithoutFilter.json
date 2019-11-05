@@ -1,0 +1,28 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to click on 'General Tab'.",
+      "stepName": "1",
+      "stepDescription": "Click on 'General Tab'.",
+      "expectedResult": "User is able to click 'General Tab'.",
+      "actualResultPass": "User was able to click 'General Tab'.",
+      "actualResultFail": "User was not able to click 'General Tab'."
+    },
+    {
+      "testObjective": "Verify that user is able to click 'Casualty Severity by Year'.",
+      "stepName": "2",
+      "stepDescription": "Click 'Casualty Severity by Year' from the report list.",
+      "expectedResult": "User is able to click 'Casualty Severity by Year'.",
+      "actualResultPass": "User was able to click 'Casualty Severity by Year'.",
+      "actualResultFail": "User was not able to click 'Casualty Severity by Year'."
+    },
+    {
+      "testObjective": "Verify that user is able to run 'Casualty Severity by Year'.",
+      "stepName": "3",
+      "stepDescription": "Run 'Casualty Severity by Year' from the report list.",
+      "expectedResult": "User is able to run 'Casualty Severity by Year'.",
+      "actualResultPass": "User was able to run 'Casualty Severity by Year'.",
+      "actualResultFail": "User was not able to run 'Casualty Severity by Year'."
+    }
+  ]
+}

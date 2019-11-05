@@ -1,0 +1,20 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to retrieve data from Cross Tab report.",
+      "stepName": "1",
+      "stepDescription": "Retrieve table cell value.",
+      "expectedResult": "User is able to retrieve table cell value.",
+      "actualResultPass": "User was able to retrieve table cell value.",
+      "actualResultFail": "User was not able to retrieve table cell value."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Retrieve 'Grand Total' value.Capture screenshot.",
+      "expectedResult": "User is able to retrieve 'Grand Total' value.",
+      "actualResultPass": "User was able to retrieve 'Grand Total' value.",
+      "actualResultFail": "User was not able to retrieve 'Grand Total' value."
+    }
+  ]
+}

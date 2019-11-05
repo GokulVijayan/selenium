@@ -1,0 +1,69 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to verify details in 'Summary Print Report'.",
+      "stepName": "1",
+      "stepDescription": "Verify title 'Crash Details'.Capture Screenshot",
+      "expectedResult": "User is able to verify title 'Crash Details'.",
+      "actualResultPass": "User was able to verify title 'Crash Details'.",
+      "actualResultFail": "User was not able to verify title 'Crash Details'."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Verify title 'Crash Id'.",
+      "expectedResult": "User is able to verify title 'Vehicle Details'.",
+      "actualResultPass": "User was able to verify title 'Vehicle Details'.",
+      "actualResultFail": "User was not able to verify title 'Vehicle Details'."
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Verify title 'Crash Reference Number' Title.",
+      "expectedResult": "User is able to verify Crash Reference Number Title.",
+      "actualResultPass": "User was able to verify Crash Reference Number Title.",
+      "actualResultFail": "User was not able to verify Crash Reference Number Title."
+    },
+    {
+      "testObjective": "",
+      "stepName": "4",
+      "stepDescription": "Verify 'Crash Reference Number.",
+      "expectedResult": "User is able to verify Crash Reference Number.",
+      "actualResultPass": "User was able to verify Crash Reference Number.",
+      "actualResultFail": "User was not able to verify Crash Reference Number."
+    },
+    {
+      "testObjective": "",
+      "stepName": "5",
+      "stepDescription": "Verify title 'Vehicle Details'.Capture Screenshot",
+      "expectedResult": "User is able to verify title 'Vehicle Details'.",
+      "actualResultPass": "User was able to verify title 'Vehicle Details'.",
+      "actualResultFail": "User was not able to verify title 'Vehicle Details'."
+    },
+    {
+      "testObjective": "",
+      "stepName": "6",
+      "stepDescription": "Verify title 'Crash Id'.",
+      "expectedResult": "User is able to verify title 'Vehicle Details'.",
+      "actualResultPass": "User was able to verify title 'Vehicle Details'.",
+      "actualResultFail": "User was not able to verify title 'Vehicle Details'."
+    },
+    {
+      "testObjective": "",
+      "stepName": "7",
+      "stepDescription": "Verify title 'Casualty Details'.Capture Screenshot",
+      "expectedResult": "User is able to verify title 'Casualty Details'.",
+      "actualResultPass": "User was able to verify title 'Casualty Details'.",
+      "actualResultFail": "User was not able to verify title 'Casualty Details'."
+    },
+    {
+      "testObjective": "",
+      "stepName": "8",
+      "stepDescription": "Verify title 'Crash Id'.",
+      "expectedResult": "User is able to verify title 'Vehicle Details'.",
+      "actualResultPass": "User was able to verify title 'Vehicle Details'.",
+      "actualResultFail": "User was not able to verify title 'Vehicle Details'."
+    }
+  ]
+}
+

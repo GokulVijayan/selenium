@@ -1,0 +1,12 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to navigate to stick analysis page.",
+      "stepName": "1",
+      "stepDescription": "Verify stick analysis page.Capture screenshot.",
+      "expectedResult": "User is able to verify stick analysis page.",
+      "actualResultPass": "User was able to verify stick analysis page.",
+      "actualResultFail": "User was not able to verify stick analysis page."
+    }
+  ]
+}

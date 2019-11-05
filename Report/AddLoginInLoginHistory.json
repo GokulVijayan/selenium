@@ -1,0 +1,12 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Login to application.Capture screenshot.",
+      "expectedResult": "User is able to login.",
+      "actualResultPass": "User was able to login.",
+      "actualResultFail": "User was not able to login."
+    }
+  ]
+}

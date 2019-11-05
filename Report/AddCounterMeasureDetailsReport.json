@@ -1,0 +1,125 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to add Counter Measure Details.",
+      "stepName": "1",
+      "stepDescription": "Click on Add CM Button.",
+      "expectedResult": "User is able to click on add button.",
+      "actualResultPass": "User was able to click on add button .",
+      "actualResultFail": "User was not able to click on add button ."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Enter Counter Measure Name.",
+      "expectedResult": "User is able to enter counter measure name.",
+      "actualResultPass": "User was able to enter counter measure name.",
+      "actualResultFail": "User was not able to enter counter measure name."
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Select Applicable Area.",
+      "expectedResult": "User is able to select applicable area.",
+      "actualResultPass": "User was able to select applicable area.",
+      "actualResultFail": "User was not able to select applicable area."
+    },
+    {
+      "testObjective": "",
+      "stepName": "4",
+      "stepDescription": "Enter Estimation Construction Cost.",
+      "expectedResult": "User is able to enter estimation construction cost.",
+      "actualResultPass": "User was able to enter estimation construction cost.",
+      "actualResultFail": "User was not able to enter estimation construction cost."
+    },
+    {
+      "testObjective": "",
+      "stepName": "5",
+      "stepDescription": "Select Impacted Crash Severity.",
+      "expectedResult": "User is able to select impacted crash severity.",
+      "actualResultPass": "User was able to select impacted crash severity.",
+      "actualResultFail": "User was not able to select impacted crash severity."
+    },
+    {
+      "testObjective": "",
+      "stepName": "6",
+      "stepDescription": "Select Unit of Measure.",
+      "expectedResult": "User is able to select unit of measure.",
+      "actualResultPass": "User was able to select unit of measure.",
+      "actualResultFail": "User was not able to select unit of measure."
+    },
+    {
+      "testObjective": "",
+      "stepName": "7",
+      "stepDescription": "Select Counter Measure Category.",
+      "expectedResult": "User is able to select counter measure category.",
+      "actualResultPass": "User was able to select counter measure category.",
+      "actualResultFail": "User was not able to select counter measure category."
+    },
+    {
+      "testObjective": "",
+      "stepName": "8",
+      "stepDescription": "Enter Known Maintenance Cost.",
+      "expectedResult": "User is able to enter known maintenance cost.",
+      "actualResultPass": "User was able to enter known maintenance cost.",
+      "actualResultFail": "User was not able to enter known maintenance cost."
+    },
+    {
+      "testObjective": "",
+      "stepName": "9",
+      "stepDescription": "Select Applicable Control Type.",
+      "expectedResult": "User is able to select applicable control type.",
+      "actualResultPass": "User was able to select applicable control type.",
+      "actualResultFail": "User was not able to select applicable control type."
+    },
+    {
+      "testObjective": "",
+      "stepName": "10",
+      "stepDescription": "Enter Treatment LifeTime.",
+      "expectedResult": "User is able to enter treatment lifetime.",
+      "actualResultPass": "User was able to enter treatment lifetime.",
+      "actualResultFail": "User was not able to enter treatment lifetime."
+    },
+    {
+      "testObjective": "",
+      "stepName": "11",
+      "stepDescription": "Select Applicable Treatment Type.",
+      "expectedResult": "User is able to select applicable treatment type.",
+      "actualResultPass": "User was able to select applicable treatment type.",
+      "actualResultFail": "User was not able to select applicable treatment type."
+    },
+    {
+      "testObjective": "",
+      "stepName": "12",
+      "stepDescription": "Enter Estimated Effectivness.",
+      "expectedResult": "User is able to enter estimated effectivness.",
+      "actualResultPass": "User was able to enter estimated effectivness.",
+      "actualResultFail": "User was not able to enter estimated effectivness."
+    },
+    {
+      "testObjective": "",
+      "stepName": "13",
+      "stepDescription": "Select Source.Capture screenshot",
+      "expectedResult": "User is able to select source.",
+      "actualResultPass": "User was able to select source.",
+      "actualResultFail": "User was not able to select source."
+    },
+    {
+      "testObjective": "",
+      "stepName": "14",
+      "stepDescription": "Click on save button.",
+      "expectedResult": "User is click on save button.",
+      "actualResultPass": "User was able to click on save button.",
+      "actualResultFail": "User was not able to click on save button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "15",
+      "stepDescription": "Verify Toast Message.Capture screenshot",
+      "expectedResult": "User is able to verify toast message.",
+      "actualResultPass": "User was able to verify toast message.",
+      "actualResultFail": "User was not able to verify toast message."
+    }
+  ]
+}
+

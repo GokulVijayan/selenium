@@ -1,0 +1,29 @@
+{
+  "TestReportSteps": [
+
+    {
+      "testObjective": "Verify that user is able to clear an applied query.",
+      "stepName": "1",
+      "stepDescription": "Click on Reset Query Button.Capture screenshot",
+      "expectedResult": "User is able to click on reset query button.",
+      "actualResultPass": "User was able to click on reset query button.",
+      "actualResultFail": "User was not able to click on reset query button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Click on Yes button.",
+      "expectedResult": "User is able to click Yes button.",
+      "actualResultPass": "User was able to click Yes button.",
+      "actualResultFail": "User was not able to click Yes button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Verify Query applied has been cleared.Capture screenshot.",
+      "expectedResult": "User is able to verify that query applied has been cleared.",
+      "actualResultPass": "User was able to verify that query applied has been cleared.",
+      "actualResultFail": "User was not able to verify that query applied has been cleared."
+    }
+  ]
+}

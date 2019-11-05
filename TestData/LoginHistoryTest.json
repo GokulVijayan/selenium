@@ -1,0 +1,13 @@
+{
+  "TestData": [
+    {
+      "username": "ReshmaPradeep",
+      "password": "Trl@123456",
+      "menuItem": "Login History",
+      "verifyLogoutText": "Logout You are now logged out.",
+      "searchUserName": "Reshma Pradeep (ReshmaPradeep)",
+      "searchSelectAll": "Select All",
+      "searchResultUserName": "ReshmaPradeep"
+    }
+  ]
+}
