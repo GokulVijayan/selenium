@@ -1,0 +1,104 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify back button functionality in add vehicle details is working as expected.",
+      "stepName": "1",
+      "stepDescription": "Click on back button immediately after navigating to Add Vehicle Details Screen.",
+      "expectedResult": "User is able to navigate back to Add Crash Details Screen.",
+      "actualResultPass": "User was able to navigate back to Add Crash Details Screen.",
+      "actualResultFail": "User was not able to navigate back to Add Crash Details Screen."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Click on Next button in Add Crash Details Screen.",
+      "expectedResult": "User is able to click on Next button in Add Crash Details Screen.",
+      "actualResultPass": "User was able to click on Next button in Add Crash Details Screen.",
+      "actualResultFail": "User was not able to click on Next button in Add Crash Details Screen."
+    },
+
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Verify Add Vehicle Details Screen is displayed on click on next button.",
+      "expectedResult": "User is able to navigate to Add Vehicle Details Screen. ",
+      "actualResultPass": "User was able to navigate to Add Vehicle Details Screen.",
+      "actualResultFail": "User was not able to navigate to Add Vehicle Details Screen."
+    },
+    {
+      "testObjective": "",
+      "stepName": "4",
+      "stepDescription": "Enter vehicle registration no. in Add Vehicle Details Screen.",
+      "expectedResult": "User is able to enter vehicle registration no. in Add Vehicle Details Screen.",
+      "actualResultPass": "User was able to enter vehicle registration no. in Add Vehicle Details Screen.",
+      "actualResultFail": "User was not able to enter vehicle registration no. in Add Vehicle Details Screen."
+    },
+    {
+      "testObjective": "",
+      "stepName": "5",
+      "stepDescription": "Click on back button.",
+      "expectedResult": "User is able to click on back button after entering vehicle registration no.",
+      "actualResultPass": "User was  able to click on back button after entering vehicle registration no.",
+      "actualResultFail": "User was not able to click on back button after entering vehicle registration no."
+    },
+    {
+      "testObjective": "",
+      "stepName": "6",
+      "stepDescription": "Verify  message displayed in popup dispalyed.",
+      "expectedResult": "User is able view a message'Do you want to leave the page without saving the changes?’ with Yes and No Button.",
+      "actualResultPass": "User was  able view a message'Do you want to leave the page without saving the changes?’ with Yes and No Button.",
+      "actualResultFail": "User was not able view a message'Do you want to leave the page without saving the changes?’ with Yes and No Button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "6",
+      "stepDescription": "Verify No Button in popup.",
+      "expectedResult": "User is able to verify No Button in popup.",
+      "actualResultPass": "User was able to verify No Button in popup.",
+      "actualResultFail": "User was not able to verify No Button in popup."
+    },
+    {
+      "testObjective": "",
+      "stepName": "7",
+      "stepDescription": "Verify Yes Button in popup.",
+      "expectedResult": "User is able to verify Yes Button in popup.",
+      "actualResultPass": "User was able to verify Yes Button in popup.",
+      "actualResultFail": "User was not able to verify Yes Button in popup."
+    },
+    {
+      "testObjective": "",
+      "stepName": "8",
+      "stepDescription": "Click on No button.",
+      "expectedResult": "User is able to click No button in popup.",
+      "actualResultPass": "User was able to click No button in popup.",
+      "actualResultFail": "User was able to click No button in popup."
+    },
+    {
+      "testObjective": "",
+      "stepName": "9",
+      "stepDescription": "Verify user remains in Add Vehicle Details Screen.",
+      "expectedResult": "user should remain in Add Vehicle Details Screen.",
+      "actualResultPass": "User was able to remain in Add Vehicle Details Screen.",
+      "actualResultFail": "User was able to remain in Add Vehicle Details Screen."
+    },
+
+    {
+      "testObjective": "",
+      "stepName": "10",
+      "stepDescription": "Click on back button.",
+      "expectedResult": "user is able to click back button.",
+      "actualResultPass": "User was able able to click back button.",
+      "actualResultFail": "User was able able to click back button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "11",
+      "stepDescription": "Click on Yes button.",
+      "expectedResult": "User is able to click on Yes button in popup displayed.",
+      "actualResultPass": "User was able to click on Yes button in popup displayed.",
+      "actualResultFail": "User was able to click on Yes button in popup displayed."
+    }
+
+
+  ]
+}

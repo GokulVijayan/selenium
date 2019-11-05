@@ -1,0 +1,11 @@
+{
+  "EditAndDeleteCrashTest": "false", //TS001_Web_Verify the Add ARF, Edit ARF and Delete ARF functionality 
+  "AddAndSearchCrashTest": "true", //TS002_Web_Verify adding a crash record with all form fields and search that crash record 
+  "SummaryPrintReportExportTest": "false", //TS2-Export summary print report to different formats 
+  "SetFormFieldsTest": "false", //Setting up from fields
+  "VerifySummaryPrintReportTest": "false", //TS1-Generate summary print report and add,delete template
+  "ValidateAndSaveCrashTest": "false", //TS005_Web_Validate a crash record successfully
+  "DeleteVehicleAndCasualtyTest": "false" //TS003_Web_Verify deleting the vehicle and casualty details of a Crash record 
+
+}
+

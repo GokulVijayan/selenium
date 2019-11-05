@@ -1,0 +1,68 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to enter details in mandatory fields of casualty form.",
+			"stepName": "1",
+			"stepDescription": "Click Casualty Tab",
+			"expectedResult": "User is able to click Casualty Tab",
+			"actualResultPass": "User was able to click Casualty Tab",
+			"actualResultFail": "User was not able to click Casualty Tab"
+		},
+   {
+			"testObjective": "",
+			"stepName": "2",
+			"stepDescription": "Click Add New Button",
+			"expectedResult": "User is able to click Add New Button",
+			"actualResultPass": "User was able to click Add New Button",
+			"actualResultFail": "User was not able to click Add New Button"
+		},
+		{
+			"testObjective": "",
+			"stepName": "3",
+			"stepDescription": "Enter Injury Reference Number",
+			"expectedResult": "User is able to enter Injury Reference Number",
+			"actualResultPass": "User was able to enter Injury Reference Number",
+			"actualResultFail": "User was not able to enter Injury Reference Number"
+		},
+		{
+			"testObjective": "",
+			"stepName": "4",
+			"stepDescription": "Enter Injured Person's Name",
+			"expectedResult": "User is able to enter Injured Person's Name",
+			"actualResultPass": "User was able to enter Injured Person's Name",
+			"actualResultFail": "User was not able to enter Injured Person's Name"
+		},
+		{
+			"testObjective": "",
+			"stepName": "5",
+			"stepDescription": "Enter Vehicle Reference Number",
+			"expectedResult": "User is able to enter Vehicle Reference Number",
+			"actualResultPass": "User was able to enter Vehicle Reference Number",
+			"actualResultFail": "User was not able to enter Vehicle Reference Number"
+		},
+		{
+			"testObjective": "",
+			"stepName": "13",
+			"stepDescription": "Click 'Save' button.Capture screenshot.",
+			"expectedResult": "User is able to click 'Save' button.",
+			"actualResultPass": "User was able to click 'Save' button.",
+			"actualResultFail": "User was not able to click 'Save button."
+		},
+		{
+			"testObjective": "",
+			"stepName": "14",
+			"stepDescription": "Click 'I Agree' button.",
+			"expectedResult": "User is able to click on 'I Agree' button.",
+			"actualResultPass": "User was able to click on 'I Agree' button.",
+			"actualResultFail": "User was not able click on 'I Agree' button."
+		},
+		{
+			"testObjective": "",
+			"stepName": "16",
+			"stepDescription": "Verify toast message 'The record was saved successfully'.Capture screenshot.",
+			"expectedResult": "User is able to verify toast message 'The record was saved successfully'.",
+			"actualResultPass": "User was able to verify toast message 'The record was saved successfully'.",
+			"actualResultFail": "User was not able to verify toast message 'The record was saved successfully'."
+		 }
+  ]
+}

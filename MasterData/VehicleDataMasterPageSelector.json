@@ -1,0 +1,148 @@
+{
+  "Master": [
+    {
+      "apiKey": "PlateNumber",
+      "selector": "vehicleRegistartionNo",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "DrivingPositionId",
+      "selector": "drivingPositionDropicon",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "VehicleReferenceNumber",
+      "selector": "vehicleReferenceNumber",
+      "propertyTypeId": 2,
+      "isMandatory": true
+    },
+    {
+      "apiKey": "AssetCode",
+      "selector": "assetCode",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "VehicleTypeId",
+      "selector": "vehicleTypeDropicon",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "AssetDescription",
+      "selector": "assetDescription",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "VehicleUINStatusId",
+      "selector": "isVehicleUINDifferentDropicon",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "VehicleUIN",
+      "selector": "vehicleUIN",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "VehicleOwnershipId",
+      "selector": "wastheVehicleHiredDropicon",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "VehicleMannedId",
+      "selector": "wasVehicleMannedDropicon",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "VehicleHireNumber",
+      "selector": "hireAgreementNumber",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "ThirdPartyName",
+      "selector": "3rdPartyName(Title, Initials, Surname)",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "ThirdPartyContactNumber",
+      "selector": "3rdPartyContactNumber",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "ThirdPartyPropertyId",
+      "selector": "the3rdPartyPropertyWasDropicon",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "ThirdPartyAddress",
+      "selector": "3rdPartyAddress",
+      "propertyTypeId": 3,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "DriverPostcode",
+      "selector": "3rdPartyVehicleRegistrationNo.",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "ThirdPartyInsuranceCompanyName",
+      "selector": "3rdPartyinsuranceCompanyName",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "ThirdPartyInsurancePolicyNumber",
+      "selector": "3rdPartyInsurancePolicyNumber",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "ThirdPartyVehicleStatusId",
+      "selector": "thedriveableorRecoveredDropicon",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "ThirdPartyVehicleInitialImpactStatusId",
+      "selector": "impacton3rdPartyVehicleDropicon",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "ThirdPartyBumpCardStatusId",
+      "selector": "the3rdPartyaBumpCardDropicon",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "ResponsibilityStatusId",
+      "selector": "responsibilityorLiabilityDropicon",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "ThirdPartyResponsibilityStatusId",
+      "selector": "partyResponsibilityorLiabilityDropicon",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "NumberOfPeopleInVehicle",
+      "selector": "howManyPeopleWereintheVehicle?",
+      "propertyTypeId": 1,
+      "isMandatory": false
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "queryBuilderIcon": "//div[@class='app-l-query__wrap app-l-query--applied']",
+  "crashTab": "//div[@class='trl-c-accordion--rev']//div[contains(text(),'Crash')]",
+  "vehicleTab": "//div[@class='trl-c-accordion--rev']//div[contains(text(),'Vehicle')]",
+  "casualtyTab": "//div[@class='trl-c-accordion--rev']//div[contains(text(),'Casualty')]",
+  "crashTabList": "//div[@class='panel-collapse collapse in show']//div[@class='trl-l-all-reports-list']",
+  "querySelector": "//select[@class='ng-untouched ng-pristine ng-valid']",
+  "slider": "//div[@class='trl-u-display-table trl-u-qb-tile-slider']",
+  "applyQuery": "//div[@class='col-md-8 col-xs-12 query-builder__model__middle-bar']//button[4]"
+}
+  

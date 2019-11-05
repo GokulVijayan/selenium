@@ -1,0 +1,15 @@
+{
+  "TestData": [
+    {
+      "username": "ReshmaPradeep",
+      "password": "Trl@123456",
+      "numberOfVehicles": "1",
+      "vehicleRegistartionNo": "123",
+      "vehicleReferenceNumber1": "1",
+      "toastMsg": "The record was saved successfully.",
+      "vehicleRefNoMissingMsg": "Vehicle reference number is missing for one or more vehicles",
+      "verifyLogoutText": "Logout You are now logged out."
+    }
+  ]
+}
+

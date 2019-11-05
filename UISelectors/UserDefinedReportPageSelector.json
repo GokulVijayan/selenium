@@ -1,0 +1,19 @@
+{
+  "verifyReportPageTitle": "//div[@class='trl-l-breadcrumbs']//span[contains(text(),'User Defined Reports')]",
+  "filterOption": "//body[@class='trl-u-overflow-x-hidden']/imaap-root/div[@class='trl-l-master-wrapper']/section[@class='trl-l-app-body trl-p-spcing-adjustment-patch']/app-user-defined-report/div[@class='trl-l-standard-reports__new-block']/div[@class='trl-c-dashboard-final__wrap trl-c-user-defined-reports-wrapper']/div[@class='trl-c-dashboard-final__left-pane trl-c-pane--standard']/div[@class='trl-c-dashboard-final__left-pane-content trl-c-user-defined-report-content']/div[@class='trl-c-export__left-pane__scroll-area trl-c-export__left-pane__scroll-UDR']/div[@class='trl-c-common-tab trl-c-standard-reports-tab trl-c-summary-print-tab overflow-unset trl-c-user-defined-report-tab']/tabset[@class='tab-container']/div[@class='tab-content']/tab[@class='trl-c-standard-reports-tab-content active tab-pane']/div[@class='trl-l-flex-wrapper']/div[@class='trl-c-list-n-search-widget trl-c-list-n-search-widget--reports']/div[@class='trl-c-list-n-search-button-block']/button[1]",
+  "checkValidRecords": "//span[@class='trl-c-checkbox__label'][contains(text(),'Valid Records')]",
+  "fromDate": "//div[@class='trl-l-standard-reports__modal-wrap trl-c-raise-modal']//div[@class='trl-l-standard-reports__modal-body trl-u-overflow-unset']//div[2]//wj-input-date[1]//div[1]//div[1]//div[1]//span[1]//button[1]",
+  "toDate": "//div[@class='trl-l-standard-reports__modal-wrap trl-c-raise-modal']//div[3]//wj-input-date[1]//div[1]//div[1]//div[1]//span[1]//button[1]",
+  "applyButton": "//div[@class='trl-l-standard-reports__modal-wrap trl-c-raise-modal']//button[@class='trl-c-btn trl-c-btn--sm trl-c-btn--primary'][contains(text(),'Apply')]",
+  "crashTab": "//div[@class='trl-c-accordion--rev trl-c-accordion-top-borderless']//div[contains(text(),'Crash')]",
+  "noOfVehicles": "/html[1]/body[1]/imaap-root[1]/div[1]/section[1]/app-user-defined-report[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/tabset[1]/div[1]/tab[1]/div[1]/div[2]/accordion[1]/accordion-group[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]",
+  "noOfCasualties": "//li[contains(text(),'Number Of Casualties')]",
+  "rows": "//div[@class='trl-l-usage-stats-severity-holder']//div[1]//div[1]//div[1]//div[1]",
+  "columns": "//body[@class='trl-u-overflow-x-hidden']/imaap-root/div[@class='trl-l-master-wrapper']/section[@class='trl-l-app-body trl-p-spcing-adjustment-patch']/app-user-defined-report/div[@class='trl-l-standard-reports__new-block']/div[@class='trl-c-dashboard-final__wrap trl-c-user-defined-reports-wrapper']/div[@class='trl-c-dashboard-final__left-pane trl-c-pane--standard']/div[@class='trl-c-dashboard-final__left-pane-content trl-c-user-defined-report-content']/div[@class='trl-l-user-defined-reports-severity trl-c-severity-row-column__with-background']/div[@class='trl-l-usage-stats-severity-holder']/div[2]/div[1]/div[1]",
+  "runButton": "//button[contains(text(),'Run')]",
+  "reportTable": "/table[1]/tbody[1]/tr",
+  "column1": "/td[1]",
+  "column2": "/td[2]",
+  "tableTitle": "/td[1]",
+  "reportPages": "//*[@id=\"StiViewerReportPanel\"]/div"
+}

@@ -1,0 +1,12 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to navigate to Summary Print Report page.",
+      "stepName": "1",
+      "stepDescription": "Verify Summary Print Report page title.Capture screenshot.",
+      "expectedResult": "User is able to verify Summary Print Report page title.",
+      "actualResultPass": "User was able to verify Summary Print Report page title.",
+      "actualResultFail": "User was not able to verify Summary Print Report page title."
+    }
+  ]
+}

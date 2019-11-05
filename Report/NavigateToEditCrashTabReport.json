@@ -1,0 +1,13 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to navigate to crash tab from edit crash screen ",
+      "stepName": "1",
+      "stepDescription": "Click on crash tab.Capture screenshot.",
+      "expectedResult": "User is able to click crash tab.",
+      "actualResultPass": "User was able to click crash tab.",
+      "actualResultFail": "User was not able to click crash tab."
+    }
+  ]
+}
+

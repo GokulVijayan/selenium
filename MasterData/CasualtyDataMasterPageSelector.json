@@ -1,0 +1,64 @@
+{
+  "Master": [
+    {
+      "apiKey": "CasualtyReferenceNumber",
+      "selector": "injuryRefNo",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "CasualtyName",
+      "selector": "injuredPersonName",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "VehicleReferenceNumber",
+      "selector": "vehicleReferenceNo",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "CasualtyServiceOrStatusId",
+      "selector": "injuredPersonStatusDropDownIcon",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "CasualtyAddress",
+      "selector": "injuredPersonAddress",
+      "propertyTypeId": 3,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "CasualtyClassId",
+      "selector": "casualtyClassDropDown",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "CasualtyStaffNumber",
+      "selector": "injuredPersonServiceStaffNumber",
+      "propertyTypeId": 2,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "CasualtySeverityId",
+      "selector": "injuryType",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "PositionInVehicleId",
+      "selector": "positionInVehicle",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    },
+    {
+      "apiKey": "SeatBeltStatusId",
+      "selector": "seatBeltStatus",
+      "propertyTypeId": 6,
+      "isMandatory": false
+    }
+  ]
+}

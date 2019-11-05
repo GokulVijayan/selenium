@@ -1,0 +1,79 @@
+{
+  "TestReportSteps": [
+
+    {
+      "testObjective": "Verify that user is able to delete a crash record.",
+      "stepName": "1",
+      "stepDescription": "Click on Cancel button.",
+      "expectedResult": "User is able to click on Cancel button.",
+      "actualResultPass": "User was able to click on Cancel button.",
+      "actualResultFail": "User was not able to click on Cancel button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Click Delete button.",
+      "expectedResult": "User is able to click Delete button.",
+      "actualResultPass": "User was able to click Delete button.",
+      "actualResultFail": "User was not able to click Delete button."
+    },
+
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Click Yes button.",
+      "expectedResult": "User is able to click Yes button.",
+      "actualResultPass": "User was able to click Yes button.",
+      "actualResultFail": "User was not able to click Yes button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "4",
+      "stepDescription": "Verify toast message 'The record was deleted'.Capture screenshot.",
+      "expectedResult": "User is able to verify toast message 'The record was deleted'.",
+      "actualResultPass": "User was able to verify toast message 'The record was deleted'.",
+      "actualResultFail": "User was not able to verify toast message 'The record was deleted'."
+    },
+    {
+      "testObjective": "",
+      "stepName": "5",
+      "stepDescription": "Click on Search button.",
+      "expectedResult": "User is able to click Search button.",
+      "actualResultPass": "User was able to click Search button.",
+      "actualResultFail": "User was not able to click Search button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "6",
+      "stepDescription": "Enter search criteria.",
+      "expectedResult": "User is able to enter search criteria.",
+      "actualResultPass": "User was able to enter search criteria.",
+      "actualResultFail": "User was not able to enter search criteria."
+    },
+
+    {
+      "testObjective": "",
+      "stepName": "7",
+      "stepDescription": "Click Search icon.",
+      "expectedResult": "User is able to click Search icon.",
+      "actualResultPass": "User was able to click Search icon.",
+      "actualResultFail": "User was not able to click Search icon."
+    },
+    {
+      "testObjective": "",
+      "stepName": "8",
+      "stepDescription": "Verify pop up message 'No records found'.Capture screenshot",
+      "expectedResult": "User is able to verify pop up message 'No records found'.",
+      "actualResultPass": "User was able to verify pop up message 'No records found'.",
+      "actualResultFail": "User was not able to verify pop up message 'No records found'."
+    },
+    {
+      "testObjective": "",
+      "stepName": "9",
+      "stepDescription": "Click OK button.",
+      "expectedResult": "User is able to click OK button.",
+      "actualResultPass": "User was able to click OK button.",
+      "actualResultFail": "User was not able to click OK button."
+    }
+  ]
+}

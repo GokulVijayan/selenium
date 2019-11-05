@@ -1,0 +1,52 @@
+[
+  {
+    "key": "CasualtyReferenceNumber",
+    "value": "CasualtyReferenceNumber",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "CasualtyName",
+    "value": "CasualtyName",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "VehicleReferenceNumber",
+    "value": "VehicleReferenceNumber",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "CasualtyServiceOrStatusId",
+    "value": "CasualtyServiceOrStatusId",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "CasualtyAddress",
+    "value": "CasualtyAddress",
+    "propertyTypeId": 3
+  },
+  {
+    "key": "CasualtyClassId",
+    "value": "CasualtyClassId",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "CasualtyStaffNumber",
+    "value": "CasualtyStaffNumber",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "CasualtySeverityId",
+    "value": "CasualtySeverityId",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "PositionInVehicleId",
+    "value": "PositionInVehicleId",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "SeatBeltStatusId",
+    "value": "SeatBeltStatusId",
+    "propertyTypeId": 6
+  }
+]

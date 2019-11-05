@@ -1,0 +1,28 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that logout functionality is working as expected.",
+      "stepName": "1",
+      "stepDescription": "Click profile button.",
+      "expectedResult": "User is able to click profile button.",
+      "actualResultPass": "User was able to click profile button.",
+      "actualResultFail": "User was not able to click profile button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Click logout button.",
+      "expectedResult": "User is able to click logout button.",
+      "actualResultPass": "User was able to click logout button.",
+      "actualResultFail": "User was not able to click logout button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Verify that login page is found. Capture Screenshot.",
+      "expectedResult": "User is able to verify that login page is found.",
+      "actualResultPass": "User was able to verify that login page is found.",
+      "actualResultFail": "User was not able to verify that login page is found."
+    }
+  ]
+}

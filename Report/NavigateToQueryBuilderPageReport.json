@@ -1,0 +1,20 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that navigate to query builder page functionality is working as expected.",
+      "stepName": "1",
+      "stepDescription": "Click query builder button.",
+      "expectedResult": "User is able to click query builder button.",
+      "actualResultPass": "User was able to click query builder button.",
+      "actualResultFail": "User was not able to click query builder button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Verify that query builder page is found. Capture Screenshot.",
+      "expectedResult": "User is able to verify that query builder page is found.",
+      "actualResultPass": "User was able to verify that query builder page is found.",
+      "actualResultFail": "User was not able to verify that query builder page is found."
+    }
+  ]
+}

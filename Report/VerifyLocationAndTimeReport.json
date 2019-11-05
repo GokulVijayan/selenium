@@ -1,0 +1,13 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to navigate to Choose Location and Time page.",
+      "stepName": "1",
+      "stepDescription": "Verify Choose Location and Time title.Capture screenshot.",
+      "expectedResult": "User is able to verify Choose Location and Time title.",
+      "actualResultPass": "User was able to verify Choose Location and Time title.",
+      "actualResultFail": "User was not able to verify Choose Location and Time title."
+    }
+  ]
+}
+

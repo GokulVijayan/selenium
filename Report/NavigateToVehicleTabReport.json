@@ -1,0 +1,13 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to navigate to vehicle tab ",
+      "stepName": "1",
+      "stepDescription": "Click on vehicle tab.Capture screenshot.",
+      "expectedResult": "User is able to click vehicle tab.",
+      "actualResultPass": "User was able to click vehicle tab.",
+      "actualResultFail": "User was not able to click vehicle tab."
+    }
+  ]
+}
+

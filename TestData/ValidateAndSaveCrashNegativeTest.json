@@ -1,0 +1,25 @@
+﻿{
+"TestData": [
+  {
+    "driverService": "ARMY",
+    "injuredPersonName": "Akhil",
+    "injuredPersonStatusDropDownIcon": "RN/RM",
+    "injuryRefNo": "66",
+    "toastMsg": "The record was saved successfully.",
+    "totalMilesOnduty": "4",
+    "totalTimeOnduty": "00:02",
+    "trafficCondition": "LIGHT",
+    "uinCorrectOrNot": "Yes",
+    "underInstructionAtCrash": "Yes",
+    "unitMod": "99",
+    "username": "ReshmaPradeep",
+	  "password": "Trl@123456",
+    "validateErrorMsg": "Vehicle reference number is missing for one or more vehicles",
+    "vehicleRegistartionNo": "VR001",
+    "vehicleRegistrationNo(VRN)": "VR094",
+    "verifyCrashRefLabel": "Crash Ref. No",
+    "verifyDeleteText": "The record was deleted.",
+    "verifyLogoutText": "Logout You are now logged out."
+  }
+  ]
+}

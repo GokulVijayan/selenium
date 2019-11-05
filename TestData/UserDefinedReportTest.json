@@ -1,0 +1,25 @@
+{
+  "TestData": [
+    {
+      "username": "ReshmaPradeep",
+      "password": "Trl@123456",
+      "menuItem": "Summary Print Report",
+      "verifyLogoutText": "Logout You are now logged out.",
+      "crashDetailsTitle": "CRASH DETAILS",
+      "crashIdTitleInCrashDetails": "Crash Id",
+      "crashRefNoTitleInCrashDetails": "Crash Ref. No",
+      "vehicleDetailsTitle": "VEHICLE DETAILS",
+      "crashIdTitleInVehicleDetails": "Crash Id",
+      "VRNTitleInVehicleDetails": "Vehicle Registration No (VRN)",
+      "casualtyDetailsTitle": "CASUALTY DETAILS",
+      "crashIdTitleInCasualtyDetails": "Crash Id",
+      "injuryRefNoTitleInCasualtyDetails": "Injury Reference No",
+      "vehicleReferenceNumber1": "1",
+      "vehicleRegistartionNo": "126",
+      "injuryRefNo": "23",
+      "vehicleReferenceNo": "1",
+      "casualtyClassDropDown": "Driver or rider",
+      "toastMsg": "The record was saved successfully."
+    }
+  ]
+}

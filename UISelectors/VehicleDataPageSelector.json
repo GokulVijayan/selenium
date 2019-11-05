@@ -1,0 +1,122 @@
+[
+  {
+    "key": "PlateNumber",
+    "value": "PlateNumber",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "DrivingPositionId",
+    "value": "DrivingPositionId",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "VehicleReferenceNumber",
+    "value": "VehicleReferenceNumber",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "AssetCode",
+    "value": "AssetCode",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "VehicleTypeId",
+    "value": "VehicleTypeId",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "AssetDescription",
+    "value": "AssetDescription",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "VehicleUINStatusId",
+    "value": "VehicleUINStatusId",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "VehicleUIN",
+    "value": "VehicleUIN",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "VehicleOwnershipId",
+    "value": "VehicleOwnershipId",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "VehicleMannedId",
+    "value": "VehicleMannedId",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "VehicleHireNumber",
+    "value": "VehicleHireNumber",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "ThirdPartyName",
+    "value": "ThirdPartyName",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "ThirdPartyContactNumber",
+    "value": "ThirdPartyContactNumber",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "ThirdPartyPropertyId",
+    "value": "ThirdPartyPropertyId",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "ThirdPartyAddress",
+    "value": "ThirdPartyAddress",
+    "propertyTypeId": 3
+  },
+  {
+    "key": "DriverPostcode",
+    "value": "DriverPostcode",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "ThirdPartyInsuranceCompanyName",
+    "value": "ThirdPartyInsuranceCompanyName",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "ThirdPartyInsurancePolicyNumber",
+    "value": "ThirdPartyInsurancePolicyNumber",
+    "propertyTypeId": 2
+  },
+  {
+    "key": "ThirdPartyVehicleStatusId",
+    "value": "ThirdPartyVehicleStatusId",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "ThirdPartyVehicleInitialImpactStatusId",
+    "value": "ThirdPartyVehicleInitialImpactStatusId",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "ThirdPartyBumpCardStatusId",
+    "value": "ThirdPartyBumpCardStatusId",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "ResponsibilityStatusId",
+    "value": "ResponsibilityStatusId",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "ThirdPartyResponsibilityStatusId",
+    "value": "ThirdPartyResponsibilityStatusId",
+    "propertyTypeId": 6
+  },
+  {
+    "key": "NumberOfPeopleInVehicle",
+    "value": "NumberOfPeopleInVehicle",
+    "propertyTypeId": 1
+  }
+]

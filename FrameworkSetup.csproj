@@ -1,0 +1,88 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <GenerateProgramFile>false</GenerateProgramFile>
+    <PublishChromeDriver>true</PublishChromeDriver>
+    <ApplicationIcon />
+    <StartupObject />
+    <ProjectGuid>51c572e8-3662-4d88-b79b-a74cd208091d</ProjectGuid>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Report\AddCasualtyDetailsForSummaryPrintReport.json" />
+    <None Remove="Report\AddVehicleDetailsForSummaryPrintReport.json" />
+    <None Remove="Report\ApplyFilterAndRunSummaryPrintReport.json" />
+    <None Remove="Report\ApplyFilterInUserDefinedReport.json" />
+    <None Remove="Report\ClickOnAddNewButtonReport.json" />
+    <None Remove="Report\EnterCrashDetailsWithoutAllMandatoryFieldsReport.json" />
+    <None Remove="Report\EnterVehicleDetailsAndVerifyToastReport.json" />
+    <None Remove="Report\NavigateToCasualtyTabReport.json" />
+    <None Remove="Report\NavigateToScreenFromHamburgerMenuReport.json" />
+    <None Remove="Report\NavigateToVehicleTabReport.json" />
+    <None Remove="Report\RetrieveCrashCountFromUserDefinedReport.json" />
+    <None Remove="Report\RunSummaryPrintReport.json" />
+    <None Remove="TestData\VerifyValidationMsgTest.json" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Folder Include="Results\Report\" />
+    <Folder Include="WebDrivers\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DotNetSeleniumExtras.PageObjects" Version="3.11.0" />
+    <PackageReference Include="DotNetSeleniumExtras.PageObjects.Core" Version="3.12.0" />
+    <PackageReference Include="DotNetSeleniumExtras.WaitHelpers" Version="3.11.0" />
+    <PackageReference Include="log4net" Version="2.0.8" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="3.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="2.2.0" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.9.0" />
+    <PackageReference Include="Microsoft.TestPlatform.TestHost" Version="16.2.0" />
+    <PackageReference Include="NUnit" Version="3.12.0" />
+    <PackageReference Include="NUnit.ConsoleRunner" Version="3.10.0" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.13.0" />
+    <PackageReference Include="RestSharp" Version="106.6.10" />
+    <PackageReference Include="Selenium.Support" Version="3.11.2" />
+    <PackageReference Include="Selenium.WebDriver" Version="3.141.0" />
+    <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="2.40.0" />
+    <PackageReference Include="System.Collections" Version="4.3.0" />
+    <PackageReference Include="System.Collections.Concurrent" Version="4.3.0" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.5.0" />
+    <PackageReference Include="System.Drawing.Common" Version="4.5.1" />
+    <PackageReference Include="WebDriverIEDriver" Version="2.45.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Report\AddCasualtyDetailsForSummaryPrintReport.json" />
+    <EmbeddedResource Include="Report\AddVehicleDetailsForSummaryPrintReport.json" />
+    <EmbeddedResource Include="Report\ClickOnAddNewButtonReport.json" />
+    <EmbeddedResource Include="Report\RunSummaryPrintReport.json" />
+    <EmbeddedResource Include="Report\NavigateToCasualtyTabReport.json" />
+    <EmbeddedResource Include="Report\NavigateToVehicleTabReport.json" />
+    <EmbeddedResource Include="Report\RetrieveCrashCountFromUserDefinedReport.json" />
+    <EmbeddedResource Include="Report\ApplyFilterInUserDefinedReport.json" />
+    <EmbeddedResource Include="Report\ApplyFilterAndRunSummaryPrintReport.json" />
+    <EmbeddedResource Include="Report\EnterCrashDetailsWithoutAllMandatoryFieldsReport.json" />
+    <EmbeddedResource Include="Report\EnterVehicleDetailsAndVerifyToastReport.json" />
+    <EmbeddedResource Include="Report\NavigateToScreenFromHamburgerMenuReport.json" />
+    <EmbeddedResource Include="TestData\VerifyValidationMsgTest.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Ex-haft">
+      <HintPath>bin\Debug\netcoreapp2.2\Ex-haft.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="WebDrivers\chromedriver.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+ 
+
+
+</Project>

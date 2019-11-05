@@ -1,0 +1,28 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that select form fields from query builder page functionality is working as expected.",
+      "stepName": "1",
+      "stepDescription": "Select Option.",
+      "expectedResult": "User is able to select option.",
+      "actualResultPass": "User was able to select option.",
+      "actualResultFail": "User was not able to select option."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Select Form Field. Capture Screenshot.",
+      "expectedResult": "User is able to select form field.",
+      "actualResultPass": "User was able to select form field.",
+      "actualResultFail": "User was not able to select form field."
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Click on down arrow.",
+      "expectedResult": "User is able to click on down arrow.",
+      "actualResultPass": "User was able to click on down arrow.",
+      "actualResultFail": "User was not able to click on down arrow."
+    }
+  ]
+}

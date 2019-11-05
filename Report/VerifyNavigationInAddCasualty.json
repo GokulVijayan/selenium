@@ -1,0 +1,20 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that navigation is working properly in add casualty screen.",
+      "stepName": "1",
+      "stepDescription": "Verify user is able to click on back button.",
+      "expectedResult": "User is able to click on back button.",
+      "actualResultPass": "User was able to click on back button.",
+      "actualResultFail": "User was not able to click on back button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "View screen name.Capture Screenshot",
+      "expectedResult": "User is able to view screen name.",
+      "actualResultPass": "User was able to view screen name.",
+      "actualResultFail": "User was not able to view screen name."
+    }
+  ]
+}

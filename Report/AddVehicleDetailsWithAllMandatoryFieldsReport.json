@@ -1,0 +1,28 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to enter details in mandatory fields of vehicle form.",
+      "stepName": "1",
+      "stepDescription": "Click Vehicle Tab",
+      "expectedResult": "User is able to click Vehicle Tab",
+      "actualResultPass": "User was able to click Vehicle Tab",
+      "actualResultFail": "User was not able to click Vehicle Tab"
+    },
+	{
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Enter vehicle registration no.",
+      "expectedResult": "User is able to enter vehicle registration no.",
+      "actualResultPass": "User was able to enter vehicle registration no.",
+      "actualResultFail": "User was not able to enter vehicle registration no."
+    },
+	{
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Enter vehicle ref no.",
+      "expectedResult": "User is able to enter vehicle ref no.",
+      "actualResultPass": "User was able to enter vehicle ref no.",
+      "actualResultFail": "User was not able to enter vehicle ref no."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "profileIcon": "//div[@class='avatar-container']",
+  "hamburgerMenu": "nav-icon2",
+  "plusBtn": "//button[@class='trl-c-btn trl-c-btn--alternate trl-c-btn--alternate--icon']//i[@class='trl-icn-plus']",
+  "continueBtn": "//button[@class='swal2-confirm swal2-styled']",
+  "verifyARF": "//div[@class='trl-c-full-data-viewer__wrapper trl-c-arf-def__wrapper']//li[@class='nav-item active']//a[1]",
+  "mapView": "//*[@id='basemap']/div/canvas"
+}
+  

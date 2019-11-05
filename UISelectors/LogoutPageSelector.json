@@ -1,0 +1,5 @@
+{
+  "profileBtn": "//a[@class='dropdown-toggle']//ngx-avatar",
+  "logoutBtn": "//i[@class='trl-icn-logout']",
+  "verifyLogoutText": "//h1[contains(text(),'Logout')]"
+}

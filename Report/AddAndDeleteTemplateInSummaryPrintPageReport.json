@@ -1,0 +1,101 @@
+{
+  "TestReportSteps": [
+    {
+
+      "testObjective": "Verify that user is able to add and delete template from summary print report page.",
+      "stepName": "1",
+      "stepDescription": "Click on save template button.",
+      "expectedResult": "User is able to click on save template button.",
+      "actualResultPass": "User was able to click on save template button.",
+      "actualResultFail": "User was not able to click on save template button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Enter template name.Capture screenshot.",
+      "expectedResult": "User is able to enter template name.",
+      "actualResultPass": "User was able to enter template name.",
+      "actualResultFail": "User was not able to enter template name."
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Click on save button.Capture Screenshot",
+      "expectedResult": "User is able to click on save button.",
+      "actualResultPass": "User was able to click on save button.",
+      "actualResultFail": "User was not able to click on save button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "4",
+      "stepDescription": "Verify Toast Message.",
+      "expectedResult": "User is able to verify toast message.",
+      "actualResultPass": "User was able to verify toast message.",
+      "actualResultFail": "User was not able to verify toast message."
+    },
+    {
+      "testObjective": "",
+      "stepName": "5",
+      "stepDescription": "Verify Template name header.",
+      "expectedResult": "User is able to verify template name header.",
+      "actualResultPass": "User was able to verify template name header.",
+      "actualResultFail": "User was not able to verify template name header."
+    },
+    {
+      "testObjective": "",
+      "stepName": "6",
+      "stepDescription": "Click on open templates button.Capture Screenshot",
+      "expectedResult": "User is able to click on open templates button.",
+      "actualResultPass": "User was able to click on open templates button.",
+      "actualResultFail": "User was not able to click on open templates button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "7",
+      "stepDescription": "Select template name.",
+      "expectedResult": "User is able to select template name.",
+      "actualResultPass": "User was able to select template name.",
+      "actualResultFail": "User was not able to select template name."
+    },
+    {
+      "testObjective": "",
+      "stepName": "8",
+      "stepDescription": "Click on open button.",
+      "expectedResult": "User is able to click on open button.",
+      "actualResultPass": "User was able to click on open button.",
+      "actualResultFail": "User was not able to click on open button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "9",
+      "stepDescription": "Click on delete button.Capture Screenshot",
+      "expectedResult": "User is able to click on delete button.",
+      "actualResultPass": "User was able to click on delete button.",
+      "actualResultFail": "User was not able to click on delete button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "10",
+      "stepDescription": "Click on yes button.Capture Screenshot",
+      "expectedResult": "User is able to click on yes button.",
+      "actualResultPass": "User was able to click on yes button.",
+      "actualResultFail": "User was not able to click on yes button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "11",
+      "stepDescription": "Verify Toast Message.",
+      "expectedResult": "User is able to verify toast message.",
+      "actualResultPass": "User was able to verify toast message.",
+      "actualResultFail": "User was not able to verify toast message."
+    },
+    {
+      "testObjective": "",
+      "stepName": "12",
+      "stepDescription": "Click on close button.",
+      "expectedResult": "User is able to click on close button.",
+      "actualResultPass": "User was able to click on close button.",
+      "actualResultFail": "User was not able to click on close button."
+    }
+  ]
+}

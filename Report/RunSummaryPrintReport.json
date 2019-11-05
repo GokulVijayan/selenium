@@ -1,0 +1,13 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that user is able to run the summary print report ",
+      "stepName": "1",
+      "stepDescription": "Click on run button.Capture screenshot.",
+      "expectedResult": "User is able to click on run button.",
+      "actualResultPass": "User was able to click on run button.",
+      "actualResultFail": "User was not able to click on run button."
+    }
+  ]
+}
+

@@ -1,0 +1,36 @@
+{
+  "TestReportSteps": [
+    {
+      "testObjective": "Verify that summary page report export to word functionality is working as expected.",
+      "stepName": "1",
+      "stepDescription": "Click on save button.",
+      "expectedResult": "User is able to click on save button. ",
+      "actualResultPass": "User was able to click on save button. ",
+      "actualResultFail": "User was not able to click on save button. "
+    },
+    {
+      "testObjective": "",
+      "stepName": "2",
+      "stepDescription": "Select Word Format.",
+      "expectedResult": "User is able to select Word format.",
+      "actualResultPass": "User was able to select Word format.",
+      "actualResultFail": "User was not able to select Word format."
+    },
+    {
+      "testObjective": "",
+      "stepName": "3",
+      "stepDescription": "Click Ok button.",
+      "expectedResult": "User is able to click Ok button.",
+      "actualResultPass": "User was able to click Ok button.",
+      "actualResultFail": "User was not able to click Ok button."
+    },
+    {
+      "testObjective": "",
+      "stepName": "4",
+      "stepDescription": "Verify the report has been exported.",
+      "expectedResult": "User is able to verify report has been exported.",
+      "actualResultPass": "User was able to verify report has been exported.",
+      "actualResultFail": "User was not able to verify report has been exported."
+    }
+  ]
+}
